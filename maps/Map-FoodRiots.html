@@ -1,0 +1,73 @@
+<html>
+  <head>
+    <title>Food riots, 1734-1943</title>
+    <link rel="stylesheet" href="http://www.simile-widgets.org/styles/common.css" type="text/css" />
+    
+    <link href="simile.js" type="application/json" rel="exhibit-data" />
+    
+    <link rel="exhibit-extension" type="text/javascript" href="http://api.simile-widgets.org/exhibit/3.0.0/extensions/map/map-extension.js" />
+
+    <script src="http://api.simile-widgets.org/exhibit/3.0.0/exhibit-api.js"></script>
+    
+    
+  </head>
+  <body>
+    <ul id="path">
+      <li><a href="/">SIMILE Widgets</a></li>
+      <li><a href="/exhibit3/">Exhibit 3.0</a></li>
+      <li><span>Density of Events</span></li>
+    </ul>
+    <div id="header">
+        <h1>Food Riots in the Middle East Between 1734 and 1943</h1>
+        <p style="width: 35em;">
+            Using <a href="http://simile.mit.edu/exhibit3/">Exhibit</a>.
+        </p>
+    </div>
+    <div id="content">
+        <div ex:role="coder" ex:coderClass="ColorGradient" id="events-color"
+           ex:gradientPoints="1, #FF0000; 30, #FF0000"></div>
+        <div ex:role="coder" ex:coderClass="SizeGradient" id="events-size"
+           ex:gradientPoints="1, 10; 5,30; 30,60"></div>
+        <div ex:role="coder" ex:coderClass="Icon" id="events-icon"></div>
+        
+            <table width="100%">
+        <tr valign="top">
+            <td style="width:15%">
+                <div ex:role="facet" ex:facetClass="TextSearch" ex:facetLabel="Search"></div>
+                <div ex:role="facet" ex:expression=".type" ex:facetLabel="Location type"></div>
+                <div ex:role="facet" ex:expression=".label" ex:facetLabel="Location"></div>
+                <div ex:role="facet" ex:expression=".eventType" ex:facetLabel="Event type"></div>
+            </td>
+            <td ex:role="viewPanel">
+                <div ex:role="view"
+            ex:viewClass="Map"
+            ex:label="events"
+            ex:latlng=".latlng"
+            ex:sizeKey=".events"
+            ex:sizeCoder="events-size"
+            ex:colorKey=".events"
+            ex:colorCoder="events-color"
+            ex:shape="circle"
+            ex:sizeLegendLabel="Events"
+            ex:colorLegendLabel="Events"
+            ex:center="33.509166, 36.310154"
+            ex:zoom="5"
+            ex:mapHeight="580"
+            ex:showHeader="false"
+            >
+            <div class="map-lens" ex:role="lens" style="display: none;">
+                <div><b ex:content=".label"></b></div>
+                <div><span ex:content=".events"></span> reports on "<span ex:content=".eventType"></span>".</div>
+            </div>
+        </div>
+            </td>
+            <td style="width:15%">
+            <div ex:role="view" ex:viewClass="Tabular" ex:showToolbox="false" ex:columns=".label, .events" ex:sortColumn="1" ex:sortAscending="false" ex:cellPadding="0" ex:cellSpacing="0" ex:border="1" style="max-width:200px;"></div>
+            </td>
+        </tr>
+    </table>
+        
+    </div>
+     
+  </body>
+</html>
