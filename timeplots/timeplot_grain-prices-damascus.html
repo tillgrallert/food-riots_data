@@ -61,6 +61,7 @@
             
             var eventSource1 = new Timeplot.DefaultEventSource();
         	var eventSource2 = new Timeplot.DefaultEventSource();
+            // select columns of the CSV data as data sources. Note that the first column, containing the data is counted as 0
         	var dataSource1 = new Timeplot.ColumnSource(eventSource1,3);
         	var dataSource2 = new Timeplot.ColumnSource(eventSource1,5);
             // this computes the average values for both columns
