@@ -55,15 +55,15 @@
                 gridColor: gridColor,
                 axisLabelsPlacement: "left",
                 gridType: "long",
-                max: 85,
-                min: 10
+                min: 0,
+                max: 10
             });
             
             var eventSource1 = new Timeplot.DefaultEventSource();
         	var eventSource2 = new Timeplot.DefaultEventSource();
             // select columns of the CSV data as data sources. Note that the first column, containing the data is counted as 0
-        	var dataSource1 = new Timeplot.ColumnSource(eventSource1,4);
-        	var dataSource2 = new Timeplot.ColumnSource(eventSource1,7);
+        	var dataSource1 = new Timeplot.ColumnSource(eventSource1,7);
+        	var dataSource2 = new Timeplot.ColumnSource(eventSource1,10);
             // this computes the average values for both columns
             var avgDataSource2 = new Timeplot.Processor(dataSource2,Timeplot.Operator.average, { size: 5 });
             var avgDataSource1 = new Timeplot.Processor(dataSource1,Timeplot.Operator.average, { size: 3 });
