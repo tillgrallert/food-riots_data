@@ -55,15 +55,15 @@
                 gridColor: gridColor,
                 axisLabelsPlacement: "left",
                 gridType: "long",
-                max: 85,
-                min: 10
+                min: 0,
+                max: 70
             });
             
             var eventSource1 = new Timeplot.DefaultEventSource();
         	var eventSource2 = new Timeplot.DefaultEventSource();
             // select columns of the CSV data as data sources. Note that the first column, containing the data is counted as 0
-        	var dataSource1 = new Timeplot.ColumnSource(eventSource1,3);
-        	var dataSource2 = new Timeplot.ColumnSource(eventSource1,5);
+        	var dataSource1 = new Timeplot.ColumnSource(eventSource1,7);
+        	var dataSource2 = new Timeplot.ColumnSource(eventSource1,10);
             // this computes the average values for both columns
             var avgDataSource2 = new Timeplot.Processor(dataSource2,Timeplot.Operator.average, { size: 5 });
             var avgDataSource1 = new Timeplot.Processor(dataSource1,Timeplot.Operator.average, { size: 3 });
@@ -130,7 +130,7 @@
             timeplot1 = Timeplot.create(document.getElementById("timeplot1"), plotInfo1);
             // this line loads the price data from a CSV file. At the moment I have no idea why relative paths do not work upwards
             // timeplot1.loadText("data/timeplot-data_grain-prices.txt", ";", eventSource1);
-            timeplot1.loadText("data/prices_wheat-kile.csv", ",", eventSource1);
+            timeplot1.loadText("data/prices_wheat-kile-1877-1916.csv", ",", eventSource1);
             // this line loads the singular events from an XML file. It can be commented out.
             timeplot1.loadXML("data/timeline-data_food-riots-2015-10-08.xml", eventSource2);
         }            
