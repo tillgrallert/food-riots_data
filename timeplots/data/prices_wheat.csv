@@ -1,4 +1,4 @@
-date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2,
+date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2, commodity-3, quantity-3, unit-3,
 1877-10-18,E3B44645-F210-4D6E-92FA-136A064A1F9E,the kile (cift) of wheat now costs between Ps 35 and Ps 42,wheat,1,kile,currency,35,ops,currency,42,ops,
 1877-12-17,7D851B0E-E902-4C28-BF80-819206920120,42 q per kile for high qualities,wheat,1,kile,currency,42,ops,
 1877-12-17,7D851B0E-E902-4C28-BF80-819206920120,40 for inferior ones,wheat,1,kile,currency,40,ops,
