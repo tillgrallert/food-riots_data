@@ -1,0 +1,173 @@
+<html>
+  <head>
+    <title>flour prices</title>
+    <meta charset="utf-8"></meta>
+    <link rel='stylesheet' href='../../styles.css' type='text/css'></link>
+    
+    <style>
+        body {
+            background-color: #fff;
+            background-image: none;
+        }
+         
+        .label {
+            color: #91AA9D;
+            margin-top: 0.5em;
+            padding: 0.1em;
+            font-family: 'verdana', 'helvetica', sans serif;
+        }        
+        
+        .timeplot-grid-label {
+            color: #333;
+            font-family: 'verdana', 'helvetica', sans serif;
+            font-size: 9px !important;
+        }
+        
+        .sources {
+            font-size: 90%;
+        }
+    </style>
+    
+    <!-- For your own use, replace ../../api/timeplot-api.js with http://api.simile-widgets.org/timeplot/1.1/timeplot-api.js -->
+    <script type="text/javascript" src="http://api.simile-widgets.org/timeplot/1.1/timeplot-api.js"></script>
+
+    <script>
+        var timeplot1;
+        var plotInfo1;
+        
+        var fill = new Timeplot.Color('#D1DBBD');
+        fill.transparency(0.75);
+        var line = new Timeplot.Color('#193441');
+        var event = new Timeplot.Color('#cc0000');
+
+        var gridColor  = new Timeplot.Color('#000000');
+
+        function onLoad() {
+
+            var timeGeometry = new Timeplot.DefaultTimeGeometry({
+                gridColor: gridColor,
+                axisLabelsPlacement: "top",
+                min: 0,
+                max: 1
+            });
+
+            var geometry = new Timeplot.DefaultValueGeometry({
+                gridColor: gridColor,
+                axisLabelsPlacement: "left",
+                gridType: "long",
+                min: 0,
+                max: 3
+            });
+            
+            var eventSource1 = new Timeplot.DefaultEventSource();
+        	var eventSource2 = new Timeplot.DefaultEventSource();
+            // select columns of the CSV data as data sources. Note that the first column, containing the data is counted as 0
+            // min or only price
+        	var dataSource1 = new Timeplot.ColumnSource(eventSource1,7);
+            // max price
+        	var dataSource2 = new Timeplot.ColumnSource(eventSource1,10);
+            // this computes the average values for both columns
+            var avgDataSource1 = new Timeplot.Processor(dataSource1,Timeplot.Operator.average, { size: 5 });
+            var avgDataSource2 = new Timeplot.Processor(dataSource2,Timeplot.Operator.average, { size: 5 });
+            
+            plotInfo1 = [
+                Timeplot.createPlotInfo({
+                    id: "Min",
+                    dataSource: dataSource1,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    // if set to false, no line will be displayed
+                    lineColor: false,
+                    dotColor: '#2ec300',
+                    dotSize: 15,
+                    fillColor: false,
+                    fillGradient: false,
+                    // showValues toggles the display
+                    showValues: true
+                }),
+                Timeplot.createPlotInfo({
+                    id: "Max",
+                    dataSource: dataSource2,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    //lineColor: '#ff2712',
+                    lineColor: false,
+                    dotColor: '#ff2712',
+                    dotSize: 15,
+                    fillColor: false,
+                    fillGradient: false,
+                    showValues: true
+                }),
+                //the AvgMax should be drawn first as it will otherwise obscure the view of the AvgMin
+                Timeplot.createPlotInfo({
+                    id: "AvgMax",
+                    dataSource: avgDataSource2,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    lineColor: '#ff2712',
+                    dotColor: false,
+                    fillColor: '#ff2712',
+                    fillGradient: '#ff2712',
+                    showValues: true
+                }),
+                Timeplot.createPlotInfo({
+                    id: "AvgMin",
+                    dataSource: avgDataSource1,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    lineColor: '#2ec300',
+                    dotColor: false,
+                    fillColor: '#2ec300',
+                    fillGradient: '#2ec300',
+                    showValues: true
+                }),
+                Timeplot.createPlotInfo({
+      			id: "Events",
+      			timeGeometry: timeGeometry,
+      			eventSource: eventSource2,
+      			lineColor: event
+      			})                          
+            ];
+            
+            timeplot1 = Timeplot.create(document.getElementById("timeplot1"), plotInfo1);
+            // this line loads the price data from a CSV file. At the moment I have no idea why relative paths do not work upwards
+            // timeplot1.loadText("data/timeplot-data_grain-prices.txt", ";", eventSource1);
+            timeplot1.loadText("data/prices_flour-kg-1878-1915.csv", ",", eventSource1);
+            // this line loads the singular events from an XML file. It can be commented out.
+            timeplot1.loadXML("data/timeline-data_food-riots-2015-10-08.xml", eventSource2);
+        }            
+        
+        function toggle() {
+            var checkbox = document.getElementById("toggleDataDisplay");
+            plotInfo1[0,1,2,3].showValues = checkbox.checked;
+            timeplot1.update();
+        }
+        
+        var resizeTimerID = null;
+        function onResize() {
+            if (resizeTimerID == null) {
+                resizeTimerID = window.setTimeout(function() {
+                    resizeTimerID = null;
+                    if (timeplot1) timeplot1.repaint();
+                }, 0);
+            }
+        }
+    </script>
+  </head>
+  <body onload="onLoad();" onresize="onResize();">
+    <ul id="path">
+      <li><a href="http://www.simile-widgets.org/">SIMILE Widgets</a></li>
+      <li><a href="http://www.simile-widgets.org/timeplot/">Timeplot</a></li>
+      <li><span>Grain prices in Damascus</span></li>
+    </ul>
+
+    <div id="header">
+    	<h1>Grain prices in Damascus (piaster)</h1>
+    </div>
+    <div id="content">
+        <div id="timeplot1" style="height: 500px" class="timeplot"></div>
+        <p style="float: right">Show values on the mouse location<input id="toggleDataDisplay" type="checkbox" checked="true" onchange="toggle()"/></p>
+        <p>Some source information would be nice</p>
+    </div>
+  </body>
+</html>
