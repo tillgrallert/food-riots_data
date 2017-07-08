@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>SIMILE Widgets | Timeplot | Examples | Grain prices in Damascus</title>
+    <title>wheat prices</title>
     <meta charset="utf-8"></meta>
     <link rel='stylesheet' href='../../styles.css' type='text/css'></link>
     
@@ -39,20 +39,25 @@
         fill.transparency(0.75);
         var line = new Timeplot.Color('#193441');
         var event = new Timeplot.Color('#cc0000');
+        // colours
+        var v_colorBlack  = new Timeplot.Color('#000000');
+        var v_colorGreen = new Timeplot.Color('#2ec300');
+        var v_colorRed = new Timeplot.Color('#ff2712');
 
-        var gridColor  = new Timeplot.Color('#000000');
 
         function onLoad() {
 
+            // timeGeometry is used for display of event data
             var timeGeometry = new Timeplot.DefaultTimeGeometry({
-                gridColor: gridColor,
+                gridColor: v_colorBlack,
                 axisLabelsPlacement: "top",
-                min: 0,
-                max: 1
+                // interval: 2,
+                // min: 0,
+                // max: 1
             });
-
+            // geometry is used for price data
             var geometry = new Timeplot.DefaultValueGeometry({
-                gridColor: gridColor,
+                gridColor: v_colorBlack,
                 axisLabelsPlacement: "left",
                 gridType: "long",
                 min: 0,
@@ -60,13 +65,15 @@
             });
             
             var eventSource1 = new Timeplot.DefaultEventSource();
-        	var eventSource2 = new Timeplot.DefaultEventSource();
+            var eventSource2 = new Timeplot.DefaultEventSource();
             // select columns of the CSV data as data sources. Note that the first column, containing the data is counted as 0
-        	var dataSource1 = new Timeplot.ColumnSource(eventSource1,7);
-        	var dataSource2 = new Timeplot.ColumnSource(eventSource1,10);
+            // min or only price
+            var dataSource1 = new Timeplot.ColumnSource(eventSource1,7);
+            // max price
+            var dataSource2 = new Timeplot.ColumnSource(eventSource1,10);
             // this computes the average values for both columns
+            var avgDataSource1 = new Timeplot.Processor(dataSource1,Timeplot.Operator.average, { size: 5 });
             var avgDataSource2 = new Timeplot.Processor(dataSource2,Timeplot.Operator.average, { size: 5 });
-            var avgDataSource1 = new Timeplot.Processor(dataSource1,Timeplot.Operator.average, { size: 3 });
             
             plotInfo1 = [
                 Timeplot.createPlotInfo({
@@ -76,8 +83,9 @@
                     valueGeometry: geometry,
                     // if set to false, no line will be displayed
                     lineColor: false,
-                    dotColor: '#2ec300',
-                    dotSize: 15,
+                    // lineColor: v_colorGreen,
+                    dotColor: v_colorBlack,
+                    dotSize: 25,
                     fillColor: false,
                     fillGradient: false,
                     // showValues toggles the display
@@ -88,10 +96,11 @@
                     dataSource: dataSource2,
                     timeGeometry: timeGeometry,
                     valueGeometry: geometry,
-                    //lineColor: '#ff2712',
                     lineColor: false,
-                    dotColor: '#ff2712',
-                    dotSize: 15,
+                    // lineColor: v_colorRed,
+                    // dotColor: v_colorRed,
+                    dotColor: v_colorBlack,
+                    dotSize: 25,
                     fillColor: false,
                     fillGradient: false,
                     showValues: true
@@ -102,10 +111,12 @@
                     dataSource: avgDataSource2,
                     timeGeometry: timeGeometry,
                     valueGeometry: geometry,
-                    lineColor: '#ff2712',
+                    lineColor: false,
+                    // lineColor: v_colorRed,
                     dotColor: false,
-                    fillColor: '#ff2712',
-                    fillGradient: '#ff2712',
+                    fillColor: false,
+                    // fillColor: v_colorRed,
+                    fillGradient: v_colorRed,
                     showValues: true
                 }),
                 Timeplot.createPlotInfo({
@@ -113,10 +124,12 @@
                     dataSource: avgDataSource1,
                     timeGeometry: timeGeometry,
                     valueGeometry: geometry,
-                    lineColor: '#2ec300',
+                    lineColor: false,
+                    // lineColor: v_colorGreen,
                     dotColor: false,
-                    fillColor: '#2ec300',
-                    fillGradient: '#2ec300',
+                    fillColor: false,
+                    // fillColor: v_colorGreen,
+                    fillGradient: v_colorGreen,
                     showValues: true
                 }),
                 Timeplot.createPlotInfo({
@@ -132,7 +145,7 @@
             // timeplot1.loadText("data/timeplot-data_grain-prices.txt", ";", eventSource1);
             timeplot1.loadText("data/prices_wheat-kile-1877-1916.csv", ",", eventSource1);
             // this line loads the singular events from an XML file. It can be commented out.
-            timeplot1.loadXML("data/timeline-data_food-riots-2015-10-08.xml", eventSource2);
+            timeplot1.loadXML("data/timeline-data_food-riots.xml", eventSource2);
         }            
         
         function toggle() {
