@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data date-time-format="iso8601">
+    <!-- no exact date -->
+    <event start="1878-01-01" title="Food riot">Food riot in Baghdad</event>
+    <event start="1878-03-12" stop="1878-03-16" title="Food riot">Food riot in Damascus</event>
+    <!-- no exact date -->
+    <event start="1879-06-01" title="Food riot">Food riot in Baghdad</event>
+    <event start="1880-03-14" title="Food riot">Food riot in Beirut</event>
+    <event start="1908-08-19" title="Food riot">Food riot in Beirut</event>
+    <event start="1908-09-16" title="Food riot">Food riot in Baghdad</event>
+    <!-- no exact date -->
+    <event start="1910-06-15" title="Food riot">Food riot in Aleppo</event>
+    <event start="1910-07-02" title="Food riot">Food riot in Damascus</event>
+    <event start="1910-08-11" title="Food riot">Food riot in Hama</event>
+    <event start="1910-08-13" title="Food riot">Food riot in Homs</event>
+    <event start="1913-02-17" title="Food riot">Food riot in Damascus</event>
+    <event start="1914-11-13" title="Food riot">Food riot in Beirut</event>
+    <event start="1914-11-21" title="Food riot">Food riot in Beirut</event>
+    <event start="1916-02-29" title="Food riot">Food riot in Damascus</event>
+</data>
