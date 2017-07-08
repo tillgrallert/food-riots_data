@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>SIMILE Widgets | Timeplot | Examples | Grain prices in Damascus</title>
+    <title>bread prices</title>
     <meta charset="utf-8"></meta>
     <link rel='stylesheet' href='../../styles.css' type='text/css'></link>
     
@@ -56,17 +56,19 @@
                 axisLabelsPlacement: "left",
                 gridType: "long",
                 min: 0,
-                max: 10
+                max: 4
             });
             
             var eventSource1 = new Timeplot.DefaultEventSource();
         	var eventSource2 = new Timeplot.DefaultEventSource();
             // select columns of the CSV data as data sources. Note that the first column, containing the data is counted as 0
+            // min or only price
         	var dataSource1 = new Timeplot.ColumnSource(eventSource1,7);
+            // max price
         	var dataSource2 = new Timeplot.ColumnSource(eventSource1,10);
             // this computes the average values for both columns
+            var avgDataSource1 = new Timeplot.Processor(dataSource1,Timeplot.Operator.average, { size: 5 });
             var avgDataSource2 = new Timeplot.Processor(dataSource2,Timeplot.Operator.average, { size: 5 });
-            var avgDataSource1 = new Timeplot.Processor(dataSource1,Timeplot.Operator.average, { size: 3 });
             
             plotInfo1 = [
                 Timeplot.createPlotInfo({
@@ -130,7 +132,7 @@
             timeplot1 = Timeplot.create(document.getElementById("timeplot1"), plotInfo1);
             // this line loads the price data from a CSV file. At the moment I have no idea why relative paths do not work upwards
             // timeplot1.loadText("data/timeplot-data_grain-prices.txt", ";", eventSource1);
-            timeplot1.loadText("data/prices_bread-1878-1915.csv", ",", eventSource1);
+            timeplot1.loadText("data/prices_bread-kg-1878-1915.csv", ",", eventSource1);
             // this line loads the singular events from an XML file. It can be commented out.
             timeplot1.loadXML("data/timeline-data_food-riots-2015-10-08.xml", eventSource2);
         }            
