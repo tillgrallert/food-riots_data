@@ -76,35 +76,6 @@
             var avgDataSource2 = new Timeplot.Processor(dataSource2,Timeplot.Operator.average, { size: 5 });
             
             plotInfo1 = [
-                Timeplot.createPlotInfo({
-                    id: "Min",
-                    dataSource: dataSource1,
-                    timeGeometry: timeGeometry,
-                    valueGeometry: geometry,
-                    // if set to false, no line will be displayed
-                    lineColor: false,
-                    // lineColor: v_colorGreen,
-                    dotColor: v_colorBlack,
-                    dotSize: 25,
-                    fillColor: false,
-                    fillGradient: false,
-                    // showValues toggles the display
-                    showValues: true
-                }),
-                Timeplot.createPlotInfo({
-                    id: "Max",
-                    dataSource: dataSource2,
-                    timeGeometry: timeGeometry,
-                    valueGeometry: geometry,
-                    lineColor: false,
-                    // lineColor: v_colorRed,
-                    // dotColor: v_colorRed,
-                    dotColor: v_colorBlack,
-                    dotSize: 25,
-                    fillColor: false,
-                    fillGradient: false,
-                    showValues: true
-                }),
                 //the AvgMax should be drawn first as it will otherwise obscure the view of the AvgMin
                 Timeplot.createPlotInfo({
                     id: "AvgMax",
@@ -137,7 +108,36 @@
       			timeGeometry: timeGeometry,
       			eventSource: eventSource2,
       			lineColor: event
-      			})                          
+      			}),
+                Timeplot.createPlotInfo({
+                    id: "Min",
+                    dataSource: dataSource1,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    // if set to false, no line will be displayed
+                    lineColor: false,
+                    // lineColor: v_colorGreen,
+                    dotColor: v_colorBlack,
+                    dotSize: 25,
+                    fillColor: false,
+                    fillGradient: false,
+                    // showValues toggles the display
+                    showValues: true
+                }),
+                Timeplot.createPlotInfo({
+                    id: "Max",
+                    dataSource: dataSource2,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    lineColor: false,
+                    // lineColor: v_colorRed,
+                    // dotColor: v_colorRed,
+                    dotColor: v_colorBlack,
+                    dotSize: 25,
+                    fillColor: false,
+                    fillGradient: false,
+                    showValues: true
+                }),                  
             ];
             
             timeplot1 = Timeplot.create(document.getElementById("timeplot1"), plotInfo1);
@@ -169,11 +169,11 @@
     <ul id="path">
       <li><a href="http://www.simile-widgets.org/">SIMILE Widgets</a></li>
       <li><a href="http://www.simile-widgets.org/timeplot/">Timeplot</a></li>
-      <li><span>Grain prices in Damascus</span></li>
+      <!-- <li><span>Grain prices in Damascus</span></li> -->
     </ul>
 
     <div id="header">
-    	<h1>Grain prices in Damascus (piaster)</h1>
+    	<h1>Wheat prices per kile in piaster</h1>
     </div>
     <div id="content">
         <div id="timeplot1" style="height: 500px" class="timeplot"></div>

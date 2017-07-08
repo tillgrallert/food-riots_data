@@ -40,19 +40,22 @@
         var line = new Timeplot.Color('#193441');
         var event = new Timeplot.Color('#cc0000');
 
-        var gridColor  = new Timeplot.Color('#000000');
+        // colours
+        var v_colorBlack  = new Timeplot.Color('#000000');
+        var v_colorGreen = new Timeplot.Color('#2ec300');
+        var v_colorRed = new Timeplot.Color('#ff2712');
 
         function onLoad() {
 
             var timeGeometry = new Timeplot.DefaultTimeGeometry({
-                gridColor: gridColor,
+                gridColor: v_colorBlack,
                 axisLabelsPlacement: "top",
-                min: 0,
-                max: 1
+                // min: 0,
+                // max: 1
             });
 
             var geometry = new Timeplot.DefaultValueGeometry({
-                gridColor: gridColor,
+                gridColor: v_colorBlack,
                 axisLabelsPlacement: "left",
                 gridType: "long",
                 min: 0,
@@ -71,6 +74,35 @@
             var avgDataSource2 = new Timeplot.Processor(dataSource2,Timeplot.Operator.average, { size: 5 });
             
             plotInfo1 = [
+                //the AvgMax should be drawn first as it will otherwise obscure the view of the AvgMin
+                Timeplot.createPlotInfo({
+                    id: "AvgMax",
+                    dataSource: avgDataSource2,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    lineColor: v_colorRed,
+                    dotColor: false,
+                    fillColor: v_colorRed,
+                    fillGradient: v_colorRed,
+                    showValues: true
+                }),
+                Timeplot.createPlotInfo({
+                    id: "AvgMin",
+                    dataSource: avgDataSource1,
+                    timeGeometry: timeGeometry,
+                    valueGeometry: geometry,
+                    lineColor: v_colorGreen,
+                    dotColor: false,
+                    fillColor: v_colorGreen,
+                    fillGradient: v_colorGreen,
+                    showValues: true
+                }),
+                Timeplot.createPlotInfo({
+      			id: "Events",
+      			timeGeometry: timeGeometry,
+      			eventSource: eventSource2,
+      			lineColor: event
+      			}),
                 Timeplot.createPlotInfo({
                     id: "Min",
                     dataSource: dataSource1,
@@ -78,7 +110,7 @@
                     valueGeometry: geometry,
                     // if set to false, no line will be displayed
                     lineColor: false,
-                    dotColor: '#2ec300',
+                    dotColor: v_colorBlack,
                     dotSize: 15,
                     fillColor: false,
                     fillGradient: false,
@@ -90,43 +122,14 @@
                     dataSource: dataSource2,
                     timeGeometry: timeGeometry,
                     valueGeometry: geometry,
-                    //lineColor: '#ff2712',
+                    //lineColor: v_colorRed,
                     lineColor: false,
-                    dotColor: '#ff2712',
+                    dotColor: v_colorBlack,
                     dotSize: 15,
                     fillColor: false,
                     fillGradient: false,
                     showValues: true
-                }),
-                //the AvgMax should be drawn first as it will otherwise obscure the view of the AvgMin
-                Timeplot.createPlotInfo({
-                    id: "AvgMax",
-                    dataSource: avgDataSource2,
-                    timeGeometry: timeGeometry,
-                    valueGeometry: geometry,
-                    lineColor: '#ff2712',
-                    dotColor: false,
-                    fillColor: '#ff2712',
-                    fillGradient: '#ff2712',
-                    showValues: true
-                }),
-                Timeplot.createPlotInfo({
-                    id: "AvgMin",
-                    dataSource: avgDataSource1,
-                    timeGeometry: timeGeometry,
-                    valueGeometry: geometry,
-                    lineColor: '#2ec300',
-                    dotColor: false,
-                    fillColor: '#2ec300',
-                    fillGradient: '#2ec300',
-                    showValues: true
-                }),
-                Timeplot.createPlotInfo({
-      			id: "Events",
-      			timeGeometry: timeGeometry,
-      			eventSource: eventSource2,
-      			lineColor: event
-      			})                          
+                })                        
             ];
             
             timeplot1 = Timeplot.create(document.getElementById("timeplot1"), plotInfo1);
@@ -158,11 +161,11 @@
     <ul id="path">
       <li><a href="http://www.simile-widgets.org/">SIMILE Widgets</a></li>
       <li><a href="http://www.simile-widgets.org/timeplot/">Timeplot</a></li>
-      <li><span>Grain prices in Damascus</span></li>
+      <!-- <li><span>Grain prices in Damascus</span></li> -->
     </ul>
 
     <div id="header">
-    	<h1>Grain prices in Damascus (piaster)</h1>
+    	<h1>Vlour prices per kg in piaster</h1>
     </div>
     <div id="content">
         <div id="timeplot1" style="height: 500px" class="timeplot"></div>
