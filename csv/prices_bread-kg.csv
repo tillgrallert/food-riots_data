@@ -1,4 +1,4 @@
-date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2,
+date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2, commodity-3, quantity-3, unit-3,commodity-4, quantity-4, unit-4,
 1878-03-21,3071F990-9817-47F7-BE6C-B7946865EFBC,the raṭl of bread; the black quality of which is sold at Ps3,bread,0.9999999999999999,kg,currency,1.1691849611635727,ops,
 1878-03-21,3071F990-9817-47F7-BE6C-B7946865EFBC,the goal of obtaining a Ps1 subsidy for every raṭl of bread,bread,0.9999999999999999,kg,currency,0.3897283203878576,ops,
 1888-10-01,2778181B-EA05-4BEB-97CD-E14A8306694E,a raṭl of 2 okkas of the best quality (of four levels) at ps 2"10;,bread,0.9999999999999999,kg,currency,0.8768887208726796,ops,
