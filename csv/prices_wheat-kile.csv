@@ -40,7 +40,7 @@ date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quan
 1883-09-29,54226C02-7A7F-4F29-A998-13403CF5209E,wheat at Ps 20-24/ kile,wheat,1,kile,currency,20,ops,currency,24,ops,
 1884-01-31,96710D14-9736-4B34-A644-F90F3B294456,Ps 21 for a kile of 14 raṭl of wheat,wheat,1,kile,currency,21,ops,
 1884-03-31,AD049434-631A-433D-B436-D1BBD6AEA30E,wheat at Ps 15-20 kile,wheat,1,kile,currency,15,ops,currency,20,ops,
-1884-09-03,FD26B888-DA30-46E2-A3C8-0626E8410B13,the peasants sell the madd of wheat at Ps 4,wheat,1,kile,currency,8,ops,
+//1884-09-03,FD26B888-DA30-46E2-A3C8-0626E8410B13,the peasants sell the madd of wheat at Ps 4,wheat,1,kile,currency,8,ops,
 1884-09-08,EA13A777-9432-4092-A717-BB1CA3BF5182,Best quality of wheat at Ps 20/ kile,wheat,1,kile,currency,20,ops,
 1885-06-29,470F1092-2002-431E-8EC8-72C9B8F59CAB,price of cereals in Damascus is currently at Ps 24,wheat,1,kile,currency,24,ops,
 1885-07-01,009A28BD-D028-4165-AADF-6B5036BC609A,Wheat at Ps. 17-20/ Constantinople kilesi,wheat,1,kile,currency,17,ops,currency,20,ops,
