@@ -1,4 +1,4 @@
-date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2,
+date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2, commodity-3, quantity-3, unit-3,commodity-4, quantity-4, unit-4,
 1878-06-24,65328C7C-8E54-482B-9217-416ED0553D85,the madd of barley sells now at 4 q,barley,1,kile,currency,8,ops,
 1883-01-01,9336257C-4957-4320-A84E-E68BCC1F5357,Barley likewise fell in price; diminishing from 14 pias. to 12 pias. the kilé,barley,1,kile,currency,14,ops,currency,12,ops,
 1883-12-31,806D6639-8550-4E4D-A369-AF52195FC8EB,barley at Ps 11-12,barley,1,kile,currency,11,ops,currency,12,ops,
