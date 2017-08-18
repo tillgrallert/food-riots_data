@@ -32,6 +32,19 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol":3,
+        "name": "railway station"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73909664154052,
+          35.13071945440785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "built-up area",
         "stroke": "#555555",
         "stroke-width": 1,
