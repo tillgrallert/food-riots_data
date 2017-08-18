@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 1,
+        "name": "(New) Serail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29659652709961,
+          33.512729706110015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 2,
+        "name": "municipality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.297444105148315,
+          33.512676034242865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "name": "Ḥijāz railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.294997930526726,
+          33.51125371763254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barāmke railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.288485527038574,
+          33.5093393678006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ḥamīdiyya barracks"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28762722015381,
+          33.510448622396275
+        ]
+      }
+    }
+  ]
+}
