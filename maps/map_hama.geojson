@@ -1358,8 +1358,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
-        "marker-size": "medium",
         "marker-symbol": "",
         "name": "Lycée"
       },
