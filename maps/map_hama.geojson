@@ -1332,12 +1332,42 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "al-Nūrī Mosque"},
+        "name": "al-Nūrī Mosque"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           36.75249695777893,
           35.135220640959126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.74529790878296,
+          35.134501169758586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lycée"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.74956798553467,
+          35.13256207547516
         ]
       }
     }
