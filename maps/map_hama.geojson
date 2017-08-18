@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": 2,
-        "name": "Municipality"
+        "name": "municipality"
       },
       "geometry": {
         "type": "Point",
