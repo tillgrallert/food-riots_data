@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14756488800049,
+          36.21429397961429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "al-Jalūm quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.15548276901245,
+          36.19628708746127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "2",
+        "name": "Municipality"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.164366245269775,
+          36.20177616561836
+        ]
+      }
+    }
+  ]
+}
