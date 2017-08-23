@@ -31,12 +31,39 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "2",
-        "name": "Municipality"},
+        "name": "Municipality"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           37.164366245269775,
           36.20177616561836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "army barracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16970920562744,
+          36.20769770477292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "1",
+        "name": "Serail"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.162842750549316,
+          36.197429955645894
         ]
       }
     }
