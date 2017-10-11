@@ -18,19 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "suqs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.71480655670166,
-          34.7294275976434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "marker-symbol": 3,
         "name": "railway station"
       },
       "geometry": {
@@ -504,7 +492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "?",
+        // "marker-symbol": "?",
         "name": "coach road station?"
       },
       "geometry": {
