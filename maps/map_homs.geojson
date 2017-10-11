@@ -492,7 +492,6 @@
     {
       "type": "Feature",
       "properties": {
-        // "marker-symbol": "?",
         "name": "coach road station?"
       },
       "geometry": {
