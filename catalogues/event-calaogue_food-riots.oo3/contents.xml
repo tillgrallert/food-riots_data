@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE outline PUBLIC "-//omnigroup.com//DTD OUTLINE 3.0//EN" "http://www.omnigroup.com/namespace/OmniOutliner/xmloutline-v3.dtd">
+<outline xmlns="http://www.omnigroup.com/namespace/OmniOutliner/v3">
+  <style-attribute-registry>
+    <style-attribute version="1" key="font-fill" group="font" name="fill color" class="color">
+      <color w="0"/>
+    </style-attribute>
+    <style-attribute version="0" key="font-italic" group="font" name="italic" class="bool">no</style-attribute>
+    <style-attribute version="0" key="font-size" group="font" name="size" class="number">12</style-attribute>
+    <style-attribute version="0" key="font-weight" group="font" name="weight" class="number">5</style-attribute>
+    <style-attribute version="0" key="text-background-color" group="text" name="background color" class="color">
+      <color w="0" a="0"/>
+    </style-attribute>
+    <style-attribute version="1" key="underline-color" group="underline" name="color" class="color">
+      <color w="0"/>
+    </style-attribute>
+    <style-attribute version="1" key="underline-style" group="underline" name="style" class="enum">
+      <enum-name-table default-value="0">
+        <enum-name-table-element value="0" name="none"/>
+        <enum-name-table-element value="1" name="single"/>
+        <enum-name-table-element value="2" name="thick"/>
+        <enum-name-table-element value="9" name="double"/>
+      </enum-name-table>
+    </style-attribute>
+  </style-attribute-registry>
+  <named-styles>
+    <named-style id="kXhIK26pfm7" name="Highlight" display-order="0">
+      <style>
+        <value key="text-background-color">
+          <color r="1" g="1" b="0.4"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="k2N6UAnQbwx" name="Citation" display-order="1">
+      <style>
+        <value key="underline-color">
+          <color r="0" g="0" b="1"/>
+        </value>
+        <value key="underline-style">thick</value>
+      </style>
+    </named-style>
+    <named-style id="p4NxdqczGI2" name="Emphasis" display-order="2">
+      <style>
+        <value key="font-italic">yes</value>
+      </style>
+    </named-style>
+  </named-styles>
+  <settings>
+    <page-adornment>
+      <first-page-headers is-active="yes">
+        <header location="center">
+          <text>
+            <p>
+              <run>
+                <lit><cell variable="OOSectionTitleVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </header>
+      </first-page-headers>
+    </page-adornment>
+    <print-info>
+      <print-info-key name="OOScaleDocumentToFitPageWidth" type="boolean">true</print-info-key>
+    </print-info>
+    <auto-generate-level-styles>no</auto-generate-level-styles>
+  </settings>
+  <editor content-size="{815, 641}" scroll-position="{0, 162}" status-visible="no" hide-attachment-tags="yes" is-spellchecking-enabled="yes">
+    <drawer palette-height="167"/>
+    <selected-rows ids="dMYVV_R_-9a"/>
+    <selected-columns ids="jFqHUGd_Dg1"/>
+    <selected-characters range="{4, 0}"/>
+  </editor>
+  <columns>
+    <column id="dTpN3JwYpBn" type="text" width="18" minimum-width="18" maximum-width="18" text-export-width="1" is-note-column="yes">
+      <style>
+        <value key="font-fill">
+          <color r="0.33" g="0.33" b="0.33"/>
+        </value>
+        <value key="font-italic">yes</value>
+        <value key="font-size">11</value>
+      </style>
+      <title>
+        <text>
+          <p/>
+        </text>
+      </title>
+    </column>
+    <column id="jFqHUGd_Dg1" type="text" width="693" minimum-width="13" maximum-width="1000000" text-export-width="72" is-outline-column="yes" sort="ascending">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Topic</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id="gQmU5710YBt" type="text" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Untitled #1</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+  </columns>
+  <root>
+    <style>
+      <value key="font-weight">9</value>
+      <value key="underline-style">single</value>
+    </style>
+    <item id="o6DMbp4ksUJ" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Actions of objects</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <children>
+        <item id="grhghJEezg3">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>speeches</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="mE5Bi-5GbbV">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>violent repression</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="fMYfhgzkbUB" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Actions of participants</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <children>
+        <item id="oYjRuhXC3jy">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>gathered crowd</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>x</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="enBeqWX8tDj">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>looting</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="cDlOkboH9Rn">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>march</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>x</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="n66qTSqPpc8">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>shouting</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>x</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="gilzVfUG5M_" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Demand</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <children>
+        <item id="pwx_pvmwjSk">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>just prices</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>x</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="nBsWEFZdF1f">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>payment of arrears</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="dL-2-4CeZ_A" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Location</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <children>
+        <item id="lGcPlnT5p0b">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>name of settlement</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Damascus</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="c7YCST_qH3L">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Railway stations</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="l1k9txL26Ui" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Religious institutions</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <children>
+            <item id="gQljsLnYlJQ">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Church</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+            <item id="c_XoMlcPwGz">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Mosque</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+          </children>
+        </item>
+        <item id="eavDPTbpwM1">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Seat of authorities</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>x</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="iGjJ22oU_6z">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Suqs</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="mV2nZPJrOpU" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Object of contention</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <children>
+        <item id="gp6QLid-3mF" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>authorities</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>x</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+          <children>
+            <item id="dRkz53WuqZj">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>baladiyya</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+            <item id="bSKwQz6_Ega">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>kaimakam</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+            <item id="aOUFUbkOHiJ">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>mutasarrif</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+            <item id="dV-nt1zfkDq">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>vali</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>x</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+          </children>
+        </item>
+        <item id="lAAwq6wLR8K">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>merchants</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="goK3Mn2XtNX" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Participants</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <children>
+        <item id="luwcm1o2XsC" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>age</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <children>
+            <item id="jhvdwofOYMo">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>children</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+            <item id="lOuVnL_S4tJ">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>old</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+            <item id="mBs-nCxC9S3">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>young</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+          </children>
+        </item>
+        <item id="o1raVa589Lj" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Gender</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <children>
+            <item id="pRGD0CKC1hA">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>men</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+            </item>
+            <item id="jEWnNPbtAsT">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>women</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>x</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+          </children>
+        </item>
+        <item id="ivFCJdLfXfN" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>Social strata</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+          <children>
+            <item id="h_5QNFWwdrx" expanded="yes">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>authorities</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+              <children>
+                <item id="bqL_27RHY0K">
+                  <values>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>officials</lit>
+                        </run>
+                      </p>
+                    </text>
+                    <null/>
+                  </values>
+                </item>
+                <item id="oekZ5HZqujh">
+                  <values>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>soldiers</lit>
+                        </run>
+                      </p>
+                    </text>
+                    <null/>
+                  </values>
+                </item>
+              </children>
+            </item>
+            <item id="hATGPYAKKL3" expanded="yes">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>elites</lit>
+                    </run>
+                  </p>
+                </text>
+                <null/>
+              </values>
+              <children>
+                <item id="ns9cEUcv7Pa">
+                  <values>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>dignitaries</lit>
+                        </run>
+                      </p>
+                    </text>
+                    <null/>
+                  </values>
+                </item>
+                <item id="iS5clvKWjMX">
+                  <values>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>notables</lit>
+                        </run>
+                      </p>
+                    </text>
+                    <null/>
+                  </values>
+                </item>
+              </children>
+            </item>
+            <item id="oKWdb1A0741">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>poor</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>x</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+          </children>
+        </item>
+      </children>
+    </item>
+    <item id="hq5m4FIMDM3" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Timing</lit>
+            </run>
+          </p>
+        </text>
+        <null/>
+      </values>
+      <children>
+        <item id="dMYVV_R_-9a">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>date</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>1878-03</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="bD8Uwrw73UV">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>day of the week</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+        <item id="bBEKTYlZa5Q">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>duration</lit>
+                </run>
+              </p>
+            </text>
+            <null/>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="d4GO3WWAOWU">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Type</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>food riot</lit>
+            </run>
+          </p>
+        </text>
+      </values>
+    </item>
+  </root>
+</outline>
