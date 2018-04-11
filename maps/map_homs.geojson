@@ -386,7 +386,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "baracks"
@@ -734,7 +734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "clock of freedom"
@@ -750,7 +750,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "clock tower"
@@ -766,7 +766,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "khānāt"
@@ -824,7 +824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": 2,
         "name": "baladiyya"
@@ -840,7 +840,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Café al-Rawḍā"
@@ -856,7 +856,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "serail"
@@ -872,7 +872,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Bāb al-Drīb"
@@ -888,7 +888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "old serail"
@@ -904,7 +904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "iṣlāḥḫāne"
