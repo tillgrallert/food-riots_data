@@ -1,4 +1,4 @@
-"date","count","mean.2","mean.3","median.2","median.3","sd.2","sd.3","dmp.2","dmp.3"
+"date","count","mean.price.min","mean.price.max","median.2","median.3","sd.2","sd.3","dmp.2","dmp.3"
 1858-03-01,1,9,NA,9,NA,NA,NA,-64,NA
 1858-03-25,2,13.5,NA,13.5,NA,0.707106781186548,NA,-46,NA
 1858-04-03,1,17,22,17,22,NA,NA,-32,-12

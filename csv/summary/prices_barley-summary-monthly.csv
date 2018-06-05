@@ -1,4 +1,4 @@
-"month","count","mean.2","mean.3","median.2","median.3","sd.2","sd.3"
+"month","count","mean.price.min","mean.price.max","median.2","median.3","sd.2","sd.3"
 1858-04-01,1,8,9,8,9,NA,NA
 1859-12-01,1,16,18,16,18,NA,NA
 1860-01-01,2,16,18,16,18,0,0
