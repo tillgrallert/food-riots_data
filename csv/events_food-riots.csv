@@ -1,22 +1,23 @@
-date,type,location, comment
-1876-01-19,food riot,Damascus, no exact date 
-1878-01-01,food riot,Baghdad,
-1878-03-12,food riot,Damascus,
-1878-03-13,food riot,Damascus,
-1878-03-14,food riot,Damascus,
-1878-03-15,food riot,Damascus,
-1878-03-16,food riot,Damascus,
-1879-06-01,food riot,Baghdad, no exact date
-1880-03-14,food riot,Beirut,
-1908-08-19,food riot,Beirut,
-1908-09-16,food riot,Baghdad,
-1910-06-15,food riot,Aleppo, no exact date
-1910-07-02,food riot,Damascus,
-1910-08-11,food riot,Hama,
-1910-08-13,food riot,Homs,
-1913-01-17,food riot,Jerusalem,
-1913-01-18,food riot,Jerusalem,
-1913-02-17,food riot,Damascus,
-1914-11-13,food riot,Beirut,
-1914-11-21,food riot,Beirut,
-1916-02-29,food riot,Damascus,
+date;type;location.name; location.coordinates; comment
+1876-01-19;food riot;Damascus;33.5102, 36.29128; no exact date 
+1878-01-01;food riot;Baghdad;33.34058, 44.40088;
+1878-03-12;food riot;Damascus;33.5102, 36.29128;
+1878-03-13;food riot;Damascus;33.5102, 36.29128;
+1878-03-14;food riot;Damascus;33.5102, 36.29128;
+1878-03-15;food riot;Damascus;33.5102, 36.29128;
+1878-03-16;food riot;Damascus;33.5102, 36.29128;
+1878-09-01;food riot;Jaffa;32.05043, 34.75224; no exact date, Bedouins loot shops
+1879-06-01;food riot;Baghdad;33.34058, 44.40088; no exact date
+1880-03-14;food riot;Beirut;33.88894, 35.49442;
+1908-08-19;food riot;Beirut;33.88894, 35.49442;
+1908-09-16;food riot;Baghdad;33.34058, 44.40088;
+1910-06-15;food riot;Aleppo;36.20124, 37.16117; no exact date
+1910-07-02;food riot;Damascus;33.5102, 36.29128;
+1910-08-11;food riot;Hama;35.13179, 36.75783;
+1910-08-13;food riot;Homs;34.72682, 36.72339;
+1913-01-17;food riot;Jerusalem;31.78336, 35.23388;
+1913-01-18;food riot;Jerusalem;31.78336, 35.23388;
+1913-02-17;food riot;Damascus;33.5102, 36.29128;
+1914-11-13;food riot;Beirut;33.88894, 35.49442;
+1914-11-21;food riot;Beirut;33.88894, 35.49442;
+1916-02-29;food riot;Damascus;33.5102, 36.29128;
