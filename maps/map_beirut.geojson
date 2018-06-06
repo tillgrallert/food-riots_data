@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 2,
+        "name": "municipality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50732970237732,
+          33.897028965555165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 1,
+        "name": "Government Serail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50088167190552,
+          33.89585344781889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "customs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.51178216934204,
+          33.899130608396014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 3,
+        "name": "railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50802707672119,
+          33.90016360029648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sūqs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.502469539642334,
+              33.89873878060835
+            ],
+            [
+              35.5048942565918,
+              33.89815103555081
+            ],
+            [
+              35.505216121673584,
+              33.89916622901471
+            ],
+            [
+              35.505430698394775,
+              33.9005019914736
+            ],
+            [
+              35.505280494689934,
+              33.90092943104087
+            ],
+            [
+              35.505216121673584,
+              33.90128562904336
+            ],
+            [
+              35.50487279891968,
+              33.90139248815394
+            ],
+            [
+              35.50405740737915,
+              33.90153496675971
+            ],
+            [
+              35.50356388092041,
+              33.901481537310445
+            ],
+            [
+              35.50334930419922,
+              33.90103629059787
+            ],
+            [
+              35.503199100494385,
+              33.900395131246974
+            ],
+            [
+              35.502469539642334,
+              33.89873878060835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "quarantine station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5292272567749,
+          33.90315564414223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "abbatoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.53201675415039,
+          33.90356526102092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": 3,
+        "name": "main railway station"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.53085803985596,
+          33.898115414508034
+        ]
+      }
+    }
+  ]
+}
