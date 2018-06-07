@@ -4,8 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 2,
-        "name": "municipality"
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": 1,
+        "name": "Government Serail"
       },
       "geometry": {
         "type": "Point",
@@ -18,27 +20,16 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 1,
-        "name": "Government Serail"
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "imperial barracks"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           35.50088167190552,
           33.89585344781889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "customs"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.51178216934204,
-          33.899130608396014
         ]
       }
     },
@@ -147,12 +138,29 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": 3,
-        "name": "main railway station"},
+        "name": "main railway station"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           35.53085803985596,
           33.898115414508034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "customs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50682544708252,
+          33.90076914145427
         ]
       }
     }
