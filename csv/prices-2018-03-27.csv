@@ -312,7 +312,7 @@ date, duration, location, source, orig-data, commodity-1, quantity-1, unit-1, co
 1886-07-09,,Damascus,74C7958E-BE66-4792-B6BC-7FC9BB523528,"Barley at 77 Cts per bushel",barley,1,bushel,currency,0.77,usd,
 1886-07-09,,Damascus,74C7958E-BE66-4792-B6BC-7FC9BB523528,"$1 = Ps 28 ⅜",currency,1,usd,currency,28.15,ops,
 1886-07-09,,Damascus,74C7958E-BE66-4792-B6BC-7FC9BB523528,"£1 = Ps 138",currency,1,gbp,currency,138,ops,
-1886-07-09,,Damascus,74C7958E-BE66-4792-B6BC-7FC9BB523528,"£T 1 = Ps 123 ½",currency,1,lyq,currency,123.5,ops,
+1886-07-09,,Damascus,74C7958E-BE66-4792-B6BC-7FC9BB523528,"£T 1 = Ps 123 ½",currency,1,ltq,currency,123.5,ops,
 1886-07-09,,Damascus,74C7958E-BE66-4792-B6BC-7FC9BB523528,"Frcs = Ps 109 ½",currency,1,ops,currency,109.5,ops,
 1886-10-14,,Bayrūt,57E95856-628D-4EA5-AD80-4A28C48944EE,"new municipal physician in Damascus with a monthly salary of Ps 750",labor,1,day,currency,62.500000000684935,ops,
 1887,P1Y,Damascus,71A8702D-D586-44DE-B2BD-1C9046977D96,"as against 22 pias. and 11 pias.; respectively; the previous year",barley,1,kile,currency,11,ops,currency,22,ops,
