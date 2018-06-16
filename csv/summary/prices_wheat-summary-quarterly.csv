@@ -1,4 +1,4 @@
-"quarter","count","mean.price.min","mean.price.max","median.2","median.3","sd.2","sd.3"
+"quarter","count","mean.price.min","mean.price.max","median.min","median.max","sd.min","sd.max"
 1858-01-01,3,12,NA,13,NA,2.64575131106459,NA
 1858-04-01,2,13.5,17.5,13.5,17.5,4.94974746830583,6.36396103067893
 1858-07-01,1,15,20,15,20,NA,NA
