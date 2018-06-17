@@ -24,7 +24,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": 2,
+        "marker-symbol": "town-hall",
         "name": "Municipality"
       },
       "type": "Feature"
@@ -1226,7 +1226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 3,
+        "marker-symbol": "rail",
         "name": "railway station"
       },
       "geometry": {

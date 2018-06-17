@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 3,
+        "marker-symbol": "rail",
         "name": "railway station"
       },
       "geometry": {
@@ -375,7 +375,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 3,
+        "marker-symbol": "rail",
         "name": "railway station"
       },
       "geometry": {
@@ -769,7 +769,7 @@
       "type": "Feature",
       "properties": {
         "marker-size": "medium",
-        "marker-symbol": 2,
+        "marker-symbol": "town-hall",
         "name": "baladiyya"
       },
       "geometry": {

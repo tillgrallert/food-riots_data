@@ -30,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "2",
+        "marker-symbol": "town-hall",
         "name": "Municipality"
       },
       "geometry": {
