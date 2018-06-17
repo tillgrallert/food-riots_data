@@ -14,8 +14,9 @@ All maps should make use of the same keys and colours:
     + mosque: religious-muslim
     + barracks: 
 - colours
-    + built-up area:
+    + built-up area: #555555
     + generic buildings: 
     + religious infrastructure
     + military
     + administration
+    + commercial area: #F05D65
