@@ -1332,6 +1332,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim",
         "name": "al-Nūrī Mosque"
       },
       "geometry": {
@@ -1345,6 +1348,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim",
         "name": "Great Mosque"
       },
       "geometry": {
@@ -1358,7 +1364,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "college",
         "name": "Lycée"
       },
       "geometry": {
