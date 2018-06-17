@@ -1332,7 +1332,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "al-Nūrī Mosque"
@@ -1348,7 +1347,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "Great Mosque"
@@ -1364,7 +1362,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "college",
         "name": "Lycée"
@@ -1380,6 +1377,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#f05d65",
+        "fill-opacity": 0.5,
         "name": "commercial area"
       },
       "geometry": {
