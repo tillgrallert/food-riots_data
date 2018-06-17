@@ -670,7 +670,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "coach road station?"
@@ -686,7 +686,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "clock of freedom"
@@ -789,7 +789,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "cafe",
         "name": "Café al-Rawḍā"
@@ -805,7 +805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "Serail"
@@ -836,7 +836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "old serail"
@@ -852,7 +852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "school",
         "name": "iṣlāḥḫāne"
@@ -1082,7 +1082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "al-Dalātī Mosque"
@@ -1113,7 +1113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "cinema",
         "name": "Cinema Empire"
@@ -1129,7 +1129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "cinema",
         "name": "Cinema El Hambra"
@@ -1191,7 +1191,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "religious-muslim"
       },
@@ -1206,7 +1206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "religious-muslim"
       },
