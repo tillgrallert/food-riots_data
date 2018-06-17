@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "Government Serail"
@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "imperial barracks"
@@ -151,7 +151,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "customs"

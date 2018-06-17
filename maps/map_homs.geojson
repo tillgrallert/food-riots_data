@@ -1070,7 +1070,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "al-Dalātī Mosque"
@@ -1086,7 +1086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Bureau de la Place"
@@ -1102,7 +1102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Cinema Empire"
@@ -1118,7 +1118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Cinema El Hambra"

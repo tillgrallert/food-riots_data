@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "town-hall",
         "name": "municipality"
@@ -34,7 +34,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "rail",
         "name": "Ḥijāz railway station"
@@ -50,7 +50,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "rail",
         "name": "Barāmke railway station"
@@ -149,7 +149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "rail",
         "name": "al-Qaddam railway station"
@@ -481,7 +481,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "rail-light",
         "name": "tramway depot and HQ"
@@ -2121,7 +2121,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        
         "marker-size": "medium",
         "marker-symbol": "religious-muslim"
       },
