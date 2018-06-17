@@ -360,21 +360,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "baracks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.709721088409424,
-          34.72965685259849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-symbol": "rail",
         "name": "railway station"
       },
@@ -560,6 +545,8 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#f05d65",
         "stroke-width": 0,
         "stroke-opacity": 0.5,
         "fill-opacity": 0.5,
@@ -668,6 +655,9 @@
     {
       "type": "Feature",
       "properties": {
+        
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "coach road station?"
       },
       "geometry": {
@@ -675,21 +665,6 @@
         "coordinates": [
           36.70860797166824,
           34.72869133223745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "clock of freedom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.709163188934326,
-          34.730662039895144
         ]
       }
     },
@@ -783,8 +758,9 @@
     {
       "type": "Feature",
       "properties": {
+        
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "cafe",
         "name": "Café al-Rawḍā"
       },
       "geometry": {
@@ -798,9 +774,10 @@
     {
       "type": "Feature",
       "properties": {
+        
         "marker-size": "medium",
         "marker-symbol": 1,
-        "name": "serail"
+        "name": "Serail"
       },
       "geometry": {
         "type": "Point",
@@ -828,8 +805,9 @@
     {
       "type": "Feature",
       "properties": {
+        
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": 1,
         "name": "old serail"
       },
       "geometry": {
@@ -843,8 +821,9 @@
     {
       "type": "Feature",
       "properties": {
+        
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "school",
         "name": "iṣlāḥḫāne"
       },
       "geometry": {
@@ -858,9 +837,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#fdfcff",
         "stroke-width": 0,
         "stroke-opacity": 0.5,
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.6,
         "name": "place du marché"
       },
       "geometry": {
@@ -1072,7 +1053,7 @@
       "properties": {
         
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "religious-muslim",
         "name": "al-Dalātī Mosque"
       },
       "geometry": {
@@ -1086,7 +1067,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Bureau de la Place"
@@ -1096,38 +1076,6 @@
         "coordinates": [
           36.709216833114624,
           34.7310455949834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cinema Empire"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.71032726764679,
-          34.73144678288374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cinema El Hambra"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.713535189628594,
-          34.73272968936236
         ]
       }
     },
@@ -1172,6 +1120,71 @@
             [
               36.71538591384888,
               34.73709406743546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.714720726013184,
+          34.73071494415107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.715664863586426,
+          34.736657640000594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "name": "barracks"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.70948505401611,
+              34.72993901167026
+            ],
+            [
+              36.709506511688225,
+              34.72924242971549
+            ],
+            [
+              36.71012878417969,
+              34.729295334880085
+            ],
+            [
+              36.70998930931091,
+              34.72999191638899
+            ],
+            [
+              36.70948505401611,
+              34.72993901167026
             ]
           ]
         ]
