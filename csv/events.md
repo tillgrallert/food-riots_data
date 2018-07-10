@@ -68,7 +68,6 @@ date | date.end | duration | type | location.name |  comment | source
 1908-08-09 |  |  | food riot | Baghdad | no exact date | {Herzog 2012@437}
 1908-09-20 |  |  | food riot | Baghdad | no exact date, looting | {Herzog 2012@438}
 1880-08-01 |  |  | food riot | Baghdad | no exact date | {Herzog 2012@437}
-<!-- based on the index -->
 1763 |  |  | famine | Adana | no exact date | {Ayalon 2017@149}
 1728 |  |  | famine | Aleppo | no exact date | {Ayalon 2017@74}
 1757 |  |  | famine | Aleppo | no exact date | {Ayalon 2017@151}
