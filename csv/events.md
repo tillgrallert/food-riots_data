@@ -37,20 +37,20 @@ date | date.end | duration | type | location.name |  comment | source
 1873 | 1875 |  | famine | Anatolia |  | {Ertem 2017}
 1879 | 1881 |  | famine | Anatolia |  | {Ertem 2017}
 1877-04-24 | 1878-03-03 |  | war | Ottoman Empire | Russo-Ottoman War | 
-1696 |  |  | famine | Aleppo |  no exact date | {Ayalon 2017@65}
-1757 | 1758 |  | famine | Damascus |  no exact date | {Ayalon 2017@65}{Grehan 1999@142}
-1685 |  |  | famine | Aleppo |  no exact date | {Ayalon 2017@65-66}
-1674 |  |  | food riot | Aleppo | no exact date | {Ayalon 2017@67-68}
-1734 |  |  | food riot | Aleppo | no exact date | {Ayalon 2017@68}
-1751 |  |  | food riot | Aleppo | no exact date | {Ayalon 2017@68}, al-Budayrī
-1743 |  |  | food riot | Damascus | no exact date, but July | {Ayalon 2017@68}{Grehan 1999@109,151}{Sajdi 2002@170}, al-Budayrī
-1745-07-21 |  |  | food riot | Damascus |  | {Ayalon 2017@68}{Grehan 1999@151, 152-154}, al-Budayrī
+1696 |  |  | famine | Aleppo |  no exact date | {Ayalon 2014@65}
+1757 | 1758 |  | famine | Damascus |  no exact date | {Ayalon 2014@65}{Grehan 1999@142}
+1685 |  |  | famine | Aleppo |  no exact date | {Ayalon 2014@65-66}
+1674 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@67-68}
+1734 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}
+1751 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}, al-Budayrī
+1743 |  |  | food riot | Damascus | no exact date, but July | {Ayalon 2014@68}{Grehan 1999@109,151}{Sajdi 2002@170}, al-Budayrī
+1745-07-21 |  |  | food riot | Damascus |  | {Ayalon 2014@68}{Grehan 1999@151, 152-154}, al-Budayrī
 1749 |  |  | food riot | Damascus | spring, crowds loot some bakeries | {Grehan 1999@158}, al-Budayrī
 1757 |  |  | food riot | Damascus | February, day of the arrival of the new governor | {Grehan 1999@159}, al-Budayrī
 1758 |  |  | food riot | Damascus | January? men, women and children in front of the bakeries | {Grehan 1999@162}, al-Budayrī
-1745 |  |  | famine | Aleppo |  no exact date | {Ayalon 2017@74}
+1745 |  |  | famine | Aleppo |  no exact date | {Ayalon 2014@74}
 1806 |  |  | food riot | Damascus | February | {Grehan 1999@163}, al-Budayrī
-1787 | 1788 |  | famine | Diyarbakır (towns around) |  no exact date | {Ayalon 2017@74}
+1787 | 1788 |  | famine | Diyarbakır (towns around) |  no exact date | {Ayalon 2014@74}
 1914-10-31 | 1918 |  | war | Ottoman Empire | World War I | 
 1790 |  |  | food riot | Istanbul | no exact date | {ThorntonSasmazer 2000@77, 117-118}
 1770 |  |  | food riot | Aleppo | no exact date | {Thieck 1985@§148}
@@ -68,10 +68,10 @@ date | date.end | duration | type | location.name |  comment | source
 1908-08-09 |  |  | food riot | Baghdad | no exact date | {Herzog 2012@437}
 1908-09-20 |  |  | food riot | Baghdad | no exact date, looting | {Herzog 2012@438}
 1880-08-01 |  |  | food riot | Baghdad | no exact date | {Herzog 2012@437}
-1763 |  |  | famine | Adana | no exact date | {Ayalon 2017@149}
-1728 |  |  | famine | Aleppo | no exact date | {Ayalon 2017@74}
-1757 |  |  | famine | Aleppo | no exact date | {Ayalon 2017@151}
-1770 |  |  | famine | Aleppo | no exact date | {Ayalon 2017@66}
-1695 |  |  | famine | Cairo | no exact date | {Ayalon 2017@68}
-1743 | 1745  |  | famine | Damascus | no exact date | {Ayalon 2017@68}
+1763 |  |  | famine | Adana | no exact date | {Ayalon 2014@149}
+1728 |  |  | famine | Aleppo | no exact date | {Ayalon 2014@74}
+1757 |  |  | famine | Aleppo | no exact date | {Ayalon 2014@151}
+1770 |  |  | famine | Aleppo | no exact date | {Ayalon 2014@66}
+1695 |  |  | famine | Cairo | no exact date | {Ayalon 2014@68}
+1743 | 1745  |  | famine | Damascus | no exact date | {Ayalon 2014@68}
 
