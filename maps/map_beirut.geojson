@@ -6,7 +6,8 @@
       "properties": {
         "marker-size": "medium",
         "marker-symbol": 1,
-        "name": "Government Serail"
+        "name": "Government Serail",
+        "comment": "Inaugurated shortly before the establishment of the Province of Beirut in 1888. For a short period of time the municipality was located in this building"
       },
       "geometry": {
         "type": "Point",
@@ -1242,7 +1243,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "hospital",
         "name": "municipal hospital"
@@ -1258,7 +1258,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "hospital",
         "name": "American hospital"
@@ -1274,7 +1273,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "college",
         "name": "Syrian Protestant College"
@@ -1290,7 +1288,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "hospital",
         "name": "Lazarist hospital"
@@ -1306,7 +1303,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "college",
         "name": "Jesuit college"
