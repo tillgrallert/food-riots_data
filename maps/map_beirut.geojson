@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "Government Serail",
@@ -1312,6 +1313,176 @@
         "coordinates": [
           35.508735179901116,
           33.891364958322576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Government Serail",
+        "comment": "Inaugurated shortly before the establishment of the Province of Beirut in 1888. For a short period of time the municipality was located in this building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.50724387168884,
+              33.89725159966496
+            ],
+            [
+              35.507168769836426,
+              33.89701115480128
+            ],
+            [
+              35.507469177246094,
+              33.89694436444104
+            ],
+            [
+              35.50753891468048,
+              33.897193714852335
+            ],
+            [
+              35.50724387168884,
+              33.89725159966496
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#91F200",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#91F200",
+        "fill-opacity": 0.5,
+        "name": "Ḥamīdiyya Gardens"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.5070561170578,
+              33.8967439930465
+            ],
+            [
+              35.506712794303894,
+              33.89550613265938
+            ],
+            [
+              35.50705075263977,
+              33.89542598280631
+            ],
+            [
+              35.507436990737915,
+              33.89666829706379
+            ],
+            [
+              35.5070561170578,
+              33.8967439930465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "municipality",
+        "comment": "The current building of the municipality was erected during the early years of the French Mandate"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.505409240722656,
+              33.898204467087076
+            ],
+            [
+              35.50536632537842,
+              33.89804417237785
+            ],
+            [
+              35.50611734390259,
+              33.89786606679194
+            ],
+            [
+              35.50614416599274,
+              33.89812877240084
+            ],
+            [
+              35.505409240722656,
+              33.898204467087076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "al-ʿUmarī Mosque"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.50484597682953,
+              33.89803526710738
+            ],
+            [
+              35.50479233264923,
+              33.89761003936045
+            ],
+            [
+              35.50536096096039,
+              33.89751208083551
+            ],
+            [
+              35.50544947385788,
+              33.89789278265353
+            ],
+            [
+              35.50484597682953,
+              33.89803526710738
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim",
+        "name": "al-ʿUmarī Mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50509810447693,
+          33.89778591915692
         ]
       }
     }
