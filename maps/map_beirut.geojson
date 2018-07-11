@@ -4,7 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "Government Serail",
@@ -1473,7 +1472,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "al-ʿUmarī Mosque"
@@ -1483,6 +1481,52 @@
         "coordinates": [
           35.50509810447693,
           33.89778591915692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "town-hall",
+        "name": "baladiyya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.505784749984734,
+          33.89802636183599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "name": "barracks of light cavalry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50682544708252,
+          33.896833047057754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sūq Sursuq",
+        "comment": "The location is according to modern maps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.500052869319916,
+          33.90007009723442
         ]
       }
     }
