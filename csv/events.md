@@ -11,7 +11,6 @@ The table in this file has been compiled from various sources and will serve as 
 
 date | date.end | duration | type | location.name | comment | source
 -|-|-|-|-|-|-|-
-date | date.end | duration | type | location.name |  comment | source
 1876-01-19 |  |  | food riot | Damascus |  no exact date  | 
 1878-01-01 |  |  | food riot | Baghdad | no exact date | {Herzog 2012@434-435}
 1878-03-12 |  |  | food riot | Damascus |  | 
