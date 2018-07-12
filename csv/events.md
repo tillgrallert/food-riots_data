@@ -40,6 +40,8 @@ date | date.end | duration | type | location.name | comment | source
 1757 | 1758 |  | famine | Damascus |  no exact date | {Ayalon 2014@65}{Grehan 1999@142}
 1685 |  |  | famine | Aleppo |  no exact date | {Ayalon 2014@65-66}
 1674 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@67-68}
+1787 | 1792 |  | famine | Syria |  | {Douwes 2000@19-20}
+1826 | 1827 |  | famine | Syria |  | {Douwes 2000@124, 187}
 1734 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}
 1751 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}, al-Budayrī
 1743 |  |  | food riot | Damascus | no exact date, but July | {Ayalon 2014@68}{Grehan 1999@109,151}{Sajdi 2002@170}, al-Budayrī
