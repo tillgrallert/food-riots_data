@@ -78,7 +78,7 @@ date | date.end | duration | type | location.name |  comment | source
 1877-04-24 |  |  | mutiny | Damascus | no exact date | B0626137-27FD-4274-A33B-03C1AABBF3A5
 1900-11-03 | 1900-11-05 |  | mutiny | Damascus |  | 
 1894-05-16 |  |  | prison riot | Damascus |  | D0EA12EB-FD68-4759-BA61-E20044642061 8C333341-36D1-496F-8591-CED7B55CE427 813B6017-812A-4DC8-B10C-A5ECB1D4B73C
-1902-11-29 | 1902-12-02 |  | mutiny | Damascus | occupation of telegraph office | 
+1902-11-29 | 1902-12-02 |  | mutiny | Damascus | occupation of telegraph office | {Ochsenwald 1980@8}, MEA
 1904-06-20 |  |  | mutiny | Damascus | stand-off inside the Umayyad Mosque | 
 1904-03-02 | 1904-03-10 |  | mutiny | Jidda | stand-off inside the ʿAkkāsh Mosque | 
 1904-05-29 | 1904-08-26 |  | mutiny | Jidda | stand-off inside the ʿAkkāsh Mosque | 
@@ -96,4 +96,7 @@ date | date.end | duration | type | location.name |  comment | source
 1913-05-20 |  |  | prison riot | Damascus | riots between prisoners inside the citadel | F9C6D1B6-CD84-4067-8BEF-A6B2A24491E5
 1903-07-04 |  |  | prison riot | Damascus | riots between prisoners inside the citadel | 1BE2F995-5B70-497E-9C3C-B5775BB0CFE6
 1903-07-05 |  |  | prison riot | Damascus | riots between prisoners inside the citadel | 1BE2F995-5B70-497E-9C3C-B5775BB0CFE6
-
+1901 |  |  | mutiny | Beirut | Ḥijāz railway | {Ochsenwald 1980@8}
+1903-05-17 |  |  | mutiny | Damascus | soldiers on their way to Yemen | {Ochsenwald 1980@8-9}
+1903 |  |  | riots | Mecca |  | attempt by the Ottoman governor to impose a street-cleaning tax resulted in riots | {Ochsenwald 1980@128}
+1906-05-22 |  |  | mutiny | Mecca |  | {Ochsenwald 1980@128}, PRO FO
