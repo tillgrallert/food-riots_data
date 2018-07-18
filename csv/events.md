@@ -101,3 +101,4 @@ date | date.end | duration | type | location.name | comment | source
 1903-05-17 |  |  | mutiny | Damascus | soldiers on their way to Yemen | {Ochsenwald 1980@8-9}
 1903 |  |  | riots | Mecca |  | attempt by the Ottoman governor to impose a street-cleaning tax resulted in riots | {Ochsenwald 1980@128}
 1906-05-22 |  |  | mutiny | Mecca |  | {Ochsenwald 1980@128}, PRO FO
+1872 | 1873 |  | famine | Syria |  | D4751B79-ACE4-4547-AEE1-DDDC6A88373C
