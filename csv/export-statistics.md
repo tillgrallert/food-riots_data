@@ -17,19 +17,19 @@ tags:
 In order to convert this table to more practical `<tei:measureGrp>`, use the following regex:
 
 1. find: 
-    2. rows with prices: `^\|\s(\d{4})\s+\|\s(\w+).[^\|]+\s+\|\s(\w+)\s+\|\s(\w+)\s+\|\s+(\d+)\s+\|\s(\w+)\s+\|\s+(.+)\s+\|\s(.[^\|]+)\s+\|$`
+    2. rows with prices: `^\|\s(\d{4})\s+\|\s(\w+).[^\|]+\s+\|\s(\w+)\s+\|\s(\w+)\s+\|\s+(\d+)\s+\|\s(\w+)\s+\|\s+(.[^\s]+)\s+\|\s(.[^\|]+)\s+\|$`
     3. rows without prices: `^\|\s(\d{4})\s+\|\s(\w+).[^\|]+\s+\|\s(\w+)\s+\|\s(\w+)\s+\|\s+(\d+)\s+\|\s+\|\s+\|\s(.[^\|]+)\s+\|$`
 2. replace:
     2. rows with prices
     
     ```xml
-    | $1 | $2 | <measureGrp location="$2" when="$1-01-01" source="$8"><measure commodity="$3" unit="$4" quantity="$5">$3 | $4 | $5</measure> | <measure commodity="currency" unit="$6" quantity="$7">$6 | $7</measure></measureGrp> | $8 |
+    | $1 | $2 | <measureGrp location="$2" when="$1" source="$8"><measure commodity="$3" unit="$4" quantity="$5">$3 | $4 | $5</measure> | <measure commodity="currency" unit="$6" quantity="$7">$6 | $7</measure></measureGrp> | $8 |
     ```
 
     3. rows without prices
 
     ```xml
-    | $1 | $2 | <measureGrp location="$2" when="$1-01-01" source="$6"><measure commodity="$3" unit="$4" quantity="$5">$3 | $4 | $5</measure> |   | </measureGrp> | $6 |
+    | $1 | $2 | <measureGrp location="$2" when="$1" source="$6"><measure commodity="$3" unit="$4" quantity="$5">$3 | $4 | $5</measure> |   | </measureGrp> | $6 |
     ```
 
 # tables
