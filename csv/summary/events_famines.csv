@@ -1,15 +1,15 @@
-"date";"date.end";"duration";"type";"location.name";"comment";"source";"date.common"
-1685-01-01;"";NA;"famine";"Aleppo";" no exact date";"{Ayalon 2014@65-66}";2000-01-01
-1695-01-01;"";NA;"famine";"Cairo";"no exact date";"{Ayalon 2014@68}";2000-01-01
-1696-01-01;"";NA;"famine";"Aleppo";" no exact date";"{Ayalon 2014@65}";2000-01-01
-1728-01-01;"";NA;"famine";"Aleppo";"no exact date";"{Ayalon 2014@74}";2000-01-01
-1743-01-01;"1745 ";NA;"famine";"Damascus";"no exact date";"{Ayalon 2014@68}";2000-01-01
-1745-01-01;"";NA;"famine";"Aleppo";" no exact date";"{Ayalon 2014@74}";2000-01-01
-1757-01-01;"1758";NA;"famine";"Damascus";" no exact date";"{Ayalon 2014@65}{Grehan 1999@142}";2000-01-01
-1757-01-01;"";NA;"famine";"Aleppo";"no exact date";"{Ayalon 2014@151}";2000-01-01
-1763-01-01;"";NA;"famine";"Adana";"no exact date";"{Ayalon 2014@149}";2000-01-01
-1770-01-01;"";NA;"famine";"Aleppo";"no exact date";"{Ayalon 2014@66}";2000-01-01
-1787-01-01;"1788";NA;"famine";"Diyarbakır (towns around)";" no exact date";"{Ayalon 2014@74}";2000-01-01
-1873-01-01;"1875";NA;"famine";"Anatolia";"";"{Ertem 2017}";2000-01-01
-1878-01-01;"1880";NA;"famine";"Iraq";"";"{Herzog 2012@431}";2000-01-01
-1879-01-01;"1881";NA;"famine";"Anatolia";"";"{Ertem 2017}";2000-01-01
+"date","date.end","duration","type","location.name","comment","source","date.common"
+1685-01-01,"",NA,"famine","Aleppo"," no exact date","{Ayalon 2014@65-66}",2000-01-01
+1695-01-01,"",NA,"famine","Cairo","no exact date","{Ayalon 2014@68}",2000-01-01
+1696-01-01,"",NA,"famine","Aleppo"," no exact date","{Ayalon 2014@65}",2000-01-01
+1728-01-01,"",NA,"famine","Aleppo","no exact date","{Ayalon 2014@74}",2000-01-01
+1743-01-01,"1745 ",NA,"famine","Damascus","no exact date","{Ayalon 2014@68}",2000-01-01
+1745-01-01,"",NA,"famine","Aleppo"," no exact date","{Ayalon 2014@74}",2000-01-01
+1757-01-01,"1758",NA,"famine","Damascus"," no exact date","{Ayalon 2014@65}{Grehan 1999@142}",2000-01-01
+1757-01-01,"",NA,"famine","Aleppo","no exact date","{Ayalon 2014@151}",2000-01-01
+1763-01-01,"",NA,"famine","Adana","no exact date","{Ayalon 2014@149}",2000-01-01
+1770-01-01,"",NA,"famine","Aleppo","no exact date","{Ayalon 2014@66}",2000-01-01
+1787-01-01,"1788",NA,"famine","Diyarbakır (towns around)"," no exact date","{Ayalon 2014@74}",2000-01-01
+1873-01-01,"1875",NA,"famine","Anatolia","","{Ertem 2017}",2000-01-01
+1878-01-01,"1880",NA,"famine","Iraq","","{Herzog 2012@431}",2000-01-01
+1879-01-01,"1881",NA,"famine","Anatolia","","{Ertem 2017}",2000-01-01
