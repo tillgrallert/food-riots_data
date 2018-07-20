@@ -36,24 +36,61 @@ In order to convert this table to more practical `<tei:measureGrp>`, use the fol
 ## exports
 
 
-| date |   location   | commodity | measure | quantity | currency | value |                source                |
-|------|--------------|-----------|---------|----------|----------|-------|--------------------------------------|
-| 1893 | Damascus     | flour     | cwt     |   250000 | gbp      | 72000 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
-| 1893 | Damascus     | cereals   | cwt     |    25000 | gbp      |  7600 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
-| 1892 | Damascus     | flour     | cwt     |   187500 | gbp      | 70000 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
-| 1892 | Damascus     | cereals   |         |          | gbp      |  7600 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
-| 1892 | Haifa / Acre | wheat     | qr-av   |    50110 | gbp      | 70154 | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1893 | Haifa / Acre | wheat     | qr-av   |    13910 | gbp      | 12519 | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1892 | Saida        | wheat     | bushel  |    16000 |          |       | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1892 | Saida        | barley    | bushel  |    32000 |          |       | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1892 | Saida        | millet    | bushel  |     6000 |          |       | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1892 | Tripoli      | barley    | qr-av   |     1228 |          |       | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1892 | Tripoli      | wheat     | qr-av   |     9260 |          |       | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1893 | Tripoli      | wheat     | qr-av   |     4508 | gbp      |  6524 | 3AB233EA-2076-4723-AABE-1499E9326D5C |
-| 1894 | Damascus     | flour     | qr-av   |   250000 | gbp      | 60000 | 8D01452F-7446-4B13-8286-C699929310FE |
-| 1894 | Damascus     | cereals   | qr-av   |    50000 | gbp      |  8000 | 8D01452F-7446-4B13-8286-C699929310FE |
-| 1894 | Damascus     | flour     | qr-av   |   250000 | gbp      | 72000 | 8D01452F-7446-4B13-8286-C699929310FE |
-| 1894 | Damascus     | cereals   | qr-av   |    25000 | gbp      |  7000 | 8D01452F-7446-4B13-8286-C699929310FE |
+| date |   location   | commodity | measure | quantity | currency | value  |                source                |
+|------|--------------|-----------|---------|----------|----------|--------|--------------------------------------|
+| 1891 | Alexandretta | cereals   | ton-uk  |    19496 | gbp      | 113004 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Alexandretta | cereals   | ton-uk  |    14945 | gbp      |  85752 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Mersin       | wheat     | ton-uk  |    62000 | gbp      | 393000 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Mersin       | wheat     | ton-uk  |    28850 | gbp      |  16500 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Mersin       | barley    | ton-uk  |    31500 | gbp      |  22500 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Mersin       | barley    | ton-uk  |    18250 | gbp      |  58500 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Mersin       | oats      | ton-uk  |     5600 | gbp      |  22500 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Mersin       | oats      | ton-uk  |    10300 | gbp      |  33000 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Mersin       | millet    | ton-uk  |     1900 | gbp      |   9500 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Mersin       | millet    | ton-uk  |      600 | gbp      |   1650 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Adana        | wheat     | ton-uk  |   100000 | gbp      | 633000 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Adana        | wheat     | ton-uk  |    47700 | gbp      | 283000 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Adana        | barley    | ton-uk  |    66500 | gbp      | 340400 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Adana        | barley    | ton-uk  |    59250 | gbp      | 189500 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Adana        | millet    | ton-uk  |     4900 | gbp      |  24500 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1890 | Adana        | millet    | ton-uk  |     2100 | gbp      |   8650 | ABDA2C1D-2396-475F-B922-B3307910D959 |
+| 1891 | Jaffa        | wheat     | qr-av   |     2695 | gbp      |   3300 | 4E6DC2B2-9835-496C-A069-E706B7277DE0 |
+| 1890 | Jaffa        | wheat     | qr-av   |    20805 | gbp      |  19920 | 4E6DC2B2-9835-496C-A069-E706B7277DE0 |
+| 1891 | Jaffa        | maize     | qr-av   |    18325 | gbp      |  17300 | 4E6DC2B2-9835-496C-A069-E706B7277DE0 |
+| 1890 | Jaffa        | maize     | qr-av   |    17476 | gbp      |  11240 | 4E6DC2B2-9835-496C-A069-E706B7277DE0 |
+| 1892 | Damascus     | flour     | cwt     |   187500 | gbp      |  70000 | 7DFF128B-44EC-434C-B1C3-E74CB611A1E1 |
+| 1891 | Damascus     | flour     | cwt     |   125000 | gbp      |  53960 | 7DFF128B-44EC-434C-B1C3-E74CB611A1E1 |
+| 1892 | Damascus     | cereals   |         |          | gbp      |   7600 | 7DFF128B-44EC-434C-B1C3-E74CB611A1E1 |
+| 1891 | Damascus     | cereals   |         |          | gbp      |  20000 | 7DFF128B-44EC-434C-B1C3-E74CB611A1E1 |
+| 1893 | Jaffa        | maize     | qr-av   |     3246 | gbp      |   2580 | E01E25C5-9CFE-4D35-8FB2-A3DFB7EC8EF0 |
+| 1892 | Jaffa        | maize     | qr-av   |      695 | gbp      |    420 | E01E25C5-9CFE-4D35-8FB2-A3DFB7EC8EF0 |
+| 1893 | Alexandretta | cereals   | ton-uk  |     2394 | gbp      |  10357 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1892 | Alexandretta | cereals   | ton-uk  |     7113 | gbp      |  36211 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1893 | Adana        | wheat     | ton-uk  |    11328 | gbp      |  50000 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1892 | Adana        | wheat     | ton-uk  |    56000 | gbp      | 325000 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1893 | Adana        | barley    | ton-uk  |     4850 | gbp      |  15500 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1892 | Adana        | barley    | ton-uk  |     9400 | gbp      |  38100 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1893 | Adana        | oats      | ton-uk  |     8110 | gbp      |  32500 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1892 | Adana        | oats      | ton-uk  |     8300 | gbp      |  31200 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1893 | Adana        | millet    | ton-uk  |      825 | gbp      |   3300 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1892 | Adana        | millet    | ton-uk  |      500 | gbp      |   2500 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1892 | Adana        | rye       | ton-uk  |     1600 | gbp      |   8000 | 729A9379-398E-48D9-864C-7A56EE088030 |
+| 1893 | Damascus     | flour     | cwt     |   250000 | gbp      |  72000 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
+| 1893 | Damascus     | cereals   | cwt     |    25000 | gbp      |   7600 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
+| 1892 | Damascus     | flour     | cwt     |   187500 | gbp      |  70000 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
+| 1892 | Damascus     | cereals   |         |          | gbp      |   7600 | 5BACF30F-DD45-4D02-ABB8-E3723CC7B194 |
+| 1892 | Haifa / Acre | wheat     | qr-av   |    50110 | gbp      |  70154 | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1893 | Haifa / Acre | wheat     | qr-av   |    13910 | gbp      |  12519 | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1892 | Saida        | wheat     | bushel  |    16000 |          |        | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1892 | Saida        | barley    | bushel  |    32000 |          |        | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1892 | Saida        | millet    | bushel  |     6000 |          |        | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1892 | Tripoli      | barley    | qr-av   |     1228 |          |        | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1892 | Tripoli      | wheat     | qr-av   |     9260 |          |        | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1893 | Tripoli      | wheat     | qr-av   |     4508 | gbp      |   6524 | 3AB233EA-2076-4723-AABE-1499E9326D5C |
+| 1894 | Damascus     | flour     | qr-av   |   250000 | gbp      |  60000 | 8D01452F-7446-4B13-8286-C699929310FE |
+| 1894 | Damascus     | cereals   | qr-av   |    50000 | gbp      |   8000 | 8D01452F-7446-4B13-8286-C699929310FE |
+| 1894 | Damascus     | flour     | qr-av   |   250000 | gbp      |  72000 | 8D01452F-7446-4B13-8286-C699929310FE |
+| 1894 | Damascus     | cereals   | qr-av   |    25000 | gbp      |   7000 | 8D01452F-7446-4B13-8286-C699929310FE |
 
 | 1894 | Alexandretta | <measureGrp location="Alexandretta" when="1894" source="A2807B15-24DC-44A9-ADE0-3FE460392616"><measure commodity="cereals" unit="ton-uk" quantity="2043">cereals | ton-uk | 2043</measure>  | <measure commodity="currency" unit="gbp" quantity="9891">gbp    | 9891</measure></measureGrp>    | A2807B15-24DC-44A9-ADE0-3FE460392616 |
 | 1893 | Alexandretta | <measureGrp location="Alexandretta" when="1893" source="A2807B15-24DC-44A9-ADE0-3FE460392616"><measure commodity="cereals" unit="ton-uk" quantity="2394">cereals | ton-uk | 2394</measure>  | <measure commodity="currency" unit="gbp" quantity="10357">gbp   | 10357</measure></measureGrp>   | A2807B15-24DC-44A9-ADE0-3FE460392616 |
