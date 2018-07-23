@@ -1,4 +1,4 @@
-"date","date.end","duration","type","location.name","comment","source","date.common"
+"schema.date","schema.endDate","duration","type","schema.Place","comment","source","date.common"
 1674-01-01,"",NA,"food riot","Aleppo","no exact date","{Ayalon 2014@67-68}",2000-01-01
 1734-01-01,"",NA,"food riot","Aleppo","no exact date","{Ayalon 2014@68}",2000-01-01
 1743-01-01,"",NA,"food riot","Damascus","no exact date, but July","{Ayalon 2014@68}{Grehan 1999@109,151}{Sajdi 2002@170}, al-Budayrī",2000-01-01

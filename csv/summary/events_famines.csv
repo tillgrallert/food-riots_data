@@ -1,4 +1,4 @@
-"date","date.end","duration","type","location.name","comment","source","date.common"
+"schema.date","schema.endDate","duration","type","schema.Place","comment","source","date.common"
 1685-01-01,"",NA,"famine","Aleppo"," no exact date","{Ayalon 2014@65-66}",2000-01-01
 1695-01-01,"",NA,"famine","Cairo","no exact date","{Ayalon 2014@68}",2000-01-01
 1696-01-01,"",NA,"famine","Aleppo"," no exact date","{Ayalon 2014@65}",2000-01-01

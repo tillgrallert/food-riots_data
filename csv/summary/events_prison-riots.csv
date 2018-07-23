@@ -1,4 +1,4 @@
-"date","date.end","duration","type","location.name","comment","source","date.common"
+"schema.date","schema.endDate","duration","type","schema.Place","comment","source","date.common"
 1882-06-29,"",NA,"prison riot","Damascus","60 prisoners escaped from the citadel","F4BF7FE2-B79A-4DA1-9802-CEA0CAA4924C 8D652629-AE8E-4FE2-AE85-525DAFF88BB8 527B8A5E-FCD0-4909-806E-2D80A0223E23 E03B77C2-1595-4C6D-9B0D-CC7E372E8C7B",2000-06-28
 1892-01-24,"",NA,"prison riot","Beirut","60 prisoners escaped","26491973-8B41-44E9-A0D8-B6548DF0FA78",2000-01-24
 1894-05-16,"",NA,"prison riot","Damascus","","D0EA12EB-FD68-4759-BA61-E20044642061 8C333341-36D1-496F-8591-CED7B55CE427 813B6017-812A-4DC8-B10C-A5ECB1D4B73C",2000-05-15

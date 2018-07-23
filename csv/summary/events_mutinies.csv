@@ -1,4 +1,4 @@
-"date","date.end","duration","type","location.name","comment","source","date.common"
+"schema.date","schema.endDate","duration","type","schema.Place","comment","source","date.common"
 1877-04-24,"",NA,"mutiny","Damascus","no exact date","B0626137-27FD-4274-A33B-03C1AABBF3A5",2000-04-23
 1900-11-03,"1900-11-05",NA,"mutiny","Damascus","","",2000-11-02
 1901-01-01,"",NA,"mutiny","Beirut","Ḥijāz railway","{Ochsenwald 1980@8}",2000-01-01
