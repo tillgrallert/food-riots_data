@@ -1,4 +1,4 @@
-date, location, source, tag
+schema:date, schema:Place, source, tag
 1885,London,009A28BD-D028-4165-AADF-6B5036BC609A,prices: falling
 1898-05-30,Bayrūt,03221A40-231D-4A49-8EB8-E42B20A69D78,prices: falling
 1879-03-17,Bayrūt,03A28BC0-1436-4F3B-8C8B-74A6697DA5F5,prices: falling

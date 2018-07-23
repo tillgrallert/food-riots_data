@@ -1,4 +1,4 @@
-date, duration, location, source, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2, commodity-3, quantity-3, unit-3,
+schema:date, duration, schema:Place, source, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2, commodity-3, quantity-3, unit-3,
 1858-01-01,,Bayrūt,258FC9E7-A9B3-4EB3-BA59-C99A9D208F21,"Beirut and Mount Lebanon: Ps 120 per year",newspaper,1,day,currency,0.3287671232876712,ops,
 1858-01-01,,Bayrūt,258FC9E7-A9B3-4EB3-BA59-C99A9D208F21,"Ottoman Empire: Ps 144 per year",newspaper,1,day,currency,0.39452054794520547,ops,
 1858-03-01,,Bayrūt,A6A37DA4-5810-4073-91C0-494E64AB65FB,"best wheatPs 9",wheat,1,kile,currency,9,ops,

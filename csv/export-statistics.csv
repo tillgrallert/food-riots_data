@@ -1,4 +1,4 @@
-date, duration, location.name, source, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2, 
+schema:date, duration, schema:Place, source, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quantity-2, unit-2, 
 1889,P1Y,Mersin,2B2DFE93-9930-4C62-92B6-56F2E166130F,"wheat | ton | 15173 | gbp | 85000",wheat,1.5416464947416052E7,kg,currency,85000,gbp,
 1888,P1Y,Mersin,2B2DFE93-9930-4C62-92B6-56F2E166130F,"wheat | ton | 7560 | gbp | 40320",wheat,7.681307256473035E6,kg,currency,40320,gbp,
 1889,P1Y,Mersin,2B2DFE93-9930-4C62-92B6-56F2E166130F,"barley | ton | 8100 | gbp | 25800",barley,8.229972060506823E6,kg,currency,25800,gbp,

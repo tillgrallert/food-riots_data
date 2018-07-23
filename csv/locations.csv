@@ -1,4 +1,4 @@
-schema:name,schema:latitude,schema:longitude
+schema:Place,schema:latitude,schema:longitude
 'Uqayba,36.43822,36.96762
 Aaley,33.810086,35.603245
 Acre,32.923925,35.070630
