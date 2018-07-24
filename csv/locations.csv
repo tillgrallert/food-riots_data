@@ -1,987 +1,1075 @@
-schema:place,schema:latitude,schema:longitude,schema:language,schema:identifier
-'Uqayba,36.43822,36.96762,,geon:173134
-Aaley,33.810086,35.603245,,geon:280425
-Acre,32.923925,35.070630,,geon:295721
-Ad Daḩdāḩ,33.517628,36.305194,,geon:174271
-Adana,37.00167,35.32889,en,geon:325363
-Africa,7.1881,21.09375,en,geon:6255146
-Afrika,7.1881,21.09375,de,geon:6255146
-Afrique,7.1881,21.09375,fr,geon:6255146
-Ain Zarqa,32.07275,36.08796,,geon:250090
-Ain Zerka,32.07275,36.08796,,geon:250090
-Ain el-Fiji,33.63578,36.18944,,geon:7894838
-Ain ez Zarka,32.07275,36.08796,,geon:250090
-Ain ez Zarqa,32.07275,36.08796,,geon:250090
-Ain-Fijeh,33.63578,36.18944,,geon:7894838
-Ain-Zerka,32.07275,36.08796,,geon:250090
-Ajloun,32.33385,35.75238,en,geon:250799
-Ajlun,32.33385,35.75238,,geon:250799
-Akka,32.923925,35.070630,en,geon:295721
-Akkon,32.923925,35.070630,,geon:295721
-Al Başrah,30.53302,47.79747,,geon:99532
-Al Hegr,26.8061,37.95512,,geon:104645
-Al Hijr,26.8061,37.95512,,geon:104645
-Al Hudaydah,14.79781,42.95452,en,geon:79415
-Al H̱egr,26.8061,37.95512,,geon:104645
-Al Khirbah as Samra',32.1796,36.16477,,geon:250609
-Al Khirbah as Samrā’,32.1796,36.16477,,geon:250609
-Al Lajāh,32.93481,36.385,,geon:173573
-Al Mafraq,32.34289,36.20804,,geon:250582
-Al Mazzah,33.49991,36.24763,,geon:173470
-Al Muzayrīb,32.71099,36.02743,,geon:166503
-Al Qabun,33.54309,36.33604,,geon:173396
-Al Qaymarīyah,33.5108,36.3094,,geon:7642461
-Al Qunaytirah,33.12594,35.82461,,geon:173334
-Al Qunayţirah,33.12594,35.82461,,geon:173334
-Al Qābūn,33.54309,36.33604,,geon:173396
-Al Sheikh Maskin,32.82944,36.15933,,geon:164328
-Al Ḩamīdīyah,33.5106,36.3051,,geon:7642567
-Al Ḩijr,26.8061,37.95512,,geon:104645
-Al-Hajar,26.8061,37.95512,,geon:104645
-Alaska,64.00028,-150.00028,en,geon:5879092
-Aleih,33.810086,35.603245,,geon:280425
-Aleppo,36.20124,37.16117,,geon:170063
-Alexandretta,36.58718,36.17347,en,geon:311111
-Alexandria,31.20176,29.91582,en,geon:361058
-Aleyh,33.810086,35.603245,,geon:280425
-Algarve,37.18849,-8.15642,fr,geon:2271989
-Algeria,28,3,en,geon:2589581
-Algerien,28,3,de,geon:2589581
-Algérie,28,3,fr,geon:2589581
-Allemagne,51.5,10.5,fr,geon:2921044
-Almanya,51.5,10.5,tr,geon:2921044
-Amerika Birleşik Devletleri,39.76,-98.5,tr,geon:6252001
-Anadolu,39,35,tr,geon:323835
-Anatolia,39,35,en,geon:323835
-Anatolien,39,35,de,geon:323835
-Andalusia,37.6,-4.5,en,geon:2521750
-Argentina,-34,-64,en,geon:3865483
-Argentine,-34,-64,fr,geon:3865483
-Argentinien,-34,-64,de,geon:3865483
-Arjantin,-34,-64,tr,geon:3865483
-As Salţ,32.03917,35.72722,,geon:250258
-Ash Shāghūr,33.506789,36.305853,,geon:250295
-Asia,29.84064,89.29688,en,geon:6255147
-Asia Minor,39,35,en,geon:323835
-Asie,29.84064,89.29688,fr,geon:6255147
-Asien,29.84064,89.29688,de,geon:6255147
-Assouan,24.09082,32.89942,fr,geon:359792
-Assuan,24.09082,32.89942,de,geon:359792
-Astāna,41.01384,28.94966,ar-Latn-x-ijmes,geon:745044
-Asvan,24.09082,32.89942,tr,geon:359792
-Aswān,24.09082,32.89942,en,geon:359792
-Asya,29.84064,89.29688,tr,geon:6255147
-Attaouba Mosque,33.51523,36.30435,,geon:7642661
-Australia,-25,135,en,geon:2077456
-Australie,-25,135,fr,geon:2077456
-Australien,-25,135,de,geon:2077456
-Austria,47.33333,13.33333,en,geon:2782113
-Autriche,47.33333,13.33333,fr,geon:2782113
-Avustralya,-25,135,tr,geon:2077456
-Avusturya,47.33333,13.33333,tr,geon:2782113
-Ayn Fija,33.63578,36.18944,,geon:7894838
-Az Zabadānī,33.72488,36.1005,,geon:172059
-Az Zarqa',32.07275,36.08796,,geon:250090
-Az Zarqā’,32.07275,36.08796,,geon:250090
-Azaura,35.33588,40.14084,,geon:170794
-Baab Sherki,33.50944,36.3179,,geon:7642405
-Baab Touma,33.5108,36.3154,,geon:7642471
-Baalbec,34.00583,36.21806,,geon:277130
-Baalbek,34.00583,36.21806,,geon:277130
-Baalbek (kaza),34.00583,36.21806,,geon:277130
-Bab Musalla,33.49886,36.30045,,geon:7642484
-Bab Sarija,33.5049,36.2982,,geon:7642482
-Bab Sharqi,33.50944,36.3179,,geon:7642405
-Bab Tuma,33.5108,36.3154,,geon:7642471
-Bab al-Barid,33.5106,36.3051,,geon:7642567
-Bab al-Jabiyya,33.5055,36.3013,,geon:8379592
-Bab al-Saghir,33.50611,36.30668,,geon:7642410
-Baghdad,33.34058,44.40088,,geon:98182
-Baghdād,33.34058,44.40088,ar-Latn-x-ijmes,geon:98182
-Bahsa,33.51262,36.29969,,geon:7642463
-Bakou,40.37767,49.89201,fr,geon:587084
-Baku,40.37767,49.89201,en,geon:587084
-Bakü,40.37767,49.89201,tr,geon:587084
-Baramke,33.51667,36.28333,,geon:171794
-Baramke railway station,33.51667,36.28333,,geon:171794
-Baramke station,33.51667,36.28333,,geon:171794
-Barmakieh,33.51667,36.28333,,geon:171794
-Barza,33.55181,36.31479,,geon:171742
-Barzeh,33.55181,36.31479,,geon:171742
-Barāmikah,33.51667,36.28333,,geon:171794
-Basra,30.53302,47.79747,,geon:99532
-Batroun,34.25528,35.65806,ar-Latn-FR,geon:280328
-Bayrūt,33.88894,35.49442,ar-Latn-x-ijmes,geon:276781
-Baʿalbak,34.00583,36.21806,ar-Latn-x-ijmes,geon:277130
-Baʿalbek,34.00583,36.21806,,geon:277130
-Baḥṣa,33.51262,36.29969,ar-Latn-x-ijmes,geon:7642463
-Baṣra,30.53302,47.79747,ar-Latn-x-ijmes,geon:99532
-Beirout,33.88894,35.49442,,geon:276781
-Beirut,33.88894,35.49442,,geon:276781
-Beka'a,33.66667,35.83333,,geon:280282
-Bekaa,33.66667,35.83333,,geon:280282
-Bekaa (kaza),33.66667,35.83333,,geon:280282
-Belgien,50.75,4.5,de,geon:2802361
-Belgique,50.75,4.5,fr,geon:2802361
-Belgium,50.75,4.5,en,geon:2802361
-Belçika,50.75,4.5,tr,geon:2802361
-Beqaa,33.66667,35.83333,,geon:280282
-Beqāʿ,33.66667,35.83333,,geon:280282
-Berlin,52.52437,13.41053,en,geon:2950159
-Bern,46.94809,7.44744,de,geon:2661552
-Berne,46.94809,7.44744,fr,geon:2661552
-Beyrout,33.88894,35.49442,,geon:276781
-Bilād al-Shām,32.8686,44.84908,ar-Latn-x-ijmes,geon:6754242
-Biqāʿ,33.66667,35.83333,ar-Latn-x-ijmes,geon:280282
-Bludan,33.72329,36.12549,,geon:171331
-Blūdān,33.72329,36.12549,,geon:171331
-Bolivia,-17,-65,en,geon:3923057
-Bolivie,-17,-65,fr,geon:3923057
-Bolivien,-17,-65,de,geon:3923057
-Bolivya,-17,-65,tr,geon:3923057
-Bologna,44.49381,11.33875,en,geon:3181928
-Bologne,44.49381,11.33875,fr,geon:3181928
-Bolonya,44.49381,11.33875,tr,geon:3181928
-Bosr al-Harir,32.84456,36.34077,,geon:171127
-Bosra,32.52013,36.48256,fr,geon:171126
-Bosra al-Sham,32.52013,36.48256,en,geon:171126
-Bosra eski Sham,32.52013,36.48256,,geon:171126
-Boston,42.35843,-71.05977,en,geon:4930956
-Bostra,32.52013,36.48256,de,geon:171126
-Bourj el Rous,33.51641,36.31619,,geon:7642535
-Brasilien,-10,-55,de,geon:3469034
-Brazil,-10,-55,en,geon:3469034
-Brezilya,-10,-55,tr,geon:3469034
-British consulate,33.50997,36.30958,,geon:8373421
-Brésil,-10,-55,fr,geon:3469034
-Buenos Aires,-34.61315,-58.37723,en,geon:3435910
-Bulgaria,42.66667,25.25,en,geon:732800
-Bulgarie,42.66667,25.25,fr,geon:732800
-Bulgarien,42.66667,25.25,de,geon:732800
-Bulgaristan,42.66667,25.25,tr,geon:732800
-Burj al-Rus,33.51641,36.31619,,geon:7642535
-Burj al-Rūs,33.51641,36.31619,ar-Latn-x-ijmes,geon:7642535
-Buşra al Ḩarīrī,32.84456,36.34077,,geon:171127
-Buşrá al Ḩarīrī,32.84456,36.34077,en,geon:171127
-Buṣr al-Ḥarīr,32.84456,36.34077,ar-Latn-x-ijmes,geon:171127
-Buṣrā eskī shām,32.52013,36.48256,ar-Latn-x-ijmes,geon:171126
-Bāb Muṣallā,33.49886,36.30045,ar-Latn-x-ijmes,geon:7642484
-Bāb Sarīja,33.5049,36.2982,ar-Latn-x-ijmes,geon:7642482
-Bāb Sharqī,33.50944,36.3179,,geon:7642405
-Bāb Tūmā,33.5108,36.3154,,geon:7642471
-Bāb al-Barīd,33.5106,36.3051,ar-Latn-x-ijmes,geon:7642567
-Bāb al-Jābiyya,33.5055,36.3013,ar-Latn-x-ijmes,geon:8379592
-Bāb al-Ṣaghīr,33.50611,36.30668,ar-Latn-x-ijmes,geon:7642410
-Bāb aş Şaghīr,33.50611,36.30668,,geon:7642410
-Caiffa,32.81841,34.9885,,geon:294801
-Cairo,30.06263,31.24967,en,geon:360630
-Caucasus,42,45,en,geon:615318
-Caza de Rachaiya,33.53333,35.83333,,geon:268737
-Caza de Rachaïya,33.53333,35.83333,,geon:268737
-Cenevre,46.20222,6.14569,tr,geon:2660646
-Cezayir,28,3,tr,geon:2589581
-Chicago,41.85003,-87.65005,en,geon:4887398
-China,35,105,en,geon:1814991
-Chine,35,105,fr,geon:1814991
-Cidde,21.54238,39.19797,tr,geon:105343
-Consple,41.01384,28.94966,en,geon:745044
-Constantinople,41.01384,28.94966,,geon:745044
-Constple,41.01384,28.94966,en,geon:745044
-Crimea,45,34,en,geon:703884
-DEZ,35.33588,40.14084,,geon:170794
-Dahdah,33.517628,36.305194,,geon:174271
-Dair az-Zaur,35.33588,40.14084,,geon:170794
-Dair az-Zaŭr,35.33588,40.14084,,geon:170794
-Dajr az-Zaur,35.33588,40.14084,,geon:170794
-Dajr ez-Zaur,35.33588,40.14084,,geon:170794
-Damanhur,31.03408,30.46823,en,geon:358448
-Damas,33.5102,36.29128,fr,geon:170654
-Damascus,33.5102,36.29128,,geon:170654
-Damascus (Province),35,38,,geon:163843
-Damaskus,33.5102,36.29128,de,geon:170654
-Danemark,56,10,fr,geon:2623032
-Danimarka,56,10,tr,geon:2623032
-Darʿā,32.61889,36.10213,ar-Latn-x-ijmes,geon:170905
-Dayr Atiyah,34.143,36.75974,,geon:7895199
-Dayr Atiyya,34.143,36.75974,,geon:7895199
-Dayr al-Zawr,35.33588,40.14084,,geon:170794
-Dayr al-Zor,35.33588,40.14084,,geon:170794
-Dayr al-Zur,35.33588,40.14084,,geon:170794
-Dayr al-Zūr,35.33588,40.14084,ar-Latn-x-ijmes,geon:170794
-Dayr az Zawr,35.33588,40.14084,en,geon:170794
-Dayr az Zur,35.33588,40.14084,,geon:170794
-Dayr az Zūr,35.33588,40.14084,,geon:170794
-Dayr az-Zawr,35.33588,40.14084,,geon:170794
-Dayr ʿAṭiyya,34.143,36.75974,ar-Latn-x-ijmes,geon:7895199
-Daḥdāḥ,33.517628,36.305194,ar-Latn-x-ijmes,geon:174271
-Deir Azzor,35.33588,40.14084,,geon:170794
-Deir Zzor,35.33588,40.14084,,geon:170794
-Deir al-Zor,35.33588,40.14084,,geon:170794
-Deir el-Zor,35.33588,40.14084,,geon:170794
-Deir ez Zoar,35.33588,40.14084,,geon:170794
-Deir ez Zor,35.33588,40.14084,,geon:170794
-Deir ez Zoras,35.33588,40.14084,,geon:170794
-Deir ez-Zor,35.33588,40.14084,,geon:170794
-Dejr ez-Zor,35.33588,40.14084,,geon:170794
-Dejr-ehz-Zor,35.33588,40.14084,,geon:170794
-Dejr-ez-Zor,35.33588,40.14084,,geon:170794
-Denmark,56,10,en,geon:2623032
-Der Ezzor,35.33588,40.14084,,geon:170794
-Der Zor,35.33588,40.14084,,geon:170794
-Deraa,32.61889,36.10213,,geon:170905
-Derʿā,32.61889,36.10213,,geon:170905
-Deutschland,51.5,10.5,de,geon:2921044
-Deyrizor,35.33588,40.14084,tr,geon:170794
-Deïr ez Zor,35.33588,40.14084,,geon:170794
-Dimashq,33.5102,36.29128,ar-Latn-x-ijmes,geon:170654
-Djeddah,21.54238,39.19797,fr,geon:105343
-Douma,33.57175,36.4027,,geon:170592
-Dschidda,21.54238,39.19797,de,geon:105343
-Duma,33.57175,36.4027,,geon:170592
-Dumar,33.53148,36.2436,,geon:170585
-Dänemark,56,10,de,geon:2623032
-Dūmā,33.57175,36.4027,ar-Latn-x-ijmes,geon:170592
-Edirne,41.67719,26.55597,en,geon:747712
-Ein Al Fejeh,33.63578,36.18944,,geon:7894838
-El Khirba es Samra,32.1796,36.16477,,geon:250609
-El Kuneitra,33.12594,35.82461,,geon:173334
-El Qnaitra,33.12594,35.82461,,geon:173334
-El Qnaïtra,33.12594,35.82461,,geon:173334
-El Quneitra,33.12594,35.82461,,geon:173334
-El Toba Mosque,33.51523,36.30435,,geon:7642661
-El-Fedein,32.34289,36.20804,,geon:250582
-Elephantine,24.08995,32.88938,en,geon:359790
-Eléphantine,24.08995,32.88938,fr,geon:359790
-Europe,50.21909,7.42676,en,geon:9408659
-Europe de l'Ouest,50.21909,7.42676,fr,geon:9408659
-Fes,34.03313,-5.00028,en,geon:2548885
-France,46,2,en,geon:3017382
-Frankreich,46,2,de,geon:3017382
-Fransa,46,2,tr,geon:3017382
-Fès,34.03313,-5.00028,fr,geon:2548885
-Gare Kadem,33.47619,36.29229,fr,geon:173393
-Gaziantep,37.05944,37.3825,en,geon:314830
-Geneva,46.20222,6.14569,en,geon:2660646
-Genf,46.20222,6.14569,de,geon:2660646
-Genève,46.20222,6.14569,fr,geon:2660646
-Germany,51.5,10.5,en,geon:2921044
+schema:Place,schema:latitude,schema:longitude,schema:language,schema:identifier
+'Uqayba,36.43822,36.96762,,https://www.geonames.org/173134
+Aaley,33.810086,35.603245,,https://www.geonames.org/280425
+Acre,32.923925,35.070630,en,https://www.geonames.org/295721
+Ad Daḩdāḩ,33.517628,36.305194,en,https://www.geonames.org/174271
+Adana,37.00167,35.32889,en,https://www.geonames.org/325363
+Africa,7.1881,21.09375,en,https://www.geonames.org/6255146
+Afrika,7.1881,21.09375,de,https://www.geonames.org/6255146
+Afrique,7.1881,21.09375,fr,https://www.geonames.org/6255146
+Ain Zarqa,32.07275,36.08796,,https://www.geonames.org/250090
+Ain Zerka,32.07275,36.08796,,https://www.geonames.org/250090
+Ain el-Fiji,33.63578,36.18944,,https://www.geonames.org/7894838
+Ain ez Zarka,32.07275,36.08796,,https://www.geonames.org/250090
+Ain ez Zarqa,32.07275,36.08796,,https://www.geonames.org/250090
+Ain-Fijeh,33.63578,36.18944,,https://www.geonames.org/7894838
+Ain-Zerka,32.07275,36.08796,,https://www.geonames.org/250090
+Ajloun,32.33385,35.75238,en,https://www.geonames.org/250799
+Ajlun,32.33385,35.75238,,https://www.geonames.org/250799
+Akka,32.923925,35.070630,en,https://www.geonames.org/295721
+Akko,32.923925,35.070630,de,https://www.geonames.org/295721
+Akkon,32.923925,35.070630,de,https://www.geonames.org/295721
+Al Başrah,30.53302,47.79747,,https://www.geonames.org/99532
+Al Hegr,26.8061,37.95512,,https://www.geonames.org/104645
+Al Hijr,26.8061,37.95512,,https://www.geonames.org/104645
+Al Hudaydah,14.79781,42.95452,en,https://www.geonames.org/79415
+Al H̱egr,26.8061,37.95512,,https://www.geonames.org/104645
+Al Khirbah as Samra',32.1796,36.16477,,https://www.geonames.org/250609
+Al Khirbah as Samrā’,32.1796,36.16477,,https://www.geonames.org/250609
+Al Lajāh,32.93481,36.385,,https://www.geonames.org/173573
+Al Mafraq,32.34289,36.20804,ar-Latn-x-ijmes,https://www.geonames.org/250582
+Al Mazzah,33.49991,36.24763,,https://www.geonames.org/173470
+Al Muzayrīb,32.71099,36.02743,,https://www.geonames.org/166503
+Al Qabun,33.54309,36.33604,,https://www.geonames.org/173396
+Al Qaymarīyah,33.5108,36.3094,en,https://www.geonames.org/7642461
+Al Qunaytirah,33.12594,35.82461,,https://www.geonames.org/173334
+Al Qunayţirah,33.12594,35.82461,,https://www.geonames.org/173334
+Al Qurayyat,34.022298,36.730134,en,https://www.geonames.org/108648
+Al Qābūn,33.54309,36.33604,,https://www.geonames.org/173396
+Al Sheikh Maskin,32.82944,36.15933,,https://www.geonames.org/164328
+Al Ḩamīdīyah,33.5106,36.3051,en,https://www.geonames.org/7642567
+Al Ḩijr,26.8061,37.95512,,https://www.geonames.org/104645
+Al-Hajar,26.8061,37.95512,,https://www.geonames.org/104645
+Alaska,64.00028,-150.00028,en,https://www.geonames.org/5879092
+Aleih,33.810086,35.603245,en,https://www.geonames.org/280425
+Alep,36.20124,37.16117,fr,https://www.geonames.org/170063
+Aleppo,36.20124,37.16117,en,https://www.geonames.org/170063
+Alexandretta,36.58718,36.17347,en,https://www.geonames.org/311111
+Alexandria,31.20176,29.91582,en,https://www.geonames.org/361058
+Alexandrie,31.20176,29.91582,fr,https://www.geonames.org/361058
+Aleyh,33.810086,35.603245,,https://www.geonames.org/280425
+Algarve,37.18849,-8.15642,fr,https://www.geonames.org/2271989
+Algeria,28,3,en,https://www.geonames.org/2589581
+Algerien,28,3,de,https://www.geonames.org/2589581
+Algérie,28,3,fr,https://www.geonames.org/2589581
+Allemagne,51.5,10.5,fr,https://www.geonames.org/2921044
+Almanya,51.5,10.5,tr,https://www.geonames.org/2921044
+Amerika Birleşik Devletleri,39.76,-98.5,tr,https://www.geonames.org/6252001
+Anadolu,39,35,tr,https://www.geonames.org/323835
+Anatolia,39,35,en,https://www.geonames.org/323835
+Anatolien,39,35,de,https://www.geonames.org/323835
+Andalusia,37.6,-4.5,en,https://www.geonames.org/2521750
+Argentina,-34,-64,en,https://www.geonames.org/3865483
+Argentine,-34,-64,fr,https://www.geonames.org/3865483
+Argentinien,-34,-64,de,https://www.geonames.org/3865483
+Arjantin,-34,-64,tr,https://www.geonames.org/3865483
+As Salţ,32.03917,35.72722,,https://www.geonames.org/250258
+Ash Shāghūr,33.506789,36.305853,en,https://www.geonames.org/250295
+Asia,29.84064,89.29688,en,https://www.geonames.org/6255147
+Asia Minor,39,35,en,https://www.geonames.org/323835
+Asie,29.84064,89.29688,fr,https://www.geonames.org/6255147
+Asien,29.84064,89.29688,de,https://www.geonames.org/6255147
+Assouan,24.09082,32.89942,fr,https://www.geonames.org/359792
+Assuan,24.09082,32.89942,de,https://www.geonames.org/359792
+Astāna,41.01384,28.94966,ar-Latn-x-ijmes,https://www.geonames.org/745044
+Asvan,24.09082,32.89942,tr,https://www.geonames.org/359792
+Aswān,24.09082,32.89942,en,https://www.geonames.org/359792
+Asya,29.84064,89.29688,tr,https://www.geonames.org/6255147
+Attaouba Mosque,33.51523,36.30435,,https://www.geonames.org/7642661
+Australia,-25,135,en,https://www.geonames.org/2077456
+Australie,-25,135,fr,https://www.geonames.org/2077456
+Australien,-25,135,de,https://www.geonames.org/2077456
+Austria,47.33333,13.33333,en,https://www.geonames.org/2782113
+Autriche,47.33333,13.33333,fr,https://www.geonames.org/2782113
+Avustralya,-25,135,tr,https://www.geonames.org/2077456
+Avusturya,47.33333,13.33333,tr,https://www.geonames.org/2782113
+Ayn Fija,33.63578,36.18944,,https://www.geonames.org/7894838
+Az Zabadānī,33.72488,36.1005,en,https://www.geonames.org/172059
+Az Zarqa',32.07275,36.08796,,https://www.geonames.org/250090
+Az Zarqā’,32.07275,36.08796,,https://www.geonames.org/250090
+Azaura,35.33588,40.14084,,https://www.geonames.org/170794
+Baab Sherki,33.50944,36.3179,,https://www.geonames.org/7642405
+Baab Touma,33.5108,36.3154,,https://www.geonames.org/7642471
+Baalbec,34.00583,36.21806,,https://www.geonames.org/277130
+Baalbek,34.00583,36.21806,en,https://www.geonames.org/277130
+Baalbek (kaza),34.00583,36.21806,,https://www.geonames.org/277130
+Bab Musalla,33.49886,36.30045,,https://www.geonames.org/7642484
+Bab Sarija,33.5049,36.2982,,https://www.geonames.org/7642482
+Bab Sharqi,33.50944,36.3179,,https://www.geonames.org/7642405
+Bab Tuma,33.5108,36.3154,,https://www.geonames.org/7642471
+Bab al-Barid,33.5106,36.3051,,https://www.geonames.org/7642567
+Bab al-Jabiyya,33.5055,36.3013,,https://www.geonames.org/8379592
+Bab al-Saghir,33.50611,36.30668,,https://www.geonames.org/7642410
+Bagdad,33.34058,44.40088,fr,https://www.geonames.org/98182
+Baghdad,33.34058,44.40088,en,https://www.geonames.org/98182
+Baghdād,33.34058,44.40088,ar-Latn-x-ijmes,https://www.geonames.org/98182
+Bahsa,33.51262,36.29969,en,https://www.geonames.org/7642463
+Bakou,40.37767,49.89201,fr,https://www.geonames.org/587084
+Baku,40.37767,49.89201,en,https://www.geonames.org/587084
+Bakü,40.37767,49.89201,tr,https://www.geonames.org/587084
+Baramke,33.51667,36.28333,,https://www.geonames.org/171794
+Baramke railway station,33.51667,36.28333,,https://www.geonames.org/171794
+Baramke station,33.51667,36.28333,,https://www.geonames.org/171794
+Barmakieh,33.51667,36.28333,,https://www.geonames.org/171794
+Barza,33.55181,36.31479,,https://www.geonames.org/171742
+Barzeh,33.55181,36.31479,,https://www.geonames.org/171742
+Barāmikah,33.51667,36.28333,,https://www.geonames.org/171794
+Basra,30.53302,47.79747,en,https://www.geonames.org/99532
+Bassorah,30.53302,47.79747,fr,https://www.geonames.org/99532
+Batroun,34.25528,35.65806,ar-Latn-FR,https://www.geonames.org/280328
+Bayrūt,33.88894,35.49442,ar-Latn-x-ijmes,https://www.geonames.org/276781
+Bağdat,33.34058,44.40088,tr,https://www.geonames.org/98182
+Baʿalbak,34.00583,36.21806,ar-Latn-x-ijmes,https://www.geonames.org/277130
+Baʿalbek,34.00583,36.21806,,https://www.geonames.org/277130
+Baḥṣa,33.51262,36.29969,ar-Latn-x-ijmes,https://www.geonames.org/7642463
+Baṣra,30.53302,47.79747,ar-Latn-x-ijmes,https://www.geonames.org/99532
+Beirout,33.88894,35.49442,,https://www.geonames.org/276781
+Beirut,33.88894,35.49442,en,https://www.geonames.org/276781
+Beka'a,33.66667,35.83333,,https://www.geonames.org/280282
+Bekaa,33.66667,35.83333,fr,https://www.geonames.org/280282
+Bekaa (kaza),33.66667,35.83333,,https://www.geonames.org/280282
+Belgien,50.75,4.5,de,https://www.geonames.org/2802361
+Belgique,50.75,4.5,fr,https://www.geonames.org/2802361
+Belgium,50.75,4.5,en,https://www.geonames.org/2802361
+Belçika,50.75,4.5,tr,https://www.geonames.org/2802361
+Beqaa,33.66667,35.83333,,https://www.geonames.org/280282
+Beqāʿ,33.66667,35.83333,,https://www.geonames.org/280282
+Berlin,52.52437,13.41053,en,https://www.geonames.org/2950159
+Bern,46.94809,7.44744,de,https://www.geonames.org/2661552
+Berne,46.94809,7.44744,fr,https://www.geonames.org/2661552
+Beyrout,33.88894,35.49442,,https://www.geonames.org/276781
+Beyrouth,33.88894,35.49442,fr,https://www.geonames.org/276781
+Beyrut,33.88894,35.49442,tr,https://www.geonames.org/276781
+Bilād al-Shām,32.8686,44.84908,ar-Latn-x-ijmes,https://www.geonames.org/6754242
+Biqāʿ,33.66667,35.83333,ar-Latn-x-ijmes,https://www.geonames.org/280282
+Bludan,33.72329,36.12549,,https://www.geonames.org/171331
+Blūdān,33.72329,36.12549,ar-Latn-x-ijmes,https://www.geonames.org/171331
+Bolivia,-17,-65,en,https://www.geonames.org/3923057
+Bolivie,-17,-65,fr,https://www.geonames.org/3923057
+Bolivien,-17,-65,de,https://www.geonames.org/3923057
+Bolivya,-17,-65,tr,https://www.geonames.org/3923057
+Bologna,44.49381,11.33875,en,https://www.geonames.org/3181928
+Bologne,44.49381,11.33875,fr,https://www.geonames.org/3181928
+Bolonya,44.49381,11.33875,tr,https://www.geonames.org/3181928
+Bosr al-Harir,32.84456,36.34077,,https://www.geonames.org/171127
+Bosra,32.52013,36.48256,fr,https://www.geonames.org/171126
+Bosra al-Sham,32.52013,36.48256,en,https://www.geonames.org/171126
+Bosra eski Sham,32.52013,36.48256,,https://www.geonames.org/171126
+Boston,42.35843,-71.05977,en,https://www.geonames.org/4930956
+Bostra,32.52013,36.48256,de,https://www.geonames.org/171126
+Bourj el Rous,33.51641,36.31619,,https://www.geonames.org/7642535
+Brasilien,-10,-55,de,https://www.geonames.org/3469034
+Brazil,-10,-55,en,https://www.geonames.org/3469034
+Brezilya,-10,-55,tr,https://www.geonames.org/3469034
+British consulate,33.50997,36.30958,,https://www.geonames.org/8373421
+Brésil,-10,-55,fr,https://www.geonames.org/3469034
+Buenos Aires,-34.61315,-58.37723,en,https://www.geonames.org/3435910
+Bulgaria,42.66667,25.25,en,https://www.geonames.org/732800
+Bulgarie,42.66667,25.25,fr,https://www.geonames.org/732800
+Bulgarien,42.66667,25.25,de,https://www.geonames.org/732800
+Bulgaristan,42.66667,25.25,tr,https://www.geonames.org/732800
+Burj al-Rus,33.51641,36.31619,,https://www.geonames.org/7642535
+Burj al-Rūs,33.51641,36.31619,ar-Latn-x-ijmes,https://www.geonames.org/7642535
+Buşra al Ḩarīrī,32.84456,36.34077,,https://www.geonames.org/171127
+Buşrá al Ḩarīrī,32.84456,36.34077,en,https://www.geonames.org/171127
+Buṣr al-Ḥarīr,32.84456,36.34077,ar-Latn-x-ijmes,https://www.geonames.org/171127
+Buṣrā eskī shām,32.52013,36.48256,ar-Latn-x-ijmes,https://www.geonames.org/171126
+Byzance,41.01384,28.94966,fr,https://www.geonames.org/745044
+Byzantion,41.01384,28.94966,de,https://www.geonames.org/745044
+Bāb Muṣallā,33.49886,36.30045,ar-Latn-x-ijmes,https://www.geonames.org/7642484
+Bāb Sarīja,33.5049,36.2982,ar-Latn-x-ijmes,https://www.geonames.org/7642482
+Bāb Sharqī,33.50944,36.3179,ar-Latn-x-ijmes,https://www.geonames.org/7642405
+Bāb Tūmā,33.5108,36.3154,ar-Latn-x-ijmes,https://www.geonames.org/7642471
+Bāb al-Barīd,33.5106,36.3051,ar-Latn-x-ijmes,https://www.geonames.org/7642567
+Bāb al-Jābiyya,33.5055,36.3013,ar-Latn-x-ijmes,https://www.geonames.org/8379592
+Bāb al-Ṣaghīr,33.50611,36.30668,ar-Latn-x-ijmes,https://www.geonames.org/7642410
+Bāb aş Şaghīr,33.50611,36.30668,en,https://www.geonames.org/7642410
+Caiffa,32.81841,34.9885,,https://www.geonames.org/294801
+Cairo,30.06263,31.24967,en,https://www.geonames.org/360630
+Caucasus,42,45,en,https://www.geonames.org/615318
+Caza de Rachaiya,33.53333,35.83333,,https://www.geonames.org/268737
+Caza de Rachaïya,33.53333,35.83333,,https://www.geonames.org/268737
+Cenevre,46.20222,6.14569,tr,https://www.geonames.org/2660646
+Cezayir,28,3,tr,https://www.geonames.org/2589581
+Chicago,41.85003,-87.65005,en,https://www.geonames.org/4887398
+China,35,105,en,https://www.geonames.org/1814991
+Chine,35,105,fr,https://www.geonames.org/1814991
+Cidde,21.54238,39.19797,tr,https://www.geonames.org/105343
+Consple,41.01384,28.94966,en,https://www.geonames.org/745044
+Constantinople,41.01384,28.94966,,https://www.geonames.org/745044
+Constple,41.01384,28.94966,en,https://www.geonames.org/745044
+Crimea,45,34,en,https://www.geonames.org/703884
+DEZ,35.33588,40.14084,,https://www.geonames.org/170794
+Dahdah,33.517628,36.305194,,https://www.geonames.org/174271
+Dair az-Zaur,35.33588,40.14084,,https://www.geonames.org/170794
+Dair az-Zaŭr,35.33588,40.14084,,https://www.geonames.org/170794
+Dajr az-Zaur,35.33588,40.14084,,https://www.geonames.org/170794
+Dajr ez-Zaur,35.33588,40.14084,,https://www.geonames.org/170794
+Damanhur,31.03408,30.46823,en,https://www.geonames.org/358448
+Damas,33.5102,36.29128,fr,https://www.geonames.org/170654
+Damascus,33.5102,36.29128,en,https://www.geonames.org/170654
+Damascus (Province),35,38,,https://www.geonames.org/163843
+Damaskus,33.5102,36.29128,de,https://www.geonames.org/170654
+Danemark,56,10,fr,https://www.geonames.org/2623032
+Danimarka,56,10,tr,https://www.geonames.org/2623032
+Darʿā,32.61889,36.10213,ar-Latn-x-ijmes,https://www.geonames.org/170905
+Dayr Atiyah,34.143,36.75974,,https://www.geonames.org/7895199
+Dayr Atiyya,34.143,36.75974,,https://www.geonames.org/7895199
+Dayr al-Zawr,35.33588,40.14084,,https://www.geonames.org/170794
+Dayr al-Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Dayr al-Zur,35.33588,40.14084,,https://www.geonames.org/170794
+Dayr al-Zūr,35.33588,40.14084,ar-Latn-x-ijmes,https://www.geonames.org/170794
+Dayr az Zawr,35.33588,40.14084,en,https://www.geonames.org/170794
+Dayr az Zur,35.33588,40.14084,,https://www.geonames.org/170794
+Dayr az Zūr,35.33588,40.14084,,https://www.geonames.org/170794
+Dayr az-Zawr,35.33588,40.14084,,https://www.geonames.org/170794
+Dayr ʿAṭiyya,34.143,36.75974,ar-Latn-x-ijmes,https://www.geonames.org/7895199
+Daḥdāḥ,33.517628,36.305194,ar-Latn-x-ijmes,https://www.geonames.org/174271
+Deir Azzor,35.33588,40.14084,,https://www.geonames.org/170794
+Deir Zzor,35.33588,40.14084,,https://www.geonames.org/170794
+Deir al-Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Deir el-Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Deir ez Zoar,35.33588,40.14084,,https://www.geonames.org/170794
+Deir ez Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Deir ez Zoras,35.33588,40.14084,,https://www.geonames.org/170794
+Deir ez-Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Dejr ez-Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Dejr-ehz-Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Dejr-ez-Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Denmark,56,10,en,https://www.geonames.org/2623032
+Der Ezzor,35.33588,40.14084,,https://www.geonames.org/170794
+Der Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Deraa,32.61889,36.10213,,https://www.geonames.org/170905
+Derʿā,32.61889,36.10213,,https://www.geonames.org/170905
+Deutschland,51.5,10.5,de,https://www.geonames.org/2921044
+Deyrizor,35.33588,40.14084,tr,https://www.geonames.org/170794
+Deïr ez Zor,35.33588,40.14084,,https://www.geonames.org/170794
+Dimashq,33.5102,36.29128,ar-Latn-x-ijmes,https://www.geonames.org/170654
+Djeddah,21.54238,39.19797,fr,https://www.geonames.org/105343
+Douma,33.57175,36.4027,en,https://www.geonames.org/170592
+Dschidda,21.54238,39.19797,de,https://www.geonames.org/105343
+Duma,33.57175,36.4027,,https://www.geonames.org/170592
+Dumar,33.53148,36.2436,,https://www.geonames.org/170585
+Dänemark,56,10,de,https://www.geonames.org/2623032
+Dūmā,33.57175,36.4027,ar-Latn-x-ijmes,https://www.geonames.org/170592
+Edirne,41.67719,26.55597,en,https://www.geonames.org/747712
+Ein Al Fejeh,33.63578,36.18944,,https://www.geonames.org/7894838
+El Khirba es Samra,32.1796,36.16477,,https://www.geonames.org/250609
+El Kuneitra,33.12594,35.82461,,https://www.geonames.org/173334
+El Qnaitra,33.12594,35.82461,,https://www.geonames.org/173334
+El Qnaïtra,33.12594,35.82461,,https://www.geonames.org/173334
+El Quneitra,33.12594,35.82461,,https://www.geonames.org/173334
+El Toba Mosque,33.51523,36.30435,,https://www.geonames.org/7642661
+El-Fedein,32.34289,36.20804,,https://www.geonames.org/250582
+Elephantine,24.08995,32.88938,en,https://www.geonames.org/359790
+Eléphantine,24.08995,32.88938,fr,https://www.geonames.org/359790
+Europe,50.21909,7.42676,en,https://www.geonames.org/9408659
+Europe de l'Ouest,50.21909,7.42676,fr,https://www.geonames.org/9408659
+Fes,34.03313,-5.00028,en,https://www.geonames.org/2548885
+Filistin Bölgesi,31.92157,35.20329,tr,https://www.geonames.org/6254930
+France,46,2,en,https://www.geonames.org/3017382
+Frankreich,46,2,de,https://www.geonames.org/3017382
+Fransa,46,2,tr,https://www.geonames.org/3017382
+Fès,34.03313,-5.00028,fr,https://www.geonames.org/2548885
+Gare Kadem,33.47619,36.29229,fr,https://www.geonames.org/173393
+Gaziantep,37.05944,37.3825,en,https://www.geonames.org/314830
+Geneva,46.20222,6.14569,en,https://www.geonames.org/2660646
+Genf,46.20222,6.14569,de,https://www.geonames.org/2660646
+Genève,46.20222,6.14569,fr,https://www.geonames.org/2660646
+Germany,51.5,10.5,en,https://www.geonames.org/2921044
 Ghuraba Hospital,33.51142,36.29164,,
 Ghurabāʾ Hospital,33.51142,36.29164,ar-Latn-x-ijmes,
-Glasgow,55.86515,-4.25763,en,geon:2648579
-Gotland,57.5,18.55,en,geon:2711511
-Granada,37.18817,-3.60667,en,geon:2517117
-Greater Syria,32.8686,44.84908,en,geon:6754242
-Greece,39,22,en,geon:390903
-Grenade,37.18817,-3.60667,fr,geon:2517117
-Griechenland,39,22,de,geon:390903
-Grèce,39,22,fr,geon:390903
-Gökçekent,36.54468,32.84385,tr,geon:324603
-Haifa,32.81841,34.9885,,geon:294801
-Halle,51.48158,11.97947,de,geon:2911522
-Hama,35.13179,36.75783,,geon:170017
-Hama (District),35.28577,37.12626,,geon:170016
-Hama District,35.28577,37.12626,en,geon:170016
-Harasta,33.55869,36.36515,,geon:169897
-Harista,33.55869,36.36515,,geon:169897
-Hasbeya,33.39778,35.685,,geon:274313
-Hayfa,32.81841,34.9885,tr,geon:294801
-Haïfa,32.81841,34.9885,fr,geon:294801
-Heidelberg,49.40768,8.69079,de,geon:2907911
-Helwan,29.84144,31.30084,en,geon:355795
-Hijaz railway station,33.51119,36.29502,,geon:173780
-Hijaz station,33.51119,36.29502,,geon:173780
-Hindistan,22,79,tr,geon:1269750
-Holland,18.10358,-77.80164,en,geon:11495075
-Homs,34.72682,36.72339,,geon:169577
-Hâsbaïya,33.39778,35.685,,geon:274313
-Inde,22,79,fr,geon:1269750
-India,22,79,en,geon:1269750
-Indien,22,79,de,geon:1269750
-Iowa,42.00027,-93.50049,en,geon:4862182
-Irak,33,44,fr,geon:99237
-Iran,32,53,en,geon:130758
-Iran (Islamische Republik),32,53,de,geon:130758
-Iraq,33,44,en,geon:99237
-Istanbul,41.01384,28.94966,en,geon:745044
-Italie,42.83333,12.83333,fr,geon:3175395
-Italien,42.83333,12.83333,de,geon:3175395
-Italy,42.83333,12.83333,en,geon:3175395
-Izmir,38.41273,27.13838,en,geon:311046
-Jabal Druz,32.547050,36.727888,,geon:170560
-Jabal Hawran,32.547050,36.727888,,geon:170560
-Jabal Lubnān,33.91667,35.66667,ar-Latn-x-ijmes,geon:273607
-Jabal Qalamun (kaza),33.62882,36.44801,,geon:166237
-Jabal Qalamūn,33.62882,36.44801,ar-Latn-x-ijmes,geon:166237
-Jabal ad Durūz,32.547050,36.727888,,geon:170560
-Jabal al-Durūz,32.547050,36.727888,ar-Latn-x-ijmes,geon:170560
-Jabal Ḥawrān,32.547050,36.727888,,geon:170560
-Jaffa,32.05043,34.75224,,geon:293253
-Japan,35.68536,139.75309,en,geon:1861060
-Japon,35.68536,139.75309,fr,geon:1861060
-Japonya,35.68536,139.75309,tr,geon:1861060
-Jaramana,33.49227,36.35075,,geon:8609526
-Jaramāna,33.49227,36.35075,,geon:8609526
-Jaramānā,33.49227,36.35075,ar-Latn-x-ijmes,geon:8609526
-Jawbar,33.52328,36.33496,ar-Latn-x-ijmes,geon:169137
-Jebel Druze,32.547050,36.727888,,geon:170560
-Jebel Drūze,32.547050,36.727888,,geon:170560
-Jeddah,21.54238,39.19797,en,geon:105343
-Jemen,15.5,47.5,de,geon:69543
-Jeramana,33.49227,36.35075,,geon:8609526
-Jerusalem,31.76904,35.21633,,geon:281184
-Jisr al-Abyad,33.52668,36.28794,,geon:8419672
-Jisr al-Abyaḍ,33.52668,36.28794,ar-Latn-x-ijmes,geon:8419672
-Jobar,33.52328,36.33496,,geon:169137
-Jordan (Fluss),31.76025,35.55792,de,geon:294624
-Jordan River,31.76025,35.55792,en,geon:294624
-Jounieh,33.41627,36.15134,ar-Latn-FR,geon:8041193
-Jourdain,31.76025,35.55792,fr,geon:294624
-Jāmiʿ al-Sādāt,33.51563,36.3109,,geon:8430647
-Jāmiʿ al-Sādāt Aqṣāb,33.51563,36.3109,ar-Latn-x-ijmes,geon:8430647
-Jāmiʿ al-Takiyya al-Sulaymāniyya,33.51249,36.29164,ar-Latn-x-ijmes,geon:7642725
-Jāmiʿ al-Tawba,33.51523,36.30435,ar-Latn-x-ijmes,geon:7642661
-Jāmi‘ as Sādāt Aqşāb,33.51563,36.3109,,geon:8430647
-Jāmi‘ at Takīyah as Sulaymānīyah,33.51249,36.29164,,geon:7642725
-Jāmi‘ at Tawbah,33.51523,36.30435,,geon:7642661
-Kaboun,33.54309,36.33604,,geon:173396
-Kabun,33.54309,36.33604,,geon:173396
-Kadem,33.47234,36.28798,en,geon:173394
-Kadem esh-Sherif,33.47234,36.28798,en,geon:173394
-Kadem i-Sherif,33.47234,36.28798,en,geon:173394
-Kadem station,33.47619,36.29229,en,geon:173393
-Kafar Sousah,33.50157,36.27759,,geon:11395650
-Kahire,30.06263,31.24967,tr,geon:360630
-Kaimarieh,33.5108,36.3094,,geon:7642461
-Kairo,30.06263,31.24967,de,geon:360630
-Kalaat el Zerka,32.07275,36.08796,,geon:250090
-Kalat el Mafrak,32.34289,36.20804,,geon:250582
-Karak,31.184791,35.705195,,geon:2022932
-Kasan,55.78874,49.12214,de,geon:551487
-Kaza of Rasheya,33.53333,35.83333,en,geon:268737
-Kazan,55.78874,49.12214,en,geon:551487
-Kerak,31.184791,35.705195,,geon:2022932
-Kfar Susa,33.50157,36.27759,,geon:11395650
-Kharrab,33.509222,36.309470,,geon:127725
-Kharrāb,33.509222,36.309470,,geon:127725
-Khirbat al-Samrāʾ,32.1796,36.16477,,geon:250609
-Khirbat as Samra',32.1796,36.16477,,geon:250609
-Khirbat as Samrā’,32.1796,36.16477,,geon:250609
-Khirbat es Samra,32.1796,36.16477,,geon:250609
-Khirbet el Samra,32.1796,36.16477,,geon:250609
-Khirbet es Samra,32.1796,36.16477,,geon:250609
-Khurbet el Samra,32.1796,36.16477,,geon:250609
-Kuneitra,33.12594,35.82461,,geon:173334
-Kuneitrah,33.12594,35.82461,en,geon:173334
-Kuneïtra,33.12594,35.82461,,geon:173334
-Kābūn,33.54309,36.33604,,geon:173396
-La Mecque,21.42664,39.82563,fr,geon:104515
-Laja,32.93481,36.385,,geon:173573
-Laja',32.93481,36.385,,geon:173573
-Lajah,32.93481,36.385,,geon:173573
-Lajā,32.93481,36.385,ar-Latn-x-ijmes,geon:173573
-Lajāh,32.93481,36.385,,geon:173573
-Latakia,35.51484,35.77684,,geon:173576
-Le Caire,30.06263,31.24967,fr,geon:360630
-Ledja,32.93481,36.385,en,geon:173573
-Ledje,32.93481,36.385,,geon:173573
-Leiden,52.15833,4.49306,en,geon:2751773
-Leja,32.93481,36.385,,geon:173573
-Leningrad,59.93863,30.31413,en,geon:498817
-Leyde,52.15833,4.49306,fr,geon:2751773
-Lincoln,40.8,-96.66696,en,geon:5072006
-London,51.50853,-0.12574,en,geon:2643743
-Londra,51.50853,-0.12574,tr,geon:2643743
-Londres,51.50853,-0.12574,fr,geon:2643743
-Lucknow,26.83928,80.92313,en,geon:1264733
-Lyon,45.74846,4.84671,fr,geon:2996944
-Ma'an,30.19624,35.73405,,geon:248382
-Ma`arrat,35.6483,36.67693,,geon:167611
-Maaloula,33.8249,36.57539,,geon:7894734
-Maan,30.19624,35.73405,en,geon:248382
-Maaret en Numan,35.6483,36.67693,,geon:167611
-Maaret ul-Nou'man,35.6483,36.67693,fr,geon:167611
-Maarrat al-Nu'maan,35.6483,36.67693,,geon:167611
-Mada'in Salih,26.8061,37.95512,,geon:104645
-Madain Salih,26.8061,37.95512,,geon:104645
-Madāʾin Ṣāliḥ,26.8061,37.95512,ar-Latn-x-ijmes,geon:104645
-Madā’in Şāliḩ,26.8061,37.95512,,geon:104645
-Mafraq,32.34289,36.20804,,geon:250582
-Mailand,45.46427,9.18951,de,geon:3173435
-Majdal Shams,33.27,35.76972,,geon:167444
-Maktab Anbar,33.50997,36.30958,,geon:8373421
-Maktab ʿAnbar,33.50997,36.30958,ar-Latn-x-ijmes,geon:8373421
-Marj Ayoun,33.27511,35.53822,,geon:271225
-Marja,33.512828,36.298030,,geon:2330755
-Marjaayoun,33.27511,35.53822,,geon:271225
-Marjayoûn,33.27511,35.53822,,geon:271225
-Marjaʿūn,33.27511,35.53822,,geon:271225
-Marjʿayūn,33.27511,35.53822,ar-Latn-x-ijmes,geon:271225
-Masjid al-Qasb,33.51563,36.3109,,geon:8430647
-Masjid al-Qaṣb,33.51563,36.3109,,geon:8430647
-Mazanet ash-Shahm,33.5072,36.3085,,geon:7642478
-Maʾdhanat al-Shaḥm,33.5072,36.3085,ar-Latn-x-ijmes,geon:7642478
-Maʿarat ul-Nuʿmān,35.6483,36.67693,,geon:167611
-Maʿarrat al-Nuʿmān,35.6483,36.67693,ar-Latn-x-ijmes,geon:167611
-Maʿlūlā,33.8249,36.57539,ar-Latn-x-ijmes,geon:7894734
-Maʿān,30.19624,35.73405,ar-Latn-x-ijmes,geon:248382
-Maḥaṭṭa al-Qaddam,33.47619,36.29229,ar-Latn-x-ijmes,geon:173393
-Maḥaṭṭaṭ Barāmka,33.51667,36.28333,ar-Latn-x-ijmes,geon:171794
-Maḥaṭṭaṭ al-Ḥijāz,33.51119,36.29502,ar-Latn-x-ijmes,geon:173780
-Maḩaţţat Barāmikah,33.51667,36.28333,,geon:171794
-Ma‘arrat,35.6483,36.67693,,geon:167611
-Ma‘arrat an Nu‘mān,35.6483,36.67693,,geon:167611
-Ma‘lūlā,33.8249,36.57539,,geon:7894734
-Ma‘ān,30.19624,35.73405,,geon:248382
-Mecca,21.42664,39.82563,en,geon:104515
-Medain Saleh,26.8061,37.95512,,geon:104645
-Medajen-Saleh,26.8061,37.95512,,geon:104645
-Medina,24.46861,39.61417,en,geon:109223
-Medine,24.46861,39.61417,tr,geon:109223
-Medâjen-Ṣâleḥ,26.8061,37.95512,,geon:104645
-Meedan,33.488431,36.297517,,geon:93497
-Mekka,21.42664,39.82563,de,geon:104515
-Mekke,21.42664,39.82563,tr,geon:104515
-Merj Ayoun,33.27511,35.53822,fr,geon:271225
-Mersin,36.81196,34.63886,en,geon:304531
-Mersina,36.81196,34.63886,en,geon:304531
-Mezerib,32.71099,36.02743,en,geon:166503
-Mezze,33.49991,36.24763,,geon:173470
-Midan,33.488431,36.297517,,geon:93497
-Midān,33.488431,36.297517,,geon:93497
-Milan,45.46427,9.18951,en,geon:3173435
-Milano,45.46427,9.18951,tr,geon:3173435
-Mi’dhanat ash Shaḩm,33.5072,36.3085,,geon:7642478
-Moscou,55.75222,37.61556,fr,geon:524901
-Moscow,55.75222,37.61556,en,geon:524901
-Moskau,55.75222,37.61556,de,geon:524901
-Moskova,55.75222,37.61556,tr,geon:524901
-Mosul,36.335,43.11889,,geon:99072
-Mount Lebanon,33.91667,35.66667,en,geon:273607
-Moṣūl,36.335,43.11889,ar-Latn-x-ijmes,geon:99072
-Mt Hermon,33.41379,35.85741,,geon:169612
-Mt.Hermon,33.41379,35.85741,,geon:169612
+Glasgow,55.86515,-4.25763,en,https://www.geonames.org/2648579
+Gotland,57.5,18.55,en,https://www.geonames.org/2711511
+Granada,37.18817,-3.60667,en,https://www.geonames.org/2517117
+Greater Syria,32.8686,44.84908,en,https://www.geonames.org/6754242
+Greece,39,22,en,https://www.geonames.org/390903
+Grenade,37.18817,-3.60667,fr,https://www.geonames.org/2517117
+Griechenland,39,22,de,https://www.geonames.org/390903
+Grèce,39,22,fr,https://www.geonames.org/390903
+Gurayat,34.022298,36.730134,en,https://www.geonames.org/108648
+Gökçekent,36.54468,32.84385,tr,https://www.geonames.org/324603
+Haifa,32.81841,34.9885,en,https://www.geonames.org/294801
+Halep,36.20124,37.16117,tr,https://www.geonames.org/170063
+Halle,51.48158,11.97947,de,https://www.geonames.org/2911522
+Hama,35.13179,36.75783,en,https://www.geonames.org/170017
+Hama (District),35.28577,37.12626,,https://www.geonames.org/170016
+Hama District,35.28577,37.12626,en,https://www.geonames.org/170016
+Harasta,33.55869,36.36515,,https://www.geonames.org/169897
+Harista,33.55869,36.36515,,https://www.geonames.org/169897
+Hasbeya,33.39778,35.685,,https://www.geonames.org/274313
+Hayfa,32.81841,34.9885,tr,https://www.geonames.org/294801
+Haïfa,32.81841,34.9885,fr,https://www.geonames.org/294801
+Heidelberg,49.40768,8.69079,de,https://www.geonames.org/2907911
+Helwan,29.84144,31.30084,en,https://www.geonames.org/355795
+Hijaz railway station,33.51119,36.29502,,https://www.geonames.org/173780
+Hijaz station,33.51119,36.29502,,https://www.geonames.org/173780
+Hindistan,22,79,tr,https://www.geonames.org/1269750
+Holland,18.10358,-77.80164,en,https://www.geonames.org/11495075
+Homs,34.72682,36.72339,en,https://www.geonames.org/169577
+Humus,34.72682,36.72339,tr,https://www.geonames.org/169577
+Hâsbaïya,33.39778,35.685,en,https://www.geonames.org/274313
+Inde,22,79,fr,https://www.geonames.org/1269750
+India,22,79,en,https://www.geonames.org/1269750
+Indien,22,79,de,https://www.geonames.org/1269750
+Iowa,42.00027,-93.50049,en,https://www.geonames.org/4862182
+Irak,33,44,fr,https://www.geonames.org/99237
+Iran,32,53,en,https://www.geonames.org/130758
+Iran (Islamische Republik),32,53,de,https://www.geonames.org/130758
+Iraq,33,44,en,https://www.geonames.org/99237
+Istanbul,41.01384,28.94966,en,https://www.geonames.org/745044
+Italie,42.83333,12.83333,fr,https://www.geonames.org/3175395
+Italien,42.83333,12.83333,de,https://www.geonames.org/3175395
+Italy,42.83333,12.83333,en,https://www.geonames.org/3175395
+Izmir,38.41273,27.13838,en,https://www.geonames.org/311046
+Jabal Druz,32.547050,36.727888,,https://www.geonames.org/170560
+Jabal Hawran,32.547050,36.727888,,https://www.geonames.org/170560
+Jabal Lubnān,33.91667,35.66667,ar-Latn-x-ijmes,https://www.geonames.org/273607
+Jabal Qalamun (kaza),33.62882,36.44801,,https://www.geonames.org/166237
+Jabal Qalamūn,33.62882,36.44801,ar-Latn-x-ijmes,https://www.geonames.org/166237
+Jabal ad Durūz,32.547050,36.727888,en,https://www.geonames.org/170560
+Jabal al-Durūz,32.547050,36.727888,ar-Latn-x-ijmes,https://www.geonames.org/170560
+Jabal Ḥawrān,32.547050,36.727888,,https://www.geonames.org/170560
+Jaffa,32.05043,34.75224,en,https://www.geonames.org/293253
+Japan,35.68536,139.75309,en,https://www.geonames.org/1861060
+Japon,35.68536,139.75309,fr,https://www.geonames.org/1861060
+Japonya,35.68536,139.75309,tr,https://www.geonames.org/1861060
+Jaramana,33.49227,36.35075,,https://www.geonames.org/8609526
+Jaramāna,33.49227,36.35075,,https://www.geonames.org/8609526
+Jaramānā,33.49227,36.35075,ar-Latn-x-ijmes,https://www.geonames.org/8609526
+Jawbar,33.52328,36.33496,ar-Latn-x-ijmes,https://www.geonames.org/169137
+Jebel Druze,32.547050,36.727888,,https://www.geonames.org/170560
+Jebel Drūze,32.547050,36.727888,,https://www.geonames.org/170560
+Jeddah,21.54238,39.19797,en,https://www.geonames.org/105343
+Jemen,15.5,47.5,de,https://www.geonames.org/69543
+Jeramana,33.49227,36.35075,,https://www.geonames.org/8609526
+Jerusalem,31.76904,35.21633,en,https://www.geonames.org/281184
+Jisr al-Abyad,33.52668,36.28794,,https://www.geonames.org/8419672
+Jisr al-Abyaḍ,33.52668,36.28794,ar-Latn-x-ijmes,https://www.geonames.org/8419672
+Jobar,33.52328,36.33496,,https://www.geonames.org/169137
+Jordan (Fluss),31.76025,35.55792,de,https://www.geonames.org/294624
+Jordan River,31.76025,35.55792,en,https://www.geonames.org/294624
+Jounieh,33.41627,36.15134,ar-Latn-FR,https://www.geonames.org/8041193
+Jourdain,31.76025,35.55792,fr,https://www.geonames.org/294624
+Jāmiʿ al-Sādāt,33.51563,36.3109,,https://www.geonames.org/8430647
+Jāmiʿ al-Sādāt Aqṣāb,33.51563,36.3109,ar-Latn-x-ijmes,https://www.geonames.org/8430647
+Jāmiʿ al-Takiyya al-Sulaymāniyya,33.51249,36.29164,ar-Latn-x-ijmes,https://www.geonames.org/7642725
+Jāmiʿ al-Tawba,33.51523,36.30435,ar-Latn-x-ijmes,https://www.geonames.org/7642661
+Jāmi‘ as Sādāt Aqşāb,33.51563,36.3109,,https://www.geonames.org/8430647
+Jāmi‘ at Takīyah as Sulaymānīyah,33.51249,36.29164,,https://www.geonames.org/7642725
+Jāmi‘ at Tawbah,33.51523,36.30435,,https://www.geonames.org/7642661
+Kaboun,33.54309,36.33604,,https://www.geonames.org/173396
+Kabun,33.54309,36.33604,,https://www.geonames.org/173396
+Kadem,33.47234,36.28798,en,https://www.geonames.org/173394
+Kadem esh-Sherif,33.47234,36.28798,en,https://www.geonames.org/173394
+Kadem i-Sherif,33.47234,36.28798,en,https://www.geonames.org/173394
+Kadem station,33.47619,36.29229,en,https://www.geonames.org/173393
+Kafar Sousah,33.50157,36.27759,,https://www.geonames.org/11395650
+Kahire,30.06263,31.24967,tr,https://www.geonames.org/360630
+Kaimarieh,33.5108,36.3094,,https://www.geonames.org/7642461
+Kairo,30.06263,31.24967,de,https://www.geonames.org/360630
+Kalaat el Zerka,32.07275,36.08796,,https://www.geonames.org/250090
+Kalat el Mafrak,32.34289,36.20804,,https://www.geonames.org/250582
+Karak,31.184791,35.705195,ar-Latn-x-ijmes,https://www.geonames.org/2022932
+Kasan,55.78874,49.12214,de,https://www.geonames.org/551487
+Kaza of Rasheya,33.53333,35.83333,en,https://www.geonames.org/268737
+Kazan,55.78874,49.12214,en,https://www.geonames.org/551487
+Kerak,31.184791,35.705195,en,https://www.geonames.org/2022932
+Kfar Susa,33.50157,36.27759,,https://www.geonames.org/11395650
+Kharrab,33.509222,36.309470,,https://www.geonames.org/127725
+Kharrāb,33.509222,36.309470,ar-Latn-x-ijmes,https://www.geonames.org/127725
+Khirbat al-Samrāʾ,32.1796,36.16477,ar-Latn-x-ijmes,https://www.geonames.org/250609
+Khirbat as Samra',32.1796,36.16477,,https://www.geonames.org/250609
+Khirbat as Samrā’,32.1796,36.16477,,https://www.geonames.org/250609
+Khirbat es Samra,32.1796,36.16477,,https://www.geonames.org/250609
+Khirbet el Samra,32.1796,36.16477,,https://www.geonames.org/250609
+Khirbet es Samra,32.1796,36.16477,,https://www.geonames.org/250609
+Khurbet el Samra,32.1796,36.16477,,https://www.geonames.org/250609
+Kuneitra,33.12594,35.82461,,https://www.geonames.org/173334
+Kuneitrah,33.12594,35.82461,en,https://www.geonames.org/173334
+Kuneïtra,33.12594,35.82461,,https://www.geonames.org/173334
+Kābūn,33.54309,36.33604,,https://www.geonames.org/173396
+La Mecque,21.42664,39.82563,fr,https://www.geonames.org/104515
+Laja,32.93481,36.385,,https://www.geonames.org/173573
+Laja',32.93481,36.385,,https://www.geonames.org/173573
+Lajah,32.93481,36.385,,https://www.geonames.org/173573
+Lajā,32.93481,36.385,ar-Latn-x-ijmes,https://www.geonames.org/173573
+Lajāh,32.93481,36.385,,https://www.geonames.org/173573
+Latakia,35.51484,35.77684,en,https://www.geonames.org/173576
+Lattaquié,35.51484,35.77684,fr,https://www.geonames.org/173576
+Lazkiye,35.51484,35.77684,tr,https://www.geonames.org/173576
+Le Caire,30.06263,31.24967,fr,https://www.geonames.org/360630
+Ledja,32.93481,36.385,en,https://www.geonames.org/173573
+Ledje,32.93481,36.385,,https://www.geonames.org/173573
+Leiden,52.15833,4.49306,en,https://www.geonames.org/2751773
+Leja,32.93481,36.385,,https://www.geonames.org/173573
+Leningrad,59.93863,30.31413,en,https://www.geonames.org/498817
+Leyde,52.15833,4.49306,fr,https://www.geonames.org/2751773
+Lincoln,40.8,-96.66696,en,https://www.geonames.org/5072006
+London,51.50853,-0.12574,en,https://www.geonames.org/2643743
+Londra,51.50853,-0.12574,tr,https://www.geonames.org/2643743
+Londres,51.50853,-0.12574,fr,https://www.geonames.org/2643743
+Lucknow,26.83928,80.92313,en,https://www.geonames.org/1264733
+Lyon,45.74846,4.84671,fr,https://www.geonames.org/2996944
+Ma'an,30.19624,35.73405,en,https://www.geonames.org/248382
+Ma`arrat,35.6483,36.67693,,https://www.geonames.org/167611
+Maaloula,33.8249,36.57539,fr,https://www.geonames.org/7894734
+Maan,30.19624,35.73405,en,https://www.geonames.org/248382
+Maaret en Numan,35.6483,36.67693,,https://www.geonames.org/167611
+Maaret ul-Nou'man,35.6483,36.67693,fr,https://www.geonames.org/167611
+Maarrat al-Nu'maan,35.6483,36.67693,,https://www.geonames.org/167611
+Mada'in Salih,26.8061,37.95512,,https://www.geonames.org/104645
+Madain Salih,26.8061,37.95512,,https://www.geonames.org/104645
+Madāʾin Ṣāliḥ,26.8061,37.95512,ar-Latn-x-ijmes,https://www.geonames.org/104645
+Madā’in Şāliḩ,26.8061,37.95512,,https://www.geonames.org/104645
+Mafraq,32.34289,36.20804,en,https://www.geonames.org/250582
+Mailand,45.46427,9.18951,de,https://www.geonames.org/3173435
+Majdal Shams,33.27,35.76972,ar-Latn-x-ijmes,https://www.geonames.org/167444
+Maktab Anbar,33.50997,36.30958,,https://www.geonames.org/8373421
+Maktab ʿAnbar,33.50997,36.30958,ar-Latn-x-ijmes,https://www.geonames.org/8373421
+Marj Ayoun,33.27511,35.53822,,https://www.geonames.org/271225
+Marja,33.512828,36.298030,ar-Latn-x-ijmes,https://www.geonames.org/2330755
+Marjaayoun,33.27511,35.53822,,https://www.geonames.org/271225
+Marjayoûn,33.27511,35.53822,,https://www.geonames.org/271225
+Marjaʿūn,33.27511,35.53822,,https://www.geonames.org/271225
+Marjʿayūn,33.27511,35.53822,ar-Latn-x-ijmes,https://www.geonames.org/271225
+Masjid al-Qasb,33.51563,36.3109,,https://www.geonames.org/8430647
+Masjid al-Qaṣb,33.51563,36.3109,,https://www.geonames.org/8430647
+Mazanet ash-Shahm,33.5072,36.3085,,https://www.geonames.org/7642478
+Maʾdhanat al-Shaḥm,33.5072,36.3085,ar-Latn-x-ijmes,https://www.geonames.org/7642478
+Maʿarat ul-Nuʿmān,35.6483,36.67693,,https://www.geonames.org/167611
+Maʿarrat al-Nuʿmān,35.6483,36.67693,ar-Latn-x-ijmes,https://www.geonames.org/167611
+Maʿlūlā,33.8249,36.57539,ar-Latn-x-ijmes,https://www.geonames.org/7894734
+Maʿān,30.19624,35.73405,ar-Latn-x-ijmes,https://www.geonames.org/248382
+Maḥaṭṭa al-Qaddam,33.47619,36.29229,ar-Latn-x-ijmes,https://www.geonames.org/173393
+Maḥaṭṭaṭ Barāmka,33.51667,36.28333,ar-Latn-x-ijmes,https://www.geonames.org/171794
+Maḥaṭṭaṭ al-Ḥijāz,33.51119,36.29502,ar-Latn-x-ijmes,https://www.geonames.org/173780
+Maḩaţţat Barāmikah,33.51667,36.28333,,https://www.geonames.org/171794
+Ma‘arrat,35.6483,36.67693,,https://www.geonames.org/167611
+Ma‘arrat an Nu‘mān,35.6483,36.67693,,https://www.geonames.org/167611
+Ma‘lūlā,33.8249,36.57539,,https://www.geonames.org/7894734
+Ma‘ān,30.19624,35.73405,,https://www.geonames.org/248382
+Mecca,21.42664,39.82563,en,https://www.geonames.org/104515
+Medain Saleh,26.8061,37.95512,,https://www.geonames.org/104645
+Medajen-Saleh,26.8061,37.95512,,https://www.geonames.org/104645
+Medina,24.46861,39.61417,en,https://www.geonames.org/109223
+Medine,24.46861,39.61417,tr,https://www.geonames.org/109223
+Medâjen-Ṣâleḥ,26.8061,37.95512,,https://www.geonames.org/104645
+Meedan,33.488431,36.297517,,https://www.geonames.org/93497
+Mekka,21.42664,39.82563,de,https://www.geonames.org/104515
+Mekke,21.42664,39.82563,tr,https://www.geonames.org/104515
+Merj Ayoun,33.27511,35.53822,fr,https://www.geonames.org/271225
+Mersin,36.81196,34.63886,en,https://www.geonames.org/304531
+Mersina,36.81196,34.63886,en,https://www.geonames.org/304531
+Mezerib,32.71099,36.02743,en,https://www.geonames.org/166503
+Mezze,33.49991,36.24763,,https://www.geonames.org/173470
+Midan,33.488431,36.297517,,https://www.geonames.org/93497
+Midān,33.488431,36.297517,en,https://www.geonames.org/93497
+Milan,45.46427,9.18951,en,https://www.geonames.org/3173435
+Milano,45.46427,9.18951,tr,https://www.geonames.org/3173435
+Mi’dhanat ash Shaḩm,33.5072,36.3085,en,https://www.geonames.org/7642478
+Mont-Liban,33.91667,35.66667,fr,https://www.geonames.org/273607
+Moscou,55.75222,37.61556,fr,https://www.geonames.org/524901
+Moscow,55.75222,37.61556,en,https://www.geonames.org/524901
+Moskau,55.75222,37.61556,de,https://www.geonames.org/524901
+Moskova,55.75222,37.61556,tr,https://www.geonames.org/524901
+Mossoul,36.335,43.11889,fr,https://www.geonames.org/99072
+Mossul,36.335,43.11889,de,https://www.geonames.org/99072
+Mosul,36.335,43.11889,en,https://www.geonames.org/99072
+Mount Hermon,33.41379,35.85741,en,https://www.geonames.org/169612
+Mount Lebanon,33.91667,35.66667,en,https://www.geonames.org/273607
+Moṣūl,36.335,43.11889,ar-Latn-x-ijmes,https://www.geonames.org/99072
+Mt Hermon,33.41379,35.85741,,https://www.geonames.org/169612
+Mt.Hermon,33.41379,35.85741,,https://www.geonames.org/169612
 Mustashfā al-Ḥamīdī,33.51142,36.29164,,
-Muzayrib,32.71099,36.02743,en,geon:166503
-Muzayrīb,32.71099,36.02743,ar-ijmes,geon:166503
-Muzerib,32.71099,36.02743,,geon:166503
-Myrte,36.81196,34.63886,fr,geon:304531
-Médine,24.46861,39.61417,fr,geon:109223
-Müzeyreb,32.71099,36.02743,tr,geon:166503
-Mīdān,33.488431,36.297517,ar-Latn-x-ijmes,geon:93497
-Nabatiye,33.37717,35.48383,en,geon:7870014
-Nabatäa,33.37717,35.48383,de,geon:7870014
-Nabk,34.022298,36.730134,,geon:108648
-Nablus,32.24056,35.28708,,geon:7870555
-Nahiyat Dayr `Atiyah,34.143,36.75974,,geon:7895199
-Nahiyat Jaramana,33.49227,36.35075,,geon:8609526
-Nahiyat Ma`lula,33.8249,36.57539,,geon:7894734
-Nebatiye,33.37717,35.48383,tr,geon:7870014
-Nebk,34.022298,36.730134,,geon:108648
-Nebraska,41.50028,-99.75067,en,geon:5073708
-Netherlands,18.10358,-77.80164,en,geon:11495075
-New Jersey,40.75766,-73.91327,en,geon:6955102
-New York,40.71427,-74.00597,fr,geon:5128581
-New York City,40.71427,-74.00597,en,geon:5128581
-Nijni Novgorod,56.32867,44.00205,fr,geon:520555
-Nischni Nowgorod,56.32867,44.00205,de,geon:520555
-Norveç,62,10,tr,geon:3144096
-Norvège,62,10,fr,geon:3144096
-Norway,62,10,en,geon:3144096
-Norwegen,62,10,de,geon:3144096
-Novgorod,56.32867,44.00205,en,geon:520555
-Nāḥiyat Jaramānā,33.49227,36.35075,,geon:8609526
-Nāḩiyat Dayr ‘Aţīyah,34.143,36.75974,,geon:7895199
-Nāḩiyat Jaramānā,33.49227,36.35075,,geon:8609526
-Nāḩiyat Ma‘lūlā,33.8249,36.57539,en,geon:7894734
-Omaha,41.25626,-95.94043,en,geon:5074472
-Orenbourg,51.7727,55.0988,fr,geon:515003
-Orenburg,51.7727,55.0988,en,geon:515003
+Musul,36.335,43.11889,tr,https://www.geonames.org/99072
+Muzayrib,32.71099,36.02743,en,https://www.geonames.org/166503
+Muzayrīb,32.71099,36.02743,ar-ijmes,https://www.geonames.org/166503
+Muzerib,32.71099,36.02743,,https://www.geonames.org/166503
+Myrte,36.81196,34.63886,fr,https://www.geonames.org/304531
+Médine,24.46861,39.61417,fr,https://www.geonames.org/109223
+Müzeyreb,32.71099,36.02743,tr,https://www.geonames.org/166503
+Mīdān,33.488431,36.297517,ar-Latn-x-ijmes,https://www.geonames.org/93497
+Nabatiye,33.37717,35.48383,en,https://www.geonames.org/7870014
+Nabatäa,33.37717,35.48383,de,https://www.geonames.org/7870014
+Nabk,34.022298,36.730134,,https://www.geonames.org/108648
+Nablus,32.24056,35.28708,en,https://www.geonames.org/7870555
+Nahiyat Dayr `Atiyah,34.143,36.75974,,https://www.geonames.org/7895199
+Nahiyat Jaramana,33.49227,36.35075,,https://www.geonames.org/8609526
+Nahiyat Ma`lula,33.8249,36.57539,,https://www.geonames.org/7894734
+Nebatiye,33.37717,35.48383,tr,https://www.geonames.org/7870014
+Nebk,34.022298,36.730134,,https://www.geonames.org/108648
+Nebraska,41.50028,-99.75067,en,https://www.geonames.org/5073708
+Netherlands,18.10358,-77.80164,en,https://www.geonames.org/11495075
+New Jersey,40.75766,-73.91327,en,https://www.geonames.org/6955102
+New York,40.71427,-74.00597,fr,https://www.geonames.org/5128581
+New York City,40.71427,-74.00597,en,https://www.geonames.org/5128581
+Nijni Novgorod,56.32867,44.00205,fr,https://www.geonames.org/520555
+Nischni Nowgorod,56.32867,44.00205,de,https://www.geonames.org/520555
+Norveç,62,10,tr,https://www.geonames.org/3144096
+Norvège,62,10,fr,https://www.geonames.org/3144096
+Norway,62,10,en,https://www.geonames.org/3144096
+Norwegen,62,10,de,https://www.geonames.org/3144096
+Novgorod,56.32867,44.00205,en,https://www.geonames.org/520555
+Nāḥiyat Jaramānā,33.49227,36.35075,,https://www.geonames.org/8609526
+Nāḩiyat Dayr ‘Aţīyah,34.143,36.75974,en,https://www.geonames.org/7895199
+Nāḩiyat Jaramānā,33.49227,36.35075,,https://www.geonames.org/8609526
+Nāḩiyat Ma‘lūlā,33.8249,36.57539,en,https://www.geonames.org/7894734
+Omaha,41.25626,-95.94043,en,https://www.geonames.org/5074472
+Orenbourg,51.7727,55.0988,fr,https://www.geonames.org/515003
+Orenburg,51.7727,55.0988,en,https://www.geonames.org/515003
 Ottoman Empire,39,35,en,
-Palestine,31.92157,35.20329,en,geon:6254930
-Paris,27.3054,56.6739,fr,geon:141254
-Peru,-10,-75.25,en,geon:3932488
-Philadelphia,39.95233,-75.16379,en,geon:4560349
-Philadelphie,39.95233,-75.16379,fr,geon:4560349
-Portekiz,39.6945,-8.13057,tr,geon:2264397
-Portugal,39.6945,-8.13057,en,geon:2264397
-Providence,41.82399,-71.41283,en,geon:5224151
-Province of Syria,35,38,en,geon:163843
-Prusse Occidentale,53.5,18,fr,geon:3082436
-Prussia,53.5,18,en,geon:3082436
-Pérou,-10,-75.25,fr,geon:3932488
-Qaboun,33.54309,36.33604,,geon:173396
-Qabr al-ʿĀtika,33.5023,36.2949,ar-Latn-x-ijmes,geon:7642481
-Qabratkeh,33.5023,36.2949,,geon:7642481
-Qabun,33.54309,36.33604,,geon:173396
-Qada' Rashayya,33.53333,35.83333,,geon:268737
-Qaddam railway station,33.47619,36.29229,en,geon:173393
-Qaddam station,33.47619,36.29229,,geon:173393
-Qal'at al Mafraq,32.34289,36.20804,,geon:250582
-Qal'at az Zarqa',32.07275,36.08796,,geon:250090
-Qal'at el Mafraq,32.34289,36.20804,,geon:250582
-Qalamun,33.62882,36.44801,,geon:166237
-Qalāmūn,33.62882,36.44801,,geon:166237
-Qalʿa al-Zarqā’,32.07275,36.08796,,geon:250090
-Qalʿat al-Mafraq,32.34289,36.20804,,geon:250582
-Qanawat,32.75696,36.6173,,geon:166141
-Qanawāt,32.75696,36.6173,,geon:166141
-Qaymariyya,33.5108,36.3094,,geon:7642461
-Qaḍāʾ Rāshayā,33.53333,35.83333,ar-Latn-x-ijmes,geon:268737
-Qaḑā’ Rāshayyā,33.53333,35.83333,,geon:268737
-Qhaitra,33.12594,35.82461,,geon:173334
-Qnaitra,33.12594,35.82461,,geon:173334
-Qnaytra,33.12594,35.82461,,geon:173334
-Qnayţra,33.12594,35.82461,,geon:173334
-Qnaïtra,33.12594,35.82461,,geon:173334
-Qunaytirah,33.12594,35.82461,,geon:173334
-Qunayturah,33.12594,35.82461,,geon:173334
-Qunayţirah,33.12594,35.82461,,geon:173334
-Qunayţurah,33.12594,35.82461,,geon:173334
-Qunayṭra,33.12594,35.82461,ar-Latn-x-ijmes,geon:173334
-Quneitra,33.12594,35.82461,,geon:173334
-Quneitrah,33.12594,35.82461,,geon:173334
-Qâboûn,33.54309,36.33604,,geon:173396
-Qābūn,33.54309,36.33604,,geon:173396
-Rayak,33.85,36,,geon:268661
-Riyak,33.85,36,,geon:268661
-Riyāq,33.85,36,ar-Latn-x-ijmes,geon:268661
-Romania,46,25,en,geon:798549
-Romanya,46,25,tr,geon:798549
-Roumanie,46,25,fr,geon:798549
-Rumänien,46,25,de,geon:798549
-Russia,60,100,en,geon:2017370
-Russie,60,100,fr,geon:2017370
-Russland,60,100,de,geon:2017370
-Rusya,60,100,tr,geon:2017370
-Sachsen,51,13,de,geon:2842567
-Said Naya,33.69768,36.37301,,geon:164717
-Said Nâya,33.69768,36.37301,,geon:164717
-Saida,33.55751,35.37148,,geon:268064
-Saint-Pétersbourg,59.93863,30.31413,fr,geon:498817
-Salonica,40.64361,22.93086,en,geon:734077
-Salzburg,47.79941,13.04399,fr,geon:2766824
-San Francisco,9.99299,-84.12934,en,geon:3621911
-Sankt Peterburg,59.93863,30.31413,tr,geon:498817
-Sankt Petersburg,59.93863,30.31413,de,geon:498817
-Santarem,39.28881,-8.50192,fr,geon:2263478
-Santarém,39.28881,-8.50192,en,geon:2263478
-Sao Paulo,-23.5475,-46.63611,tr,geon:3448439
-Saxony,51,13,en,geon:2842567
-Sayda,33.55751,35.37148,tr,geon:268064
-Saydnaya,33.69768,36.37301,,geon:164717
-Saïda,33.55751,35.37148,,geon:268064
-Schweiz,47.00016,8.01427,de,geon:2658434
-Sednaya,33.69768,36.37301,,geon:164717
-Seidnaya,33.69768,36.37301,,geon:164717
-Selanik,40.64361,22.93086,tr,geon:734077
-Seyd Naya,33.69768,36.37301,,geon:164717
-Shaghour,33.506789,36.305853,,geon:250295
-Shaghur,33.506789,36.305853,,geon:250295
-Shaykh Maskīn,32.82944,36.15933,ar-Latn-x-ijmes,geon:164328
-Shāghūr,33.506789,36.305853,ar-Latn-x-ijmes,geon:250295
-Sidnaya,33.69768,36.37301,en,geon:164717
-Sidon,33.55751,35.37148,en,geon:268064
-Souk Seruja,33.5163,36.2969,,geon:7642451
-Souk el Berid,33.5106,36.3051,,geon:7642567
-Sour,33.27333,35.19389,fr,geon:267008
-Spain,37.6,-4.5,en,geon:2521750
-Springfield,39.80172,-89.64371,en,geon:4250542
-St. Petersburg,59.93863,30.31413,en,geon:498817
-Stockholm,59.33258,18.0649,en,geon:2673730
-Suisse,47.00016,8.01427,fr,geon:2658434
-Suq Saruja,33.5163,36.2969,,geon:7642451
-Suq al-Arwam,33.511001,36.302195,,geon:76930
-Suq al-Jadid,33.511001,36.302195,,geon:76930
-Sur,33.27333,35.19389,de,geon:267008
-Suriye,35,38,tr,geon:163843
-Surūj,36.85119,38.47967,ar-Latn-x-ijmes,geon:9233
-Suwayda,32.706268,36.566071,en,geon:350739
-Suwaydāʾ,32.706268,36.566071,ar-Latn-x-ijmes,geon:350739
-Suweida,32.706268,36.566071,,geon:350739
-Switzerland,47.00016,8.01427,en,geon:2658434
-Syrie,35,38,fr,geon:163843
-Syrien,35,38,de,geon:163843
-São Paulo,-23.5475,-46.63611,en,geon:3448439
-Sārūjah,33.5163,36.2969,,geon:7642451
-Sāḥat al-Marja,33.512828,36.298030,,geon:2330755
-Sāḩat Bāb Muşallá,33.49886,36.30045,,geon:7642484
-Sūq Sārūja,33.5163,36.2969,ar-Latn-x-ijmes,geon:7642451
-Sūq Sārūjā,33.5163,36.2969,,geon:7642451
-Sūq al-Arwām,33.511001,36.302195,,geon:76930
-Sūq al-Jadīd,33.511001,36.302195,ar-Latn-x-ijmes,geon:76930
-Tabouk,28.38333,36.58333,,geon:101628
-Tabuk,28.38333,36.58333,,geon:101628
-Tabūk,28.38333,36.58333,,geon:101628
-Tahran,35.69439,51.42151,tr,geon:112931
-Tanta,30.78847,31.00192,en,geon:347497
-Tarsus,36.91876,34.8784,,geon:299817
-Tebuk,28.38333,36.58333,,geon:101628
-Teheran,35.69439,51.42151,de,geon:112931
-Tehran,35.69439,51.42151,en,geon:112931
-Tekkiyya Suleymaniyya,33.51249,36.29164,,geon:7642725
-Thessaloniki,40.64361,22.93086,de,geon:734077
-Thessalonique,40.64361,22.93086,fr,geon:734077
-Tiberias,32.79221,35.53124,en,geon:293322
-Tiberya,32.79221,35.53124,tr,geon:293322
-Tibériade,32.79221,35.53124,fr,geon:293322
-Trablusşam,34.43352,35.84415,tr,geon:266826
-Tripoli,34.43352,35.84415,,geon:266826
-Tunesien,34,9,de,geon:2464461
-Tunis,36.81897,10.16579,en,geon:2464470
-Tunisia,34,9,en,geon:2464461
-Tunisie,34,9,fr,geon:2464461
-Tunus,34,9,tr,geon:2464461
+Palestine,31.92157,35.20329,en,https://www.geonames.org/6254930
+Palästinensische Autonomiegebiete,31.92157,35.20329,de,https://www.geonames.org/6254930
+Paris,27.3054,56.6739,fr,https://www.geonames.org/141254
+Peru,-10,-75.25,en,https://www.geonames.org/3932488
+Petra,30.32096,35.47895,en,https://www.geonames.org/246008
+Philadelphia,39.95233,-75.16379,en,https://www.geonames.org/4560349
+Philadelphie,39.95233,-75.16379,fr,https://www.geonames.org/4560349
+Portekiz,39.6945,-8.13057,tr,https://www.geonames.org/2264397
+Portugal,39.6945,-8.13057,en,https://www.geonames.org/2264397
+Providence,41.82399,-71.41283,en,https://www.geonames.org/5224151
+Province of Syria,35,38,en,https://www.geonames.org/163843
+Prusse Occidentale,53.5,18,fr,https://www.geonames.org/3082436
+Prussia,53.5,18,en,https://www.geonames.org/3082436
+Pérou,-10,-75.25,fr,https://www.geonames.org/3932488
+Qaboun,33.54309,36.33604,,https://www.geonames.org/173396
+Qabr al-ʿĀtika,33.5023,36.2949,ar-Latn-x-ijmes,https://www.geonames.org/7642481
+Qabratkeh,33.5023,36.2949,,https://www.geonames.org/7642481
+Qabun,33.54309,36.33604,,https://www.geonames.org/173396
+Qada' Rashayya,33.53333,35.83333,,https://www.geonames.org/268737
+Qaddam railway station,33.47619,36.29229,en,https://www.geonames.org/173393
+Qaddam station,33.47619,36.29229,,https://www.geonames.org/173393
+Qal'at al Mafraq,32.34289,36.20804,,https://www.geonames.org/250582
+Qal'at az Zarqa',32.07275,36.08796,,https://www.geonames.org/250090
+Qal'at el Mafraq,32.34289,36.20804,,https://www.geonames.org/250582
+Qalamun,33.62882,36.44801,,https://www.geonames.org/166237
+Qalāmūn,33.62882,36.44801,,https://www.geonames.org/166237
+Qalʿa al-Zarqā’,32.07275,36.08796,,https://www.geonames.org/250090
+Qalʿat al-Mafraq,32.34289,36.20804,ar-Latn-x-ijmes,https://www.geonames.org/250582
+Qanawat,32.75696,36.6173,,https://www.geonames.org/166141
+Qanawāt,32.75696,36.6173,ar-Latn-x-ijmes,https://www.geonames.org/166141
+Qaymariyya,33.5108,36.3094,ar-Latn-x-ijmes,https://www.geonames.org/7642461
+Qaḍāʾ Rāshayā,33.53333,35.83333,ar-Latn-x-ijmes,https://www.geonames.org/268737
+Qaḑā’ Rāshayyā,33.53333,35.83333,,https://www.geonames.org/268737
+Qhaitra,33.12594,35.82461,,https://www.geonames.org/173334
+Qnaitra,33.12594,35.82461,,https://www.geonames.org/173334
+Qnaytra,33.12594,35.82461,,https://www.geonames.org/173334
+Qnayţra,33.12594,35.82461,,https://www.geonames.org/173334
+Qnaïtra,33.12594,35.82461,,https://www.geonames.org/173334
+Qunaytirah,33.12594,35.82461,,https://www.geonames.org/173334
+Qunayturah,33.12594,35.82461,,https://www.geonames.org/173334
+Qunayţirah,33.12594,35.82461,,https://www.geonames.org/173334
+Qunayţurah,33.12594,35.82461,,https://www.geonames.org/173334
+Qunayṭra,33.12594,35.82461,ar-Latn-x-ijmes,https://www.geonames.org/173334
+Quneitra,33.12594,35.82461,,https://www.geonames.org/173334
+Quneitrah,33.12594,35.82461,,https://www.geonames.org/173334
+Qurayyat,34.022298,36.730134,en,https://www.geonames.org/108648
+Qâboûn,33.54309,36.33604,,https://www.geonames.org/173396
+Qābūn,33.54309,36.33604,ar-Latn-x-ijmes,https://www.geonames.org/173396
+Rayak,33.85,36,,https://www.geonames.org/268661
+Riyak,33.85,36,,https://www.geonames.org/268661
+Riyaq,33.85,36,en,https://www.geonames.org/268661
+Riyāq,33.85,36,ar-Latn-x-ijmes,https://www.geonames.org/268661
+Romania,46,25,en,https://www.geonames.org/798549
+Romanya,46,25,tr,https://www.geonames.org/798549
+Roumanie,46,25,fr,https://www.geonames.org/798549
+Rumänien,46,25,de,https://www.geonames.org/798549
+Russia,60,100,en,https://www.geonames.org/2017370
+Russie,60,100,fr,https://www.geonames.org/2017370
+Russland,60,100,de,https://www.geonames.org/2017370
+Rusya,60,100,tr,https://www.geonames.org/2017370
+Sachsen,51,13,de,https://www.geonames.org/2842567
+Said Naya,33.69768,36.37301,,https://www.geonames.org/164717
+Said Nâya,33.69768,36.37301,,https://www.geonames.org/164717
+Saida,33.55751,35.37148,,https://www.geonames.org/268064
+Saint-Pétersbourg,59.93863,30.31413,fr,https://www.geonames.org/498817
+Salonica,40.64361,22.93086,en,https://www.geonames.org/734077
+Salzburg,47.79941,13.04399,fr,https://www.geonames.org/2766824
+San Francisco,9.99299,-84.12934,en,https://www.geonames.org/3621911
+Sankt Peterburg,59.93863,30.31413,tr,https://www.geonames.org/498817
+Sankt Petersburg,59.93863,30.31413,de,https://www.geonames.org/498817
+Santarem,39.28881,-8.50192,fr,https://www.geonames.org/2263478
+Santarém,39.28881,-8.50192,en,https://www.geonames.org/2263478
+Sao Paulo,-23.5475,-46.63611,tr,https://www.geonames.org/3448439
+Saxony,51,13,en,https://www.geonames.org/2842567
+Sayda,33.55751,35.37148,tr,https://www.geonames.org/268064
+Saydnaya,33.69768,36.37301,,https://www.geonames.org/164717
+Saïda,33.55751,35.37148,,https://www.geonames.org/268064
+Schweiz,47.00016,8.01427,de,https://www.geonames.org/2658434
+Sednaya,33.69768,36.37301,,https://www.geonames.org/164717
+Seidnaya,33.69768,36.37301,,https://www.geonames.org/164717
+Selanik,40.64361,22.93086,tr,https://www.geonames.org/734077
+Seyd Naya,33.69768,36.37301,,https://www.geonames.org/164717
+Shaghour,33.506789,36.305853,,https://www.geonames.org/250295
+Shaghur,33.506789,36.305853,,https://www.geonames.org/250295
+Shaykh Maskīn,32.82944,36.15933,ar-Latn-x-ijmes,https://www.geonames.org/164328
+Shāghūr,33.506789,36.305853,ar-Latn-x-ijmes,https://www.geonames.org/250295
+Sidnaya,33.69768,36.37301,en,https://www.geonames.org/164717
+Sidon,33.55751,35.37148,en,https://www.geonames.org/268064
+Souk Seruja,33.5163,36.2969,,https://www.geonames.org/7642451
+Souk el Berid,33.5106,36.3051,,https://www.geonames.org/7642567
+Sour,33.27333,35.19389,fr,https://www.geonames.org/267008
+Spain,37.6,-4.5,en,https://www.geonames.org/2521750
+Springfield,39.80172,-89.64371,en,https://www.geonames.org/4250542
+St. Petersburg,59.93863,30.31413,en,https://www.geonames.org/498817
+Stockholm,59.33258,18.0649,en,https://www.geonames.org/2673730
+Suisse,47.00016,8.01427,fr,https://www.geonames.org/2658434
+Suq Saruja,33.5163,36.2969,,https://www.geonames.org/7642451
+Suq al-Arwam,33.511001,36.302195,,https://www.geonames.org/76930
+Suq al-Jadid,33.511001,36.302195,,https://www.geonames.org/76930
+Sur,33.27333,35.19389,de,https://www.geonames.org/267008
+Suriye,35,38,tr,https://www.geonames.org/163843
+Surūj,36.85119,38.47967,ar-Latn-x-ijmes,https://www.geonames.org/9233
+Suwayda,32.706268,36.566071,en,https://www.geonames.org/350739
+Suwaydāʾ,32.706268,36.566071,ar-Latn-x-ijmes,https://www.geonames.org/350739
+Suweida,32.706268,36.566071,,https://www.geonames.org/350739
+Switzerland,47.00016,8.01427,en,https://www.geonames.org/2658434
+Syrie,35,38,fr,https://www.geonames.org/163843
+Syrien,35,38,de,https://www.geonames.org/163843
+São Paulo,-23.5475,-46.63611,en,https://www.geonames.org/3448439
+Sārūjah,33.5163,36.2969,,https://www.geonames.org/7642451
+Sāḥat al-Marja,33.512828,36.298030,,https://www.geonames.org/2330755
+Sāḩat Bāb Muşallá,33.49886,36.30045,en,https://www.geonames.org/7642484
+Sūq Sārūja,33.5163,36.2969,ar-Latn-x-ijmes,https://www.geonames.org/7642451
+Sūq Sārūjā,33.5163,36.2969,,https://www.geonames.org/7642451
+Sūq al-Arwām,33.511001,36.302195,,https://www.geonames.org/76930
+Sūq al-Jadīd,33.511001,36.302195,ar-Latn-x-ijmes,https://www.geonames.org/76930
+Tabouk,28.38333,36.58333,,https://www.geonames.org/101628
+Tabuk,28.38333,36.58333,en,https://www.geonames.org/101628
+Tabūk,28.38333,36.58333,ar-Latn-x-ijmes,https://www.geonames.org/101628
+Tahran,35.69439,51.42151,tr,https://www.geonames.org/112931
+Tanta,30.78847,31.00192,en,https://www.geonames.org/347497
+Tarse,36.91876,34.8784,fr,https://www.geonames.org/299817
+Tarsus,36.91876,34.8784,en,https://www.geonames.org/299817
+Tebuk,28.38333,36.58333,,https://www.geonames.org/101628
+Tebük,28.38333,36.58333,tr,https://www.geonames.org/101628
+Teheran,35.69439,51.42151,de,https://www.geonames.org/112931
+Tehran,35.69439,51.42151,en,https://www.geonames.org/112931
+Tekkiyya Suleymaniyya,33.51249,36.29164,,https://www.geonames.org/7642725
+Territoire palestinien,31.92157,35.20329,fr,https://www.geonames.org/6254930
+Thessaloniki,40.64361,22.93086,de,https://www.geonames.org/734077
+Thessalonique,40.64361,22.93086,fr,https://www.geonames.org/734077
+Tiberias,32.79221,35.53124,en,https://www.geonames.org/293322
+Tiberya,32.79221,35.53124,tr,https://www.geonames.org/293322
+Tibériade,32.79221,35.53124,fr,https://www.geonames.org/293322
+Trablusşam,34.43352,35.84415,tr,https://www.geonames.org/266826
+Tripoli,34.43352,35.84415,en,https://www.geonames.org/266826
+Tunesien,34,9,de,https://www.geonames.org/2464461
+Tunis,36.81897,10.16579,en,https://www.geonames.org/2464470
+Tunisia,34,9,en,https://www.geonames.org/2464461
+Tunisie,34,9,fr,https://www.geonames.org/2464461
+Tunus,34,9,tr,https://www.geonames.org/2464461
 Turkey,39,35,en,
-Tyre,33.27333,35.19389,en,geon:267008
-Téhéran,35.69439,51.42151,fr,geon:112931
-USA,39.76,-98.5,de,geon:6252001
-United States,39.76,-98.5,en,geon:6252001
-Uruguay,-33,-56,en,geon:3439705
-Utrecht,52.09083,5.12222,en,geon:2745912
-Uşak,38.67351,29.4058,en,geon:298299
-Vienna,48.20849,16.37208,en,geon:2761369
-Vienne,48.20849,16.37208,fr,geon:2761369
-Virginia,-28.10391,26.86593,en,geon:943882
-Viyana,48.20849,16.37208,tr,geon:2761369
-Wadi Tafila,30.85125,35.5883,,geon:249382
-Wadi Tafīla,30.85125,35.5883,,geon:249382
-Wadi al Ghuwayr,30.85125,35.5883,,geon:249382
-Wadi at Tafilah,30.85125,35.5883,,geon:249382
-Wadi el Ghuweir,30.85125,35.5883,,geon:249382
-Westeuropa,50.21909,7.42676,de,geon:9408659
-Westpreussen,53.5,18,de,geon:3082436
-Wien,48.20849,16.37208,de,geon:2761369
-Wādī al Ghuwayr,30.85125,35.5883,,geon:249382
-Wādī aţ Ţafīlah,30.85125,35.5883,,geon:249382
-Wādī el Ghuweir,30.85125,35.5883,,geon:249382
-Yabroud,33.96736,36.65741,,geon:162627
-Yabrud,33.96736,36.65741,,geon:162627
-Yabrūd,33.96736,36.65741,,geon:162627
-Yafo,32.05043,34.75224,,geon:293253
-Yemen,15.5,47.5,en,geon:69543
-Yunanistan,39,22,tr,geon:390903
-Yémen,15.5,47.5,fr,geon:69543
-Zabadani,33.72488,36.1005,,geon:172059
-Zabadānī,33.72488,36.1005,ar-Latn-x-ijmes,geon:172059
-Zahle,33.84972,35.90417,,geon:266045
-Zahlé,33.84972,35.90417,,geon:266045
-Zarka,32.07275,36.08796,,geon:250090
-Zarqa,32.07275,36.08796,,geon:250090
-Zarqāʾ,32.07275,36.08796,ar-Latn-x-ijmes,geon:250090
-Zaḥla,33.84972,35.90417,ar-Latn-x-ijmes,geon:266045
-Zerka,32.07275,36.08796,,geon:250090
-Zurich,47.36667,8.55,en,geon:2657896
-Zürich,47.36667,8.55,de,geon:2657896
-Zürih,47.36667,8.55,tr,geon:2657896
-al-Aqsab mosque,33.51563,36.3109,,geon:8430647
-al-Aqṣāb,33.51563,36.3109,ar-Latn-x-ijmes,geon:8430647
-al-Aqṣāb Mosque,33.51563,36.3109,,geon:8430647
-al-Mazza,33.49991,36.24763,ar-Latn-x-ijmes,geon:173470
-al-Mūskī,30.0486,31.25634,en,geon:9179530
-al-Nabaṭiyya,33.37717,35.48383,ar-Latn-x-ijmes,geon:7870014
-al-Nabk,34.022298,36.730134,,geon:108648
-al-Najaf,31.25,43.83333,ar-Latn-x-ijmes,geon:98862
-al-Qaddam,33.47234,36.28798,,geon:173394
-al-Qaddam al-Sharīf,33.47234,36.28798,ar-Latn-x-ijmes,geon:173394
-al-Quds,31.76904,35.21633,ar-Latn-x-ijmes,geon:281184
-al-Quds al-Sharīf,31.76904,35.21633,ar-Latn-x-ijmes,geon:281184
-al-Qābūn,33.54309,36.33604,,geon:173396
-al-Qāhira,30.06263,31.24967,ar-Latn-x-ijmes,geon:360630
-al-Salt,32.03917,35.72722,en,geon:250258
-al-Salṭ,32.03917,35.72722,,geon:250258
-al-Shaykh Maskīn,32.82944,36.15933,,geon:164328
-al-Suwaida,32.706268,36.566071,,geon:350739
-al-Takiyya al-Sulaymāniyya,33.51249,36.29164,ar-Latn-x-ijmes,geon:7642725
-al-Tawba Mosque,33.51523,36.30435,ar-Latn-x-ijmes,geon:7642661
-al-Ula,28.38333,36.58333,,geon:101628
-al-Ūlā,28.38333,36.58333,,geon:101628
-al-ʿIrāq,33,44,ar-Latn-x-ijmes,geon:99237
-al-Ṭafīla,30.85125,35.5883,,geon:249382
-alljah,32.93481,36.385,,geon:173573
-alqabwn,33.54309,36.33604,,geon:173396
-nahyt jrmana,33.49227,36.35075,,geon:8609526
-qabwn,33.54309,36.33604,,geon:173396
-sydnaya,33.69768,36.37301,,geon:164717
-sūriye vilāyeti,35,38,ota-Latn-x-ijmes,geon:163843
-vilāyet-i sūriye,35,38,ota-Latn-x-ijmes,geon:163843
-Çin Halk Cumhuriyeti,35,105,tr,geon:1814991
-Édirne,41.67719,26.55597,fr,geon:747712
-États-Unis,39.76,-98.5,fr,geon:6252001
-Österreich,47.33333,13.33333,de,geon:2782113
-İran,32,53,tr,geon:130758
-İskenderun,36.58718,36.17347,fr,geon:311111
-İstanbul,41.01384,28.94966,,geon:745044
-İsviçre,47.00016,8.01427,tr,geon:2658434
-İtalya,42.83333,12.83333,tr,geon:3175395
-İzmir,38.41273,27.13838,tr,geon:311046
-Şam-i şerif,33.5102,36.29128,tr,geon:170654
-Şaydnāyā,33.69768,36.37301,,geon:164717
-Şikago,41.85003,-87.65005,tr,geon:4887398
-Şām-i şerīf,33.5102,36.29128,ota-Latn-x-ijmes,geon:170654
-ʿAbayh,33.73556,35.52722,,geon:276789
-ʿAjalūn,32.33385,35.75238,,geon:250799
-ʿAjlūn,32.33385,35.75238,ar-Latn-x-ijmes,geon:250799
-ʿAlayh,33.810086,35.603245,ar-Latn-x-ijmes,geon:280425
-ʿAyn Fīja,33.63578,36.18944,,geon:7894838
-ʿAyn Zarqāʾ,32.07275,36.08796,,geon:250090
-ʿAyn Zerka,32.07275,36.08796,,geon:250090
-ʿAyn al-Fīja,33.63578,36.18944,ar-Latn-x-ijmes,geon:7894838
-ʿAyn al-Zarqāʾ,32.07275,36.08796,ar-Latn-x-ijmes,geon:250090
-ʿUqayba,36.43822,36.96762,ar-Latn-x-ijmes,geon:173134
-آسيا,29.84064,89.29688,ar,geon:6255147
-آسيا الصغرى,39,35,ar,geon:323835
-آشور,28.9836,51.2632,ar,geon:45574
-أسوان,24.09082,32.89942,ar,geon:359792
-أضنة,37.00167,35.32889,ar,geon:325363
-أفريقية,7.1881,21.09375,ar,geon:6255146
-ألمانيا,51.5,10.5,ar,geon:2921044
-أمريكا,39.76,-98.5,ar,geon:6252001
-أميركا,39.76,-98.5,ar,geon:6252001
-أوترخت,52.09083,5.12222,ar,geon:2745912
-أوربا,50.21909,7.42676,ar,geon:9408659
-أورنبورغ,51.7727,55.0988,ru-Arab-AR,geon:515003
-أورينبورغ,51.7727,55.0988,ar,geon:515003
-أوستراليا,-25,135,ar,geon:2077456
-أوماها,41.25626,-95.94043,ar,geon:5074472
-أيوا,42.00027,-93.50049,ar,geon:4862182
-إسبانيا,37.6,-4.5,ar,geon:2521750
-إسكندرونة,36.58718,36.17347,ar,geon:311111
-إمارة ساكس,51,13,ar,geon:2842567
-إيران,32,53,ar,geon:130758
-إيطاليا,42.83333,12.83333,ar,geon:3175395
-ادرنة,41.67719,26.55597,ar,geon:747712
-ازمير,38.41273,27.13838,ar,geon:311046
-استوكهولم,59.33258,18.0649,ar,geon:2673730
-الآستانة,41.01384,28.94966,ar,geon:745044
-الأرجنتين,-34,-64,ar,geon:3865483
-الأستانة,41.01384,28.94966,ar,geon:745044
-الأندلس,37.6,-4.5,ar,geon:2521750
-الإسكندرية,31.20176,29.91582,ar,geon:361058
-الارجنتين,-34,-64,ar,geon:3865483
-الارغواي,-33,-56,ar,geon:3439705
-الاستانة,41.01384,28.94966,ar,geon:745044
-الاسكندرية,31.20176,29.91582,ar,geon:361058
-الالاسكا,64.00028,-150.00028,en-Arab-AR,geon:5879092
-الامبراطورية الألمانية,51.5,10.5,ar,geon:2921044
-الاناضول,39,35,ar,geon:323835
-البترون,34.25528,35.65806,ar,geon:280328
-البرازيل,-10,-55,ar,geon:3469034
-البرتقال,39.6945,-8.13057,ar,geon:2264397
+Tyre,33.27333,35.19389,en,https://www.geonames.org/267008
+Téhéran,35.69439,51.42151,fr,https://www.geonames.org/112931
+USA,39.76,-98.5,de,https://www.geonames.org/6252001
+United States,39.76,-98.5,en,https://www.geonames.org/6252001
+Uruguay,-33,-56,en,https://www.geonames.org/3439705
+Utrecht,52.09083,5.12222,en,https://www.geonames.org/2745912
+Uşak,38.67351,29.4058,en,https://www.geonames.org/298299
+Vienna,48.20849,16.37208,en,https://www.geonames.org/2761369
+Vienne,48.20849,16.37208,fr,https://www.geonames.org/2761369
+Virginia,-28.10391,26.86593,en,https://www.geonames.org/943882
+Viyana,48.20849,16.37208,tr,https://www.geonames.org/2761369
+Wadi Tafila,30.85125,35.5883,,https://www.geonames.org/249382
+Wadi Tafīla,30.85125,35.5883,,https://www.geonames.org/249382
+Wadi al Ghuwayr,30.85125,35.5883,,https://www.geonames.org/249382
+Wadi at Tafilah,30.85125,35.5883,,https://www.geonames.org/249382
+Wadi el Ghuweir,30.85125,35.5883,,https://www.geonames.org/249382
+Westeuropa,50.21909,7.42676,de,https://www.geonames.org/9408659
+Westpreussen,53.5,18,de,https://www.geonames.org/3082436
+Wien,48.20849,16.37208,de,https://www.geonames.org/2761369
+Wādī al Ghuwayr,30.85125,35.5883,ar-Latn-x-ijmes,https://www.geonames.org/249382
+Wādī aţ Ţafīlah,30.85125,35.5883,,https://www.geonames.org/249382
+Wādī el Ghuweir,30.85125,35.5883,,https://www.geonames.org/249382
+Yabroud,33.96736,36.65741,,https://www.geonames.org/162627
+Yabrud,33.96736,36.65741,,https://www.geonames.org/162627
+Yabrūd,33.96736,36.65741,ar-Latn-x-ijmes,https://www.geonames.org/162627
+Yafo,32.05043,34.75224,,https://www.geonames.org/293253
+Yemen,15.5,47.5,en,https://www.geonames.org/69543
+Yunanistan,39,22,tr,https://www.geonames.org/390903
+Yémen,15.5,47.5,fr,https://www.geonames.org/69543
+Yāfā,32.05043,34.75224,ar-Latn-x-ijmes,https://www.geonames.org/293253
+Zabadani,33.72488,36.1005,,https://www.geonames.org/172059
+Zabadānī,33.72488,36.1005,ar-Latn-x-ijmes,https://www.geonames.org/172059
+Zahle,33.84972,35.90417,en,https://www.geonames.org/266045
+Zahlé,33.84972,35.90417,fr,https://www.geonames.org/266045
+Zarka,32.07275,36.08796,fr,https://www.geonames.org/250090
+Zarqa,32.07275,36.08796,en,https://www.geonames.org/250090
+Zarqāʾ,32.07275,36.08796,ar-Latn-x-ijmes,https://www.geonames.org/250090
+Zaḥla,33.84972,35.90417,ar-Latn-x-ijmes,https://www.geonames.org/266045
+Zerka,32.07275,36.08796,,https://www.geonames.org/250090
+Zurich,47.36667,8.55,en,https://www.geonames.org/2657896
+Zürich,47.36667,8.55,de,https://www.geonames.org/2657896
+Zürih,47.36667,8.55,tr,https://www.geonames.org/2657896
+al-Aqsab mosque,33.51563,36.3109,,https://www.geonames.org/8430647
+al-Aqṣāb,33.51563,36.3109,ar-Latn-x-ijmes,https://www.geonames.org/8430647
+al-Aqṣāb Mosque,33.51563,36.3109,,https://www.geonames.org/8430647
+al-Mazza,33.49991,36.24763,ar-Latn-x-ijmes,https://www.geonames.org/173470
+al-Mūskī,30.0486,31.25634,en,https://www.geonames.org/9179530
+al-Nabaṭiyya,33.37717,35.48383,ar-Latn-x-ijmes,https://www.geonames.org/7870014
+al-Nabk,34.022298,36.730134,,https://www.geonames.org/108648
+al-Najaf,31.25,43.83333,ar-Latn-x-ijmes,https://www.geonames.org/98862
+al-Qaddam,33.47234,36.28798,,https://www.geonames.org/173394
+al-Qaddam al-Sharīf,33.47234,36.28798,ar-Latn-x-ijmes,https://www.geonames.org/173394
+al-Quds,31.76904,35.21633,ar-Latn-x-ijmes,https://www.geonames.org/281184
+al-Quds al-Sharīf,31.76904,35.21633,ar-Latn-x-ijmes,https://www.geonames.org/281184
+al-Qābūn,33.54309,36.33604,,https://www.geonames.org/173396
+al-Qāhira,30.06263,31.24967,ar-Latn-x-ijmes,https://www.geonames.org/360630
+al-Salt,32.03917,35.72722,en,https://www.geonames.org/250258
+al-Salṭ,32.03917,35.72722,ar-Latn-x-ijmes,https://www.geonames.org/250258
+al-Shaykh Maskīn,32.82944,36.15933,,https://www.geonames.org/164328
+al-Suwaida,32.706268,36.566071,,https://www.geonames.org/350739
+al-Takiyya al-Sulaymāniyya,33.51249,36.29164,ar-Latn-x-ijmes,https://www.geonames.org/7642725
+al-Tawba Mosque,33.51523,36.30435,ar-Latn-x-ijmes,https://www.geonames.org/7642661
+al-Ula,28.38333,36.58333,,https://www.geonames.org/101628
+al-Ūlā,28.38333,36.58333,,https://www.geonames.org/101628
+al-ʿIrāq,33,44,ar-Latn-x-ijmes,https://www.geonames.org/99237
+al-Ṭafīla,30.85125,35.5883,,https://www.geonames.org/249382
+alljah,32.93481,36.385,,https://www.geonames.org/173573
+alqabwn,33.54309,36.33604,,https://www.geonames.org/173396
+nahyt jrmana,33.49227,36.35075,,https://www.geonames.org/8609526
+qabwn,33.54309,36.33604,,https://www.geonames.org/173396
+sydnaya,33.69768,36.37301,,https://www.geonames.org/164717
+sūriye vilāyeti,35,38,ota-Latn-x-ijmes,https://www.geonames.org/163843
+vilāyet-i sūriye,35,38,ota-Latn-x-ijmes,https://www.geonames.org/163843
+Çin Halk Cumhuriyeti,35,105,tr,https://www.geonames.org/1814991
+Édirne,41.67719,26.55597,fr,https://www.geonames.org/747712
+États-Unis,39.76,-98.5,fr,https://www.geonames.org/6252001
+Österreich,47.33333,13.33333,de,https://www.geonames.org/2782113
+İran,32,53,tr,https://www.geonames.org/130758
+İskenderiye,31.20176,29.91582,tr,https://www.geonames.org/361058
+İskenderun,36.58718,36.17347,fr,https://www.geonames.org/311111
+İstanbul,41.01384,28.94966,tr,https://www.geonames.org/745044
+İsviçre,47.00016,8.01427,tr,https://www.geonames.org/2658434
+İtalya,42.83333,12.83333,tr,https://www.geonames.org/3175395
+İzmir,38.41273,27.13838,tr,https://www.geonames.org/311046
+Şam-i şerif,33.5102,36.29128,tr,https://www.geonames.org/170654
+Şaydnāyā,33.69768,36.37301,,https://www.geonames.org/164717
+Şikago,41.85003,-87.65005,tr,https://www.geonames.org/4887398
+Şām-i şerīf,33.5102,36.29128,ota-Latn-x-ijmes,https://www.geonames.org/170654
+ʿAbayh,33.73556,35.52722,,https://www.geonames.org/276789
+ʿAjalūn,32.33385,35.75238,,https://www.geonames.org/250799
+ʿAjlūn,32.33385,35.75238,ar-Latn-x-ijmes,https://www.geonames.org/250799
+ʿAlayh,33.810086,35.603245,ar-Latn-x-ijmes,https://www.geonames.org/280425
+ʿAyn Fīja,33.63578,36.18944,,https://www.geonames.org/7894838
+ʿAyn Zarqāʾ,32.07275,36.08796,,https://www.geonames.org/250090
+ʿAyn Zerka,32.07275,36.08796,,https://www.geonames.org/250090
+ʿAyn al-Fīja,33.63578,36.18944,ar-Latn-x-ijmes,https://www.geonames.org/7894838
+ʿAyn al-Zarqāʾ,32.07275,36.08796,ar-Latn-x-ijmes,https://www.geonames.org/250090
+ʿUqayba,36.43822,36.96762,ar-Latn-x-ijmes,https://www.geonames.org/173134
+آسيا,29.84064,89.29688,ar,https://www.geonames.org/6255147
+آسيا الصغرى,39,35,ar,https://www.geonames.org/323835
+آشور,28.9836,51.2632,ar,https://www.geonames.org/45574
+أسوان,24.09082,32.89942,ar,https://www.geonames.org/359792
+أضنة,37.00167,35.32889,ar,https://www.geonames.org/325363
+أفريقية,7.1881,21.09375,ar,https://www.geonames.org/6255146
+ألمانيا,51.5,10.5,ar,https://www.geonames.org/2921044
+أمريكا,39.76,-98.5,ar,https://www.geonames.org/6252001
+أميركا,39.76,-98.5,ar,https://www.geonames.org/6252001
+أوترخت,52.09083,5.12222,ar,https://www.geonames.org/2745912
+أوربا,50.21909,7.42676,ar,https://www.geonames.org/9408659
+أورنبورغ,51.7727,55.0988,ru-Arab-AR,https://www.geonames.org/515003
+أورينبورغ,51.7727,55.0988,ar,https://www.geonames.org/515003
+أوستراليا,-25,135,ar,https://www.geonames.org/2077456
+أوماها,41.25626,-95.94043,ar,https://www.geonames.org/5074472
+أيوا,42.00027,-93.50049,ar,https://www.geonames.org/4862182
+إسبانيا,37.6,-4.5,ar,https://www.geonames.org/2521750
+إسكندرونة,36.58718,36.17347,ar,https://www.geonames.org/311111
+إمارة ساكس,51,13,ar,https://www.geonames.org/2842567
+إيران,32,53,ar,https://www.geonames.org/130758
+إيطاليا,42.83333,12.83333,ar,https://www.geonames.org/3175395
+ادرنة,41.67719,26.55597,ar,https://www.geonames.org/747712
+ازمير,38.41273,27.13838,ar,https://www.geonames.org/311046
+استوكهولم,59.33258,18.0649,ar,https://www.geonames.org/2673730
+الآستانة,41.01384,28.94966,ar,https://www.geonames.org/745044
+الأرجنتين,-34,-64,ar,https://www.geonames.org/3865483
+الأستانة,41.01384,28.94966,ar,https://www.geonames.org/745044
+الأندلس,37.6,-4.5,ar,https://www.geonames.org/2521750
+الإسكندرية,31.20176,29.91582,ar,https://www.geonames.org/361058
+الارجنتين,-34,-64,ar,https://www.geonames.org/3865483
+الارغواي,-33,-56,ar,https://www.geonames.org/3439705
+الاستانة,41.01384,28.94966,ar,https://www.geonames.org/745044
+الاسكندرية,31.20176,29.91582,ar,https://www.geonames.org/361058
+الالاسكا,64.00028,-150.00028,en-Arab-AR,https://www.geonames.org/5879092
+الامبراطورية الألمانية,51.5,10.5,ar,https://www.geonames.org/2921044
+الاناضول,39,35,ar,https://www.geonames.org/323835
+الباب الصغير,33.50611,36.30668,ar,https://www.geonames.org/7642410
+البترون,34.25528,35.65806,ar,https://www.geonames.org/280328
+البرازيل,-10,-55,ar,https://www.geonames.org/3469034
+البرتقال,39.6945,-8.13057,ar,https://www.geonames.org/2264397
+البصرة,30.53302,47.79747,ar,https://www.geonames.org/99532
 البلاد العثمانية,39,35,ar,
-البلجيك,50.75,4.5,ar,geon:2802361
-الجزائر,28,3,ar,geon:2589581
-الجزيرة,25,45,ar,geon:6957697
-الجسر الأبيض,33.52668,36.28794,ar,geon:8419672
-الحديدة,14.79781,42.95452,ar,geon:79415
-الحضارة,13.17384,43.77892,ar,geon:7354617
-الدانيمارك,56,10,ar,geon:2623032
-الدانيمرك,56,10,ar,geon:2623032
+البلجيك,50.75,4.5,ar,https://www.geonames.org/2802361
+الجزائر,28,3,ar,https://www.geonames.org/2589581
+الجزيرة,25,45,ar,https://www.geonames.org/6957697
+الجسر الأبيض,33.52668,36.28794,ar,https://www.geonames.org/8419672
+الحديدة,14.79781,42.95452,ar,https://www.geonames.org/79415
+الحضارة,13.17384,43.77892,ar,https://www.geonames.org/7354617
+الحميدية,33.5106,36.3051,ar,https://www.geonames.org/7642567
+الخربة السمراء,32.1796,36.16477,ar,https://www.geonames.org/250609
+الدانيمارك,56,10,ar,https://www.geonames.org/2623032
+الدانيمرك,56,10,ar,https://www.geonames.org/2623032
 الدولة العثمانية,39,35,ar,
-الزرقاء,32.07275,36.08796,ar,geon:250090
-الشاغور,33.506789,36.305853,ar,geon:250295
-الشيخ مسكين,32.82944,36.15933,ar,geon:164328
-الصين,35,105,ar,geon:1814991
-العراق,33,44,ar,geon:99237
-الغوطة,33.527,36.389,ar,geon:173866
-القافقاس,42,45,ar,geon:615318
-القاهرة,30.06263,31.24967,ar,geon:360630
-القريم,45,34,ru-Arab-AR,geon:703884
-القسطنطينية,41.01384,28.94966,ar,geon:745044
-القنيطرة,33.12594,35.82461,ar,geon:173334
-الكراف,37.18849,-8.15642,fr-Arab-AR,geon:2271989
-الكرك,31.184791,35.705195,ar,geon:2022932
-اللجاه,32.93481,36.385,ar,geon:173573
-المدينة,24.46861,39.61417,ar,geon:109223
-المدينة المنورة,24.46861,39.61417,ar,geon:109223
-المزة,33.49991,36.24763,ar,geon:173470
-المملكة التونسية,34,9,ar,geon:2464461
+الزبداني,33.72488,36.1005,ar,https://www.geonames.org/172059
+الزرقاء,32.07275,36.08796,ar,https://www.geonames.org/250090
+السلط,32.03917,35.72722,ar,https://www.geonames.org/250258
+السوق الجديد,33.511001,36.302195,ar,https://www.geonames.org/76930
+الشاغور,33.506789,36.305853,ar,https://www.geonames.org/250295
+الشام,33.5102,36.29128,ar,https://www.geonames.org/170654
+الشهباء,36.20124,37.16117,ar,https://www.geonames.org/170063
+الشيخ مسكين,32.82944,36.15933,ar,https://www.geonames.org/164328
+الصين,35,105,ar,https://www.geonames.org/1814991
+العراق,33,44,ar,https://www.geonames.org/99237
+الغوطة,33.527,36.389,ar,https://www.geonames.org/173866
+الفيحاء,33.5102,36.29128,ar,https://www.geonames.org/170654
+القافقاس,42,45,ar,https://www.geonames.org/615318
+القاهرة,30.06263,31.24967,ar,https://www.geonames.org/360630
+القدس,31.76904,35.21633,ar,https://www.geonames.org/281184
+القدس الشريف,31.76904,35.21633,ar,https://www.geonames.org/281184
+القريم,45,34,ru-Arab-AR,https://www.geonames.org/703884
+القسطنطينية,41.01384,28.94966,ar,https://www.geonames.org/745044
+القنيطرة,33.12594,35.82461,ar,https://www.geonames.org/173334
+القيمرية,33.5108,36.3094,ar,https://www.geonames.org/7642461
+الكراف,37.18849,-8.15642,fr-Arab-AR,https://www.geonames.org/2271989
+الكرك,31.184791,35.705195,ar,https://www.geonames.org/2022932
+اللاذقية,35.51484,35.77684,ar,https://www.geonames.org/173576
+اللجاه,32.93481,36.385,ar,https://www.geonames.org/173573
+المدينة,24.46861,39.61417,ar,https://www.geonames.org/109223
+المدينة المنورة,24.46861,39.61417,ar,https://www.geonames.org/109223
+المزة,33.49991,36.24763,ar,https://www.geonames.org/173470
+المزيريب,32.71099,36.02743,ar,https://www.geonames.org/166503
+المفرق,32.34289,36.20804,ar,https://www.geonames.org/250582
+المملكة التونسية,34,9,ar,https://www.geonames.org/2464461
 المملكة العثمانية,39,35,ar,
-الموسكي,30.0486,31.25634,ar,geon:9179530
-النبطية,33.37717,35.48383,ar,geon:7870014
-النبك,34.022298,36.730134,ar,geon:108648
-النجف,31.25,43.83333,ar,geon:98862
-النجف الأشرف,31.25,43.83333,ar,geon:98862
-النمسا,47.33333,13.33333,ar,geon:2782113
-الهند,22,79,ar,geon:1269750
+الموسكي,30.0486,31.25634,ar,https://www.geonames.org/9179530
+الموصل,36.335,43.11889,ar,https://www.geonames.org/99072
+النبطية,33.37717,35.48383,ar,https://www.geonames.org/7870014
+النبك,34.022298,36.730134,ar,https://www.geonames.org/108648
+النجف,31.25,43.83333,ar,https://www.geonames.org/98862
+النجف الأشرف,31.25,43.83333,ar,https://www.geonames.org/98862
+النمسا,47.33333,13.33333,ar,https://www.geonames.org/2782113
+الهند,22,79,ar,https://www.geonames.org/1269750
 الولايات العثمانية,39,35,ar,
-الولايات المتحدة,39.76,-98.5,ar,geon:6252001
-الولايات المتحدة الأميركية,39.76,-98.5,ar,geon:6252001
-اليابان,35.68536,139.75309,ar,geon:1861060
-اليرموك,33.47078,36.30571,ar,geon:8422856
-اليمن,15.5,47.5,ar,geon:69543
-اليونان,39,22,ar,geon:390903
-اوماها,41.25626,-95.94043,ar,geon:5074472
-باب الجابية,33.5055,36.3013,ar,geon:8379592
-باب تومى,33.5108,36.3154,ar,geon:7642471
-باب سريجة,33.5049,36.2982,ar,geon:7642482
-بابل,32.53333,44.61667,ar,geon:98227
-باريز,27.3054,56.6739,ar,geon:141254
-باريس,27.3054,56.6739,ar,geon:141254
-باكو,40.37767,49.89201,ar,geon:587084
-بحصة,33.51262,36.29969,ar,geon:7642463
-برلين,52.52437,13.41053,ar,geon:2950159
-برن,46.94809,7.44744,de-Arab-AR,geon:2661552
-بروسيا,53.5,18,ar,geon:3082436
-بروفيدنس,41.82399,-71.41283,ar,geon:5224151
-بصر الحرير,32.84456,36.34077,ar,geon:171127
-بصرى الشام,32.52013,36.48256,ar,geon:171126
-بطرسبرج,59.93863,30.31413,ar,geon:498817
-بعبدا,33.83389,35.54417,ar,geon:277226
-بلاد الشام,32.8686,44.84908,ar,geon:6754242
-بلاد الهند,22,79,ar,geon:1269750
-بلاد برازيل,-10,-55,ar,geon:3469034
-بلغاريا,42.66667,25.25,ar,geon:732800
-بوستون,42.35843,-71.05977,en-Arab-AR,geon:4930956
-بوسطن,42.35843,-71.05977,ar,geon:4930956
-بولونيا,44.49381,11.33875,ar,geon:3181928
-بوليفيا,-17,-65,ar,geon:3923057
-بونس آيرس,-34.61315,-58.37723,ar,geon:3435910
-بونس أيرس,-34.61315,-58.37723,ar,geon:3435910
-بيرن,46.94809,7.44744,ar,geon:2661552
-بيرو,-10,-75.25,ar,geon:3932488
-بيروت,33.88894,35.49442,ar,geon:276781
-تبوك,28.38333,36.58333,ar,geon:101628
-تونس,36.81897,10.16579,ar,geon:2464470
-جامع التقية,33.51249,36.29164,,geon:7642725
-جامع التكية السليمانية,33.51249,36.29164,,geon:7642725
-جامع التوبة,33.51523,36.30435,,geon:7642661
-جامع السادات,33.51563,36.3109,,geon:8430647
-جامع السادات أقصاب,33.51563,36.3109,,geon:8430647
-جبل الشيخ,33.41379,35.85741,ar,geon:169612
-جبل حوران,32.547050,36.727888,ar,geon:170560
-جبل عامل,33.16667,35.36667,,geon:278960
-جبل قلمون,33.62882,36.44801,ar,geon:166237
-جبل لبنان,33.91667,35.66667,ar,geon:273607
-جدة,21.54238,39.19797,ar,geon:105343
-جزيرة العرب,25,45,ar,geon:6957697
-جنيف,46.20222,6.14569,fr-Arab-AR,geon:2660646
-جوبر,33.52328,36.33496,ar,geon:169137
-جوتلاند,57.5,18.55,ar,geon:2711511
-جونية,33.41627,36.15134,ar,geon:8041193
-حرستا,33.55869,36.36515,ar,geon:169897
-حلوان,29.84144,31.30084,ar,geon:355795
-حوران,32.547050,36.727888,ar,geon:170560
-حيفا,32.81841,34.9885,ar,geon:294801
-حيفاء,32.81841,34.9885,ar,geon:294801
-خراسان,37.5,57,ar,geon:6201376
-دار السلطنة,41.01384,28.94966,ar,geon:745044
-درعا,32.61889,36.10213,ar,geon:170905
-دمر,33.53148,36.2436,ar,geon:170585
-دمنهور,31.03408,30.46823,ar,geon:358448
-دير الزور,35.33588,40.14084,ar,geon:170794
-دير عطية,34.143,36.75974,ar,geon:7895199
-راشيا,33.53333,35.83333,ar,geon:268737
-روسيا,60,100,ar,geon:2017370
-رومانيا,46,25,ar,geon:798549
-زرقاء,32.07275,36.08796,ar,geon:250090
-زوريخ,47.36667,8.55,de-Arab-AR,geon:2657896
-زيورخ,47.36667,8.55,ar,geon:2657896
-ساحة الاتحاد,33.51641,36.31619,ar,geon:7642535
-سالزبورغ,47.79941,13.04399,ar,geon:2766824
-سان باولو,-23.5475,-46.63611,ar,geon:3448439
-سان فرنسيسكو,9.99299,-84.12934,en-Arab-AR,geon:3621911
-سانتارم,39.28881,-8.50192,fr-Arab-AR,geon:2263478
-سبرنجفيلد,39.80172,-89.64371,en-Arab-Ar,geon:4250542
-سبرينج فيلد، إلينوي,39.80172,-89.64371,ar,geon:4250542
-سروج,36.85119,38.47967,ar,geon:9233
-سلانيك,40.64361,22.93086,ar,geon:734077
-سورية,35,38,ar,geon:163843
-سويسرا,47.00016,8.01427,ar,geon:2658434
-شهرة عينتاب,37.05944,37.3825,ar,geon:314830
-شيكاغو,41.85003,-87.65005,ar,geon:4887398
-صور,33.27333,35.19389,ar,geon:267008
-صيدا,33.55751,35.37148,ar,geon:268064
-صيدنايا,33.69768,36.37301,ar,geon:164717
-طبريا,32.79221,35.53124,ar,geon:293322
-طبرية,32.79221,35.53124,ar,geon:293322
-طرابلس,34.43352,35.84415,ar,geon:266826
-طرابلس الشام,34.43352,35.84415,ar,geon:266826
-طرابلس الغرب,33.49199,36.24247,ar,geon:11713946
-طنطا,30.78847,31.00192,ar,geon:347497
-طهران,35.69439,51.42151,ar,geon:112931
-طوس,36.69323,53.28435,ar,geon:385399
-عبي,33.73556,35.52722,ar,geon:276789
-عشاق,38.67351,29.4058,ar,geon:298299
-عقيبة,36.43822,36.96762,ar,geon:173134
-عكا,32.923925,35.070630,ar,geon:295721
-عكار,34.54278,36.07972,ar,geon:274723
-عليه,33.810086,35.603245,ar,geon:280425
-عين الزرفا,32.07275,36.08796,ar,geon:250090
-عين الفيجة,33.63578,36.18944,ar,geon:7894838
-عين تاب,37.05944,37.3825,ar,geon:314830
-عينتاب,37.05944,37.3825,ar,geon:314830
-غرناطة,37.18817,-3.60667,ar,geon:2517117
-غلاسكو,55.86515,-4.25763,ar,geon:2648579
-فاس,34.03313,-5.00028,ar,geon:2548885
-فرجينيا,-28.10391,26.86593,en-Arab-AR,geon:943882
-فرنسا,46,2,ar,geon:3017382
-فلسطين,31.92157,35.20329,ar,geon:6254930
-فيلادلفيا,39.95233,-75.16379,ar,geon:4560349
-فينا,48.20849,16.37208,ar,geon:2761369
-قابون,33.54309,36.33604,ar,geon:173396
-قاهرة,30.06263,31.24967,ar,geon:360630
-قزان,55.78874,49.12214,ar,geon:551487
-قضاء راشيا,33.53333,35.83333,ar,geon:268737
-كرسون,33.0052,49.234,ar,geon:6746378
-كفر الزيات,30.8248,30.81805,ar,geon:354365
-لبنان,33.91667,35.66667,ar,geon:273607
-لندرا,51.50853,-0.12574,ar,geon:2643743
-لندن,51.50853,-0.12574,ar,geon:2643743
-لنكلن,40.8,-96.66696,en-Arab-AR,geon:5072006
-لنكن,40.8,-96.66696,ar,geon:5072006
-لواء الكرك,31.16121,35.82527,ar,geon:8621697
-ليدن,52.15833,4.49306,ar,geon:2751773
-ليون,45.74846,4.84671,fr-Arab-AR,geon:2996944
-محطة الحجاز,33.51119,36.29502,ar,geon:173780
-محطة القطار (البرامكة),33.51667,36.28333,ar,geon:171794
-مدينة بيروت,33.88894,35.49442,ar,geon:276781
-مدينة لكنأو,26.83928,80.92313,ar,geon:1264733
-مرج عيون,33.27511,35.53822,ar,geon:271225
-مرجعيون,33.27511,35.53822,ar,geon:271225
-مسجد القصب,33.51563,36.3109,,geon:8430647
-مصر,30.06263,31.24967,ar,geon:360630
-معرة النعمان,35.6483,36.67693,ar,geon:167611
-معلولا,33.8249,36.57539,ar,geon:7894734
-مكة,21.42664,39.82563,ar,geon:104515
-مكتب عنبر,33.50997,36.30958,ar,geon:8373421
-مناستر,36.54468,32.84385,ar,geon:324603
-منشستر,36.54468,32.84385,ar,geon:324603
-منطقة حماة,35.28577,37.12626,ar,geon:170016
-موسقو,55.75222,37.61556,ar,geon:524901
-ميلان,45.46427,9.18951,ar,geon:3173435
-نابلس,32.24056,35.28708,ar,geon:7870555
-ناحية جرمانا,33.49227,36.35075,ar,geon:8609526
-ناحية دير عطية,34.143,36.75974,ar,geon:7895199
-ناحية معلولا,33.8249,36.57539,ar,geon:7894734
-نبراسكا,41.50028,-99.75067,ar,geon:5073708
-نروج,62,10,ar,geon:3144096
-نهر الشريعة,31.76025,35.55792,ar,geon:294624
-نوفوغوردو,56.32867,44.00205,ar,geon:520555
-نيويورك,40.71427,-74.00597,ar,geon:5128581
-هايدلبرغ,49.40768,8.69079,ar,geon:2907911
-هولندة,18.10358,-77.80164,ar,geon:11495075
-وادي موسى,30.32096,35.47895,ar,geon:246008
-ولاية أيوا,42.00027,-93.50049,ar,geon:4862182
-ولاية الالاسكا,64.00028,-150.00028,ar,geon:5879092
-ولاية سوريا,35,38,ar,geon:163843
-ولاية سورية,35,38,ar,geon:163843
-ولاية نيوجرسي,40.75766,-73.91327,ar,geon:6955102
-يابان,35.68536,139.75309,ar,geon:1861060
-Ḥalab,36.20124,37.16117,ar-Latn-x-ijmes,geon:170063
-Ḥalwān,29.84144,31.30084,ar-Latn-x-ijmes,geon:355795
-Ḥamāh,35.13179,36.75783,ar-Latn-x-ijmes,geon:170017
+الولايات المتحدة,39.76,-98.5,ar,https://www.geonames.org/6252001
+الولايات المتحدة الأميركية,39.76,-98.5,ar,https://www.geonames.org/6252001
+اليابان,35.68536,139.75309,ar,https://www.geonames.org/1861060
+اليرموك,33.47078,36.30571,ar,https://www.geonames.org/8422856
+اليمن,15.5,47.5,ar,https://www.geonames.org/69543
+اليونان,39,22,ar,https://www.geonames.org/390903
+اوماها,41.25626,-95.94043,ar,https://www.geonames.org/5074472
+باب البريد,33.5106,36.3051,ar,https://www.geonames.org/7642567
+باب الجابية,33.5055,36.3013,ar,https://www.geonames.org/8379592
+باب الصغير,33.50611,36.30668,ar,https://www.geonames.org/7642410
+باب تومى,33.5108,36.3154,ar,https://www.geonames.org/7642471
+باب سريجة,33.5049,36.2982,ar,https://www.geonames.org/7642482
+باب شرقي,33.50944,36.3179,ar,https://www.geonames.org/7642405
+بابل,32.53333,44.61667,ar,https://www.geonames.org/98227
+باريز,27.3054,56.6739,ar,https://www.geonames.org/141254
+باريس,27.3054,56.6739,ar,https://www.geonames.org/141254
+باكو,40.37767,49.89201,ar,https://www.geonames.org/587084
+بحصة,33.51262,36.29969,ar,https://www.geonames.org/7642463
+بحصة - سنجقدار,33.51262,36.29969,ar,https://www.geonames.org/7642463
+برلين,52.52437,13.41053,ar,https://www.geonames.org/2950159
+برن,46.94809,7.44744,de-Arab-AR,https://www.geonames.org/2661552
+بروسيا,53.5,18,ar,https://www.geonames.org/3082436
+بروفيدنس,41.82399,-71.41283,ar,https://www.geonames.org/5224151
+بصر الحرير,32.84456,36.34077,ar,https://www.geonames.org/171127
+بصرة,30.53302,47.79747,ar,https://www.geonames.org/99532
+بصرى الشام,32.52013,36.48256,ar,https://www.geonames.org/171126
+بطرسبرج,59.93863,30.31413,ar,https://www.geonames.org/498817
+بعبدا,33.83389,35.54417,ar,https://www.geonames.org/277226
+بعلبك,34.00583,36.21806,ar,https://www.geonames.org/277130
+بغداد,33.34058,44.40088,ar,https://www.geonames.org/98182
+بلاد الشام,32.8686,44.84908,ar,https://www.geonames.org/6754242
+بلاد الهند,22,79,ar,https://www.geonames.org/1269750
+بلاد برازيل,-10,-55,ar,https://www.geonames.org/3469034
+بلغاريا,42.66667,25.25,ar,https://www.geonames.org/732800
+بلودان,33.72329,36.12549,ar,https://www.geonames.org/171331
+بوستون,42.35843,-71.05977,en-Arab-AR,https://www.geonames.org/4930956
+بوسطن,42.35843,-71.05977,ar,https://www.geonames.org/4930956
+بولونيا,44.49381,11.33875,ar,https://www.geonames.org/3181928
+بوليفيا,-17,-65,ar,https://www.geonames.org/3923057
+بونس آيرس,-34.61315,-58.37723,ar,https://www.geonames.org/3435910
+بونس أيرس,-34.61315,-58.37723,ar,https://www.geonames.org/3435910
+بيرن,46.94809,7.44744,ar,https://www.geonames.org/2661552
+بيرو,-10,-75.25,ar,https://www.geonames.org/3932488
+بيروت,33.88894,35.49442,ar,https://www.geonames.org/276781
+تبوك,28.38333,36.58333,ar,https://www.geonames.org/101628
+تونس,36.81897,10.16579,ar,https://www.geonames.org/2464470
+جامع التقية,33.51249,36.29164,ar,https://www.geonames.org/7642725
+جامع التكية السليمانية,33.51249,36.29164,ar,https://www.geonames.org/7642725
+جامع التوبة,33.51523,36.30435,ar,https://www.geonames.org/7642661
+جامع السادات,33.51563,36.3109,ar,https://www.geonames.org/8430647
+جامع السادات أقصاب,33.51563,36.3109,ar,https://www.geonames.org/8430647
+جبل الشيخ,33.41379,35.85741,ar,https://www.geonames.org/169612
+جبل حوران,32.547050,36.727888,ar,https://www.geonames.org/170560
+جبل عامل,33.16667,35.36667,ar,https://www.geonames.org/278960
+جبل قلمون,33.62882,36.44801,ar,https://www.geonames.org/166237
+جبل لبنان,33.91667,35.66667,ar,https://www.geonames.org/273607
+جدة,21.54238,39.19797,ar,https://www.geonames.org/105343
+جزيرة العرب,25,45,ar,https://www.geonames.org/6957697
+جنيف,46.20222,6.14569,fr-Arab-AR,https://www.geonames.org/2660646
+جوبر,33.52328,36.33496,ar,https://www.geonames.org/169137
+جوتلاند,57.5,18.55,ar,https://www.geonames.org/2711511
+جونية,33.41627,36.15134,ar,https://www.geonames.org/8041193
+حاصبيا,33.39778,35.685,ar,https://www.geonames.org/274313
+حرستا,33.55869,36.36515,ar,https://www.geonames.org/169897
+حلب,36.20124,37.16117,ar,https://www.geonames.org/170063
+حلب الشهباء,36.20124,37.16117,ar,https://www.geonames.org/170063
+حلوان,29.84144,31.30084,ar,https://www.geonames.org/355795
+حماة,35.13179,36.75783,ar,https://www.geonames.org/170017
+حماه,35.13179,36.75783,ar,https://www.geonames.org/170017
+حمص,34.72682,36.72339,ar,https://www.geonames.org/169577
+حوران,32.547050,36.727888,ar,https://www.geonames.org/170560
+حيفا,32.81841,34.9885,ar,https://www.geonames.org/294801
+حيفاء,32.81841,34.9885,ar,https://www.geonames.org/294801
+خراسان,37.5,57,ar,https://www.geonames.org/6201376
+خربة السمراء,32.1796,36.16477,ar,https://www.geonames.org/250609
+دار السلطنة,41.01384,28.94966,ar,https://www.geonames.org/745044
+درعا,32.61889,36.10213,ar,https://www.geonames.org/170905
+دمر,33.53148,36.2436,ar,https://www.geonames.org/170585
+دمشق,33.5102,36.29128,ar,https://www.geonames.org/170654
+دمنهور,31.03408,30.46823,ar,https://www.geonames.org/358448
+دوما,33.57175,36.4027,ar,https://www.geonames.org/170592
+دير الزور,35.33588,40.14084,ar,https://www.geonames.org/170794
+دير عطية,34.143,36.75974,ar,https://www.geonames.org/7895199
+راشيا,33.53333,35.83333,ar,https://www.geonames.org/268737
+روسيا,60,100,ar,https://www.geonames.org/2017370
+رومانيا,46,25,ar,https://www.geonames.org/798549
+رياق,33.85,36,ar,https://www.geonames.org/268661
+زحلة,33.84972,35.90417,ar,https://www.geonames.org/266045
+زرقاء,32.07275,36.08796,ar,https://www.geonames.org/250090
+زوريخ,47.36667,8.55,de-Arab-AR,https://www.geonames.org/2657896
+زيورخ,47.36667,8.55,ar,https://www.geonames.org/2657896
+ساحة الاتحاد,33.51641,36.31619,ar,https://www.geonames.org/7642535
+ساحة اليرموك,33.49886,36.30045,ar,https://www.geonames.org/7642484
+ساحة باب مصلى,33.49886,36.30045,ar,https://www.geonames.org/7642484
+ساروجا,33.5163,36.2969,ar,https://www.geonames.org/7642451
+ساروجة,33.5163,36.2969,ar,https://www.geonames.org/7642451
+سالزبورغ,47.79941,13.04399,ar,https://www.geonames.org/2766824
+سان باولو,-23.5475,-46.63611,ar,https://www.geonames.org/3448439
+سان فرنسيسكو,9.99299,-84.12934,en-Arab-AR,https://www.geonames.org/3621911
+سانتارم,39.28881,-8.50192,fr-Arab-AR,https://www.geonames.org/2263478
+سبرنجفيلد,39.80172,-89.64371,en-Arab-Ar,https://www.geonames.org/4250542
+سبرينج فيلد، إلينوي,39.80172,-89.64371,ar,https://www.geonames.org/4250542
+سروج,36.85119,38.47967,ar,https://www.geonames.org/9233
+سلانيك,40.64361,22.93086,ar,https://www.geonames.org/734077
+سورية,35,38,ar,https://www.geonames.org/163843
+سوق ساروجة,33.5163,36.2969,ar,https://www.geonames.org/7642451
+سويسرا,47.00016,8.01427,ar,https://www.geonames.org/2658434
+شهرة عينتاب,37.05944,37.3825,ar,https://www.geonames.org/314830
+شيكاغو,41.85003,-87.65005,ar,https://www.geonames.org/4887398
+صور,33.27333,35.19389,ar,https://www.geonames.org/267008
+صيدا,33.55751,35.37148,ar,https://www.geonames.org/268064
+صيدنايا,33.69768,36.37301,ar,https://www.geonames.org/164717
+طبريا,32.79221,35.53124,ar,https://www.geonames.org/293322
+طبرية,32.79221,35.53124,ar,https://www.geonames.org/293322
+طرابلس,34.43352,35.84415,ar,https://www.geonames.org/266826
+طرابلس الشام,34.43352,35.84415,ar,https://www.geonames.org/266826
+طرابلس الغرب,33.49199,36.24247,ar,https://www.geonames.org/11713946
+طرسوس,36.91876,34.8784,ar,https://www.geonames.org/299817
+طنطا,30.78847,31.00192,ar,https://www.geonames.org/347497
+طهران,35.69439,51.42151,ar,https://www.geonames.org/112931
+طوس,36.69323,53.28435,ar,https://www.geonames.org/385399
+عاصمة سورية البيضاء,36.20124,37.16117,ar,https://www.geonames.org/170063
+عبي,33.73556,35.52722,ar,https://www.geonames.org/276789
+عجلون,32.33385,35.75238,ar,https://www.geonames.org/250799
+عشاق,38.67351,29.4058,ar,https://www.geonames.org/298299
+عقيبة,36.43822,36.96762,ar,https://www.geonames.org/173134
+عكا,32.923925,35.070630,ar,https://www.geonames.org/295721
+عكار,34.54278,36.07972,ar,https://www.geonames.org/274723
+عليه,33.810086,35.603245,ar,https://www.geonames.org/280425
+عين الزرفا,32.07275,36.08796,ar,https://www.geonames.org/250090
+عين الفيجة,33.63578,36.18944,ar,https://www.geonames.org/7894838
+عين تاب,37.05944,37.3825,ar,https://www.geonames.org/314830
+عينتاب,37.05944,37.3825,ar,https://www.geonames.org/314830
+غرناطة,37.18817,-3.60667,ar,https://www.geonames.org/2517117
+غلاسكو,55.86515,-4.25763,ar,https://www.geonames.org/2648579
+فاس,34.03313,-5.00028,ar,https://www.geonames.org/2548885
+فرجينيا,-28.10391,26.86593,en-Arab-AR,https://www.geonames.org/943882
+فرنسا,46,2,ar,https://www.geonames.org/3017382
+فلسطين,31.92157,35.20329,ar,https://www.geonames.org/6254930
+فيلادلفيا,39.95233,-75.16379,ar,https://www.geonames.org/4560349
+فينا,48.20849,16.37208,ar,https://www.geonames.org/2761369
+قابون,33.54309,36.33604,ar,https://www.geonames.org/173396
+قاهرة,30.06263,31.24967,ar,https://www.geonames.org/360630
+قبر عاتكة,33.5023,36.2949,ar,https://www.geonames.org/7642481
+قزان,55.78874,49.12214,ar,https://www.geonames.org/551487
+قضاء راشيا,33.53333,35.83333,ar,https://www.geonames.org/268737
+قنوات,32.75696,36.6173,ar,https://www.geonames.org/166141
+كرسون,33.0052,49.234,ar,https://www.geonames.org/6746378
+كفر الزيات,30.8248,30.81805,ar,https://www.geonames.org/354365
+لاذقية,35.51484,35.77684,ar,https://www.geonames.org/173576
+لبنان,33.91667,35.66667,ar,https://www.geonames.org/273607
+لندرا,51.50853,-0.12574,ar,https://www.geonames.org/2643743
+لندن,51.50853,-0.12574,ar,https://www.geonames.org/2643743
+لنكلن,40.8,-96.66696,en-Arab-AR,https://www.geonames.org/5072006
+لنكن,40.8,-96.66696,ar,https://www.geonames.org/5072006
+لواء الكرك,31.16121,35.82527,ar,https://www.geonames.org/8621697
+ليدن,52.15833,4.49306,ar,https://www.geonames.org/2751773
+ليون,45.74846,4.84671,fr-Arab-AR,https://www.geonames.org/2996944
+مئذنة الشحم,33.5072,36.3085,ar,https://www.geonames.org/7642478
+مجدل شمس,33.27,35.76972,ar,https://www.geonames.org/167444
+محافظة البقاع,33.66667,35.83333,ar,https://www.geonames.org/280282
+محطة الحجاز,33.51119,36.29502,ar,https://www.geonames.org/173780
+محطة القطار (البرامكة),33.51667,36.28333,ar,https://www.geonames.org/171794
+مدينة بيروت,33.88894,35.49442,ar,https://www.geonames.org/276781
+مدينة حمص,34.72682,36.72339,ar,https://www.geonames.org/169577
+مدينة لكنأو,26.83928,80.92313,ar,https://www.geonames.org/1264733
+مرج عيون,33.27511,35.53822,ar,https://www.geonames.org/271225
+مرجعيون,33.27511,35.53822,ar,https://www.geonames.org/271225
+مسجد القصب,33.51563,36.3109,ar,https://www.geonames.org/8430647
+مصر,30.06263,31.24967,ar,https://www.geonames.org/360630
+معان,30.19624,35.73405,ar,https://www.geonames.org/248382
+معرة النعمان,35.6483,36.67693,ar,https://www.geonames.org/167611
+معلولا,33.8249,36.57539,ar,https://www.geonames.org/7894734
+مكة,21.42664,39.82563,ar,https://www.geonames.org/104515
+مكتب عنبر,33.50997,36.30958,ar,https://www.geonames.org/8373421
+مناستر,36.54468,32.84385,ar,https://www.geonames.org/324603
+منشستر,36.54468,32.84385,ar,https://www.geonames.org/324603
+منطقة حماة,35.28577,37.12626,ar,https://www.geonames.org/170016
+موسقو,55.75222,37.61556,ar,https://www.geonames.org/524901
+ميلان,45.46427,9.18951,ar,https://www.geonames.org/3173435
+نابلس,32.24056,35.28708,ar,https://www.geonames.org/7870555
+ناحية جرمانا,33.49227,36.35075,ar,https://www.geonames.org/8609526
+ناحية دير عطية,34.143,36.75974,ar,https://www.geonames.org/7895199
+ناحية معلولا,33.8249,36.57539,ar,https://www.geonames.org/7894734
+نبراسكا,41.50028,-99.75067,ar,https://www.geonames.org/5073708
+نروج,62,10,ar,https://www.geonames.org/3144096
+نهر الشريعة,31.76025,35.55792,ar,https://www.geonames.org/294624
+نوفوغوردو,56.32867,44.00205,ar,https://www.geonames.org/520555
+نيويورك,40.71427,-74.00597,ar,https://www.geonames.org/5128581
+هايدلبرغ,49.40768,8.69079,ar,https://www.geonames.org/2907911
+هولندة,18.10358,-77.80164,ar,https://www.geonames.org/11495075
+وادي الطفيلة,30.85125,35.5883,ar,https://www.geonames.org/249382
+وادي الغوير,30.85125,35.5883,ar,https://www.geonames.org/249382
+وادي موسى,30.32096,35.47895,ar,https://www.geonames.org/246008
+ولاية أيوا,42.00027,-93.50049,ar,https://www.geonames.org/4862182
+ولاية الالاسكا,64.00028,-150.00028,ar,https://www.geonames.org/5879092
+ولاية سوريا,35,38,ar,https://www.geonames.org/163843
+ولاية سورية,35,38,ar,https://www.geonames.org/163843
+ولاية نيوجرسي,40.75766,-73.91327,ar,https://www.geonames.org/6955102
+يابان,35.68536,139.75309,ar,https://www.geonames.org/1861060
+يافا,32.05043,34.75224,ar,https://www.geonames.org/293253
+يبرود,33.96736,36.65741,ar,https://www.geonames.org/162627
+Ḥalab,36.20124,37.16117,ar-Latn-x-ijmes,https://www.geonames.org/170063
+Ḥalwān,29.84144,31.30084,ar-Latn-x-ijmes,https://www.geonames.org/355795
+Ḥamāh,35.13179,36.75783,ar-Latn-x-ijmes,https://www.geonames.org/170017
 Ḥamīdiyya Hospital,33.51142,36.29164,,
-Ḥaristā,33.55869,36.36515,ar-Latn-x-ijmes,geon:169897
-Ḥayfā,32.81841,34.9885,ar-Latn-x-ijmes,geon:294801
-Ḥijāz railway station,33.51119,36.29502,,geon:173780
-Ḥimṣ,34.72682,36.72339,,geon:169577
-Ḥomṣ,34.72682,36.72339,ar-Latn-x-ijmes,geon:169577
-Ḥumṣ,34.72682,36.72339,,geon:169577
-Ḥāṣbayā,33.39778,35.685,ar-Latn-x-ijmes,geon:274313
-Ḩamāh,35.13179,36.75783,,geon:170017
-Ṣaida,33.55751,35.37148,ar-Latn-x-ijmes,geon:268064
-Ṣaydnāyā,33.69768,36.37301,ar-Latn-x-ijmes,geon:164717
-Ṭanṭā,30.78847,31.00192,ar-Latn-x-ijmes,geon:347497
-Ṭarāblus,34.43352,35.84415,ar-Latn-x-ijmes,geon:266826
-Ṭarāblus al-Shām,34.43352,35.84415,ar-Latn-x-ijmes,geon:266826
-‘Ajlūn,32.33385,35.75238,,geon:250799
+Ḥaristā,33.55869,36.36515,ar-Latn-x-ijmes,https://www.geonames.org/169897
+Ḥayfā,32.81841,34.9885,ar-Latn-x-ijmes,https://www.geonames.org/294801
+Ḥijāz railway station,33.51119,36.29502,,https://www.geonames.org/173780
+Ḥimṣ,34.72682,36.72339,,https://www.geonames.org/169577
+Ḥomṣ,34.72682,36.72339,ar-Latn-x-ijmes,https://www.geonames.org/169577
+Ḥumṣ,34.72682,36.72339,,https://www.geonames.org/169577
+Ḥāṣbayā,33.39778,35.685,ar-Latn-x-ijmes,https://www.geonames.org/274313
+Ḩamāh,35.13179,36.75783,,https://www.geonames.org/170017
+Ḩimş,34.72682,36.72339,ar,https://www.geonames.org/169577
+Ṣaida,33.55751,35.37148,ar-Latn-x-ijmes,https://www.geonames.org/268064
+Ṣaydnāyā,33.69768,36.37301,ar-Latn-x-ijmes,https://www.geonames.org/164717
+Ṭanṭā,30.78847,31.00192,ar-Latn-x-ijmes,https://www.geonames.org/347497
+Ṭarāblus,34.43352,35.84415,ar-Latn-x-ijmes,https://www.geonames.org/266826
+Ṭarāblus al-Shām,34.43352,35.84415,ar-Latn-x-ijmes,https://www.geonames.org/266826
+‘Ajlūn,32.33385,35.75238,ar-Latn-EN,https://www.geonames.org/250799
