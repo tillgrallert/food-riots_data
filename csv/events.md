@@ -59,7 +59,7 @@ date | date.end | duration | type | location.name | comment | source
 1807 |  |  | food riot | Istanbul | no exact date | {Yesilgöz 2004@211}{Ağır 2010@40}
 1811 |  |  | food riot | Damascus | fears of a riot? | {Philipp 2001@124}
 1813 |  |  | food riot | Acre | female food riot | {Philipp 2001@176}
-1832 |  |  | food riot | Damascus | demonstrations against high prices of bread, theft | {Büssow 2012@59-61} 
+1832-03-14 |  |  | food riot | Damascus | demonstrations against high prices of bread, theft on Ash Wednesday | {Büssow 2012@59-61} 
 1840 |  |  | food riot | Aleppo | no exact date | {Maoz 1968a@185}
 1841 |  |  | food riot | Aleppo | no exact date | {Maoz 1968a@185}
 1856 |  |  | food riot | Damascus | no exact date | {Maoz 1968a@185}
