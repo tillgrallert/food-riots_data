@@ -18,7 +18,7 @@ tags:
 In order to convert this table to more practical `<tei:measureGrp>`, use the following regex:
 
 1. find: 
-    2. rows with prices: `^\|\s(\d{4})\s+\|\s(\w+).[^\|]+\s+\|\s(\w+)\s+\|\s(.[^\|]+)\s+\|\s+(\d+)\s+\|\s(\w+)\s+\|\s+(.[^\s]+)\s+\|\s(.[^\|]+)\s+\|$`
+    2. rows with prices: `^\|\s(\d{4})\s+\|\s(\w+).[^\|]+\s+\|\s(.[^\||\s]+)\s+\|\s(.[^\|]+)\s+\|\s+(\d+)\s+\|\s(\w+)\s+\|\s+(.[^\s]+)\s+\|\s(.[^\|]+)\s+\|$`
     3. rows without prices: `^\|\s(\d{4})\s+\|\s(\w+).[^\|]+\s+\|\s(\w+)\s+\|\s(\w+)\s+\|\s+(\d+)\s+\|\s+\|\s+\|\s(.[^\|]+)\s+\|$`
 2. replace:
     2. rows with prices
