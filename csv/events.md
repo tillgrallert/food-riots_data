@@ -103,3 +103,8 @@ date | date.end | duration | type | location.name | comment | source
 1906-05-22 |  |  | mutiny | Mecca |  | {Ochsenwald 1980@128}, PRO FO
 1872 | 1873 |  | famine | Syria |  | D4751B79-ACE4-4547-AEE1-DDDC6A88373C
 1908-03-01 | 1908-04-30 |  | drought | Safed |  | BD924CE8-867D-4815-99F6-BF0E07FF2402
+1887 |  |  | famine | southern Anatolia | famine in southern Anatolia stabelising grain prices in Syria | 33293364-3170-402E-B2DA-71D3497ED37B 730D6686-0713-41E3-B586-9E661A16576D BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
+1887 | | | famine | Cilicia |  | 730D6686-0713-41E3-B586-9E661A16576D
+1887 | | | drought | Cilicia |  | 730D6686-0713-41E3-B586-9E661A16576D
+1887 |  |  | drought | Adana |  | BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
+1887 |  |  | famine | Adana |  | BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
