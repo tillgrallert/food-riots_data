@@ -54,7 +54,7 @@ date | date.end | duration | type | location.name | comment | source
 1787 | 1788 |  | famine | Diyarbakır (towns around) |  no exact date | {Ayalon 2014@74}
 1914-10-31 | 1918 |  | war | Ottoman Empire | World War I | 
 1790 |  |  | food riot | Istanbul | no exact date | {ThorntonSasmazer 2000@77, 117-118}
-1770 |  |  | food riot | Aleppo | no exact date | {Thieck 1985@§148}
+1770 |  |  | food riot | Aleppo | no exact date | {Thieck 1985@§148}{Meriwether 1981@254}
 1795 | 1797 |  | food riot | Istanbul | no exact date | {Ağır 2010@38-39}
 1807 |  |  | food riot | Istanbul | no exact date | {Yesilgöz 2004@211}{Ağır 2010@40}
 1811 |  |  | food riot | Damascus | fears of a riot? | {Philipp 2001@124}
@@ -108,3 +108,5 @@ date | date.end | duration | type | location.name | comment | source
 1887 | | | drought | Cilicia |  | 730D6686-0713-41E3-B586-9E661A16576D
 1887 |  |  | drought | Adana |  | BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
 1887 |  |  | famine | Adana |  | BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
+1819-10-23 |  |  | food riot | Aleppo | the revolt against the vali commenced, inter alia, as reaction to hoarding of grain by aʿyān | {Bodman 1963@133-134}
+1765-09-29 |  |  | food riot | Aleppo | crowd is forcibly dispersed, two people are executed | {Bodman 1963@21}
