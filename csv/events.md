@@ -19,7 +19,6 @@ date | date.end | duration | type | location.name | comment | source
 1878-03-15 |  |  | food riot | Damascus |  | 
 1878-03-16 |  |  | food riot | Damascus |  | 
 1878-09-01 |  |  | food riot | Jaffa |  no exact date, Bedouins loot shops | 
-1879-06-01 |  |  | food riot | Baghdad |  no exact date | 
 1880-03-14 |  |  | food riot | Beirut |  | 
 1908-08-19 |  |  | food riot | Beirut |  | 
 1908-09-16 |  |  | food riot | Baghdad |  | 
