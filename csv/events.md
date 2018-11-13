@@ -1,7 +1,7 @@
 ---
 title: "project_food-riots: table of events"
 author: Till Grallert
-date: 2018-07-06 13:29:08 +0300
+date: 2018-11-12
 tag:
     - project_food-riots
     - events
@@ -29,8 +29,8 @@ date | date.end | duration | type | location.name | comment | source
 1913-01-17 |  |  | food riot | Jerusalem |  | 
 1913-01-18 |  |  | food riot | Jerusalem |  | 
 1913-02-17 |  |  | food riot | Damascus |  | 
-1914-11-13 |  |  | food riot | Beirut |  | 
-1914-11-21 |  |  | food riot | Beirut |  | 
+1914-11-13 |  |  | food riot | Beirut | protest of some poor people at the public ovens | 70E75762-0802-4DCD-829A-AC254D2A8E2E {SchulzeTanielian 2014@737} 
+1914-11-21 |  |  | food riot | Beirut | large crowds gathering at flour stores | 12EC3DA9-FAA4-4328-828F-F767DAC61A1B 
 1916-02-29 |  |  | food riot | Damascus |  | 
 1873 | 1875 |  | famine | Anatolia |  | {Ertem 2017}
 1879 | 1881 |  | famine | Anatolia |  | {Ertem 2017}
@@ -109,3 +109,4 @@ date | date.end | duration | type | location.name | comment | source
 1887 |  |  | famine | Adana |  | BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
 1819-10-23 |  |  | food riot | Aleppo | the revolt against the vali commenced, inter alia, as reaction to hoarding of grain by aʿyān | {Bodman 1963@133-134}
 1765-09-29 |  |  | food riot | Aleppo | crowd is forcibly dispersed, two people are executed | {Bodman 1963@21}
+1915-12-27 |  |  | food riot | Jerusalem | crowds of men, women, and children gathering at the square at Bāb al-ʿUmūd, fighting each other to buy wheat | {Tamārī 2008a@286}{Tamari 2011@142}
