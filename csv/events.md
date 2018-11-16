@@ -18,7 +18,7 @@ date | date.end | duration | type | location.name | comment | source
 1878-03-14 |  |  | food riot | Damascus |  | 
 1878-03-15 |  |  | food riot | Damascus |  | 
 1878-03-16 |  |  | food riot | Damascus |  | 
-1878-09-01 |  |  | food riot | Jaffa |  no exact date, Bedouins loot shops | 
+1878-09-01 |  |  | food riot | Jaffa |  no exact date, Bedouins loot shops | {Büssow 2011@486}
 1880-03-14 |  |  | food riot | Beirut |  | 
 1908-08-19 |  |  | food riot | Beirut |  | 
 1908-09-16 |  |  | food riot | Baghdad |  | 
@@ -42,7 +42,7 @@ date | date.end | duration | type | location.name | comment | source
 1787 | 1792 |  | famine | Syria |  | {Douwes 2000@19-20}
 1826 | 1827 |  | famine | Syria |  | {Douwes 2000@124, 187}
 1734 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}
-1751 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}, al-Budayrī
+1751 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}, al-Budayrī, {AlGhazzī 1991@233-234}
 1743 |  |  | food riot | Damascus | no exact date, but July | {Ayalon 2014@68}{Grehan 1999@109,151}{Sajdi 2002@170}, al-Budayrī
 1745-07-21 |  |  | food riot | Damascus |  | {Ayalon 2014@68}{Grehan 1999@151, 152-154}, al-Budayrī
 1749 |  |  | food riot | Damascus | spring, crowds loot some bakeries | {Grehan 1999@158}, al-Budayrī
