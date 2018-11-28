@@ -111,3 +111,6 @@ date | date.end | duration | type | location.name | comment | source
 1765-09-29 |  |  | food riot | Aleppo | crowd is forcibly dispersed, two people are executed | {Bodman 1963@21}
 1915-12-27 |  |  | food riot | Jerusalem | crowds of men, women, and children gathering at the square at Bāb al-ʿUmūd, fighting each other to buy wheat | {Tamārī 2008a@286}{Tamari 2011@142}
 1879 |  | | food riot | Aleppo | due to high prices a crowd of poor marched to the Suqs; looted; military intervention | {AlGhazzī 1991@309}
+1880-03 | | | famine | Mosul | people are dying from hunger | D8E1B957-D974-40DC-9A4D-C961BBF982B5
+1880-03 | | | famine | Baghdad | people are dying from hunger | D8E1B957-D974-40DC-9A4D-C961BBF982B5
+1880-03 | | | famine | Kirkuk | people are dying from hunger | D8E1B957-D974-40DC-9A4D-C961BBF982B5
