@@ -36,13 +36,15 @@ date | date.end | duration | type | location.name | comment | source
 1879 | 1881 |  | famine | Anatolia |  | {Ertem 2017}
 1877-04-24 | 1878-03-03 |  | war | Ottoman Empire | Russo-Ottoman War | 
 1696 |  |  | famine | Aleppo |  no exact date | {Ayalon 2014@65}
+1696 | 1697 | | food riot | Aleppo | no exact date | {AlGhazzī 1991@229}
 1757 | 1758 |  | famine | Damascus |  no exact date | {Ayalon 2014@65}{Grehan 1999@142}
 1685 |  |  | famine | Aleppo |  no exact date | {Ayalon 2014@65-66}
 1674 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@67-68}
+1785 | 1786 | | famine | Aleppo | no exact date | {AlGhazzī 1991@240}
 1787 | 1792 |  | famine | Syria |  | {Douwes 2000@19-20}
 1826 | 1827 |  | famine | Syria |  | {Douwes 2000@124, 187}
-1734 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}
-1751 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@68}, al-Budayrī, {AlGhazzī 1991@233-234}
+1734 | 1735 |  | food riot | Aleppo | no exact date | {AlGhazzī 1991@232}{Ayalon 2014@68}
+1751 |  |  | food riot | Aleppo | no exact date, women climbed the minarets | {Ayalon 2014@68}, al-Budayrī, {AlGhazzī 1991@233-234}
 1743 |  |  | food riot | Damascus | no exact date, but July | {Ayalon 2014@68}{Grehan 1999@109,151}{Sajdi 2002@170}, al-Budayrī
 1745-07-21 |  |  | food riot | Damascus |  | {Ayalon 2014@68}{Grehan 1999@151, 152-154}, al-Budayrī
 1749 |  |  | food riot | Damascus | spring, crowds loot some bakeries | {Grehan 1999@158}, al-Budayrī
@@ -61,6 +63,7 @@ date | date.end | duration | type | location.name | comment | source
 1832-03-14 |  |  | food riot | Damascus | demonstrations against high prices of bread, theft on Ash Wednesday | {Büssow 2012@59-61} 
 1840 |  |  | food riot | Aleppo | no exact date | {Maoz 1968a@185}
 1841 |  |  | food riot | Aleppo | no exact date | {Maoz 1968a@185}
+1845 |  |  | famine | Aleppo | | {AlGhazzī 1991@280-281}
 1856 |  |  | food riot | Damascus | no exact date | {Maoz 1968a@185}
 1877-12-01 |  |  | food riot | Baghdad | no exact date | {Batatu 1978@470}{Herzog 2012@433-434}
 1878 | 1880 |  | famine | Iraq |  | {Herzog 2012@431}
@@ -70,7 +73,10 @@ date | date.end | duration | type | location.name | comment | source
 1880-08-01 |  |  | food riot | Baghdad | no exact date | {Herzog 2012@437}
 1763 |  |  | famine | Adana | no exact date | {Ayalon 2014@149}
 1728 |  |  | famine | Aleppo | no exact date | {Ayalon 2014@74}
-1757 |  |  | famine | Aleppo | no exact date | {Ayalon 2014@151}
+1758 |  |  | famine | Aleppo | no exact date | {AlGhazzī 1991@235}{Ayalon 2014@151}
+1758 |  |  | famine | Diyarbakir | no exact date | {AlGhazzī 1991@235}
+1758 |  |  | famine | Urfa | no exact date | {AlGhazzī 1991@235}
+1758 |  |  | famine | Mosul | no exact date | {AlGhazzī 1991@235}
 1770 |  |  | famine | Aleppo | no exact date | {Ayalon 2014@66}
 1695 |  |  | famine | Cairo | no exact date | {Ayalon 2014@68}
 1743 | 1745  |  | famine | Damascus | no exact date | {Ayalon 2014@68}
@@ -108,9 +114,15 @@ date | date.end | duration | type | location.name | comment | source
 1887 |  |  | drought | Adana |  | BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
 1887 |  |  | famine | Adana |  | BA5BEDE4-8F55-4842-8645-F6E6664DA3F7
 1819-10-23 |  |  | food riot | Aleppo | the revolt against the vali commenced, inter alia, as reaction to hoarding of grain by aʿyān | {Bodman 1963@133-134}
-1765-09-29 |  |  | food riot | Aleppo | crowd is forcibly dispersed, two people are executed | {Bodman 1963@21}
+1765-09-29 |  |  | food riot | Aleppo | crowd is forcibly dispersed, two people are executed | {Bodman 1963@21}{Marcus 1989@124}
 1915-12-27 |  |  | food riot | Jerusalem | crowds of men, women, and children gathering at the square at Bāb al-ʿUmūd, fighting each other to buy wheat | {Tamārī 2008a@286}{Tamari 2011@142}
 1879 |  | | food riot | Aleppo | due to high prices a crowd of poor marched to the Suqs; looted; military intervention | {AlGhazzī 1991@309}
 1880-03 | | | famine | Mosul | people are dying from hunger | D8E1B957-D974-40DC-9A4D-C961BBF982B5
 1880-03 | | | famine | Baghdad | people are dying from hunger | D8E1B957-D974-40DC-9A4D-C961BBF982B5
 1880-03 | | | famine | Kirkuk | people are dying from hunger | D8E1B957-D974-40DC-9A4D-C961BBF982B5
+1880-03 | | | food riot | Aleppo | mentioned in passing as result of the fall in value of the metallik | 4BB299B7-28B8-4B20-A8F4-89351CE2C80C
+1880-03 | | | food riot | Izmir | mentioned in passing as result of the fall in value of the metallik | 4BB299B7-28B8-4B20-A8F4-89351CE2C80C
+1880-03 | | | food riot | Rhodes | mentioned in passing as result of the fall in value of the metallik | 4BB299B7-28B8-4B20-A8F4-89351CE2C80C
+1880-03 | | | food riot | Trabzon | mentioned in passing as result of the fall in value of the metallik | 4BB299B7-28B8-4B20-A8F4-89351CE2C80C
+1880-03 | | | food riot | Mardin | mentioned in passing as result of the fall in value of the metallik | 4BB299B7-28B8-4B20-A8F4-89351CE2C80C
+1880-03 | | | food riot | Diyarbakir | mentioned in passing as result of the fall in value of the metallik | 4BB299B7-28B8-4B20-A8F4-89351CE2C80C
