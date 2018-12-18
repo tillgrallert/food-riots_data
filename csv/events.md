@@ -41,10 +41,12 @@ date | date.end | duration | type | location.name | comment | source
 1685 |  |  | famine | Aleppo |  no exact date | {Ayalon 2014@65-66}
 1674 |  |  | food riot | Aleppo | no exact date | {Ayalon 2014@67-68}
 1785 | 1786 | | famine | Aleppo | no exact date | {AlGhazzī 1991@240}
+1787 | | | famine | Allepo | | {Marcus 1989@131}
+1787 |  | | food riot | Aleppo | women gathering and cursing the aʿyān | {Marcus 1989@100}
 1787 | 1792 |  | famine | Syria |  | {Douwes 2000@19-20}
 1826 | 1827 |  | famine | Syria |  | {Douwes 2000@124, 187}
 1734 | 1735 |  | food riot | Aleppo | no exact date | {AlGhazzī 1991@232}{Ayalon 2014@68}
-1751 |  |  | food riot | Aleppo | no exact date, women climbed the minarets | {Ayalon 2014@68}, al-Budayrī, {AlGhazzī 1991@233-234}
+1751 |  |  | food riot | Aleppo | no exact date, women climbed the minarets | {Ayalon 2014@68}, al-Budayrī, {AlGhazzī 1991@233-234}{Marcus 1989@100}
 1743 |  |  | food riot | Damascus | no exact date, but July | {Ayalon 2014@68}{Grehan 1999@109,151}{Sajdi 2002@170}, al-Budayrī
 1745-07-21 |  |  | food riot | Damascus |  | {Ayalon 2014@68}{Grehan 1999@151, 152-154}, al-Budayrī
 1749 |  |  | food riot | Damascus | spring, crowds loot some bakeries | {Grehan 1999@158}, al-Budayrī
@@ -56,7 +58,9 @@ date | date.end | duration | type | location.name | comment | source
 1914-10-31 | 1918 |  | war | Ottoman Empire | World War I | 
 1790 |  |  | food riot | Istanbul | no exact date | {ThorntonSasmazer 2000@77, 117-118}
 1770 |  |  | food riot | Aleppo | no exact date | {Thieck 1985@§148}{Meriwether 1981@254}
+1792 | 1703 | | famine | Aleppo | | {Marcus 1989@131}
 1795 | 1797 |  | food riot | Istanbul | no exact date | {Ağır 2010@38-39}
+1804 |  | | famine | Aleppo | | {Marcus 1989@131}
 1807 |  |  | food riot | Istanbul | no exact date | {Yesilgöz 2004@211}{Ağır 2010@40}
 1811 |  |  | food riot | Damascus | fears of a riot? | {Philipp 2001@124}
 1813 |  |  | food riot | Acre | female food riot | {Philipp 2001@176}
