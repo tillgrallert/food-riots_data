@@ -3,19 +3,30 @@
 1695-01-01,"",NA,"famine","Cairo","no exact date","{Ayalon 2014@68}",2000-01-01
 1696-01-01,"",NA,"famine","Aleppo"," no exact date","{Ayalon 2014@65}",2000-01-01
 1728-01-01,"",NA,"famine","Aleppo","no exact date","{Ayalon 2014@74}",2000-01-01
-1743-01-01,"1745 ",NA,"famine","Damascus","no exact date","{Ayalon 2014@68}",2000-01-01
+1743-01-01,"1745",NA,"famine","Damascus","no exact date","{Ayalon 2014@68}",2000-01-01
 1745-01-01,"",NA,"famine","Aleppo"," no exact date","{Ayalon 2014@74}",2000-01-01
 1757-01-01,"1758",NA,"famine","Damascus"," no exact date","{Ayalon 2014@65}{Grehan 1999@142}",2000-01-01
-1757-01-01,"",NA,"famine","Aleppo","no exact date","{Ayalon 2014@151}",2000-01-01
+1758-01-01,"",NA,"famine","Aleppo","no exact date","{AlGhazzī 1991@235}{Ayalon 2014@151}",2000-01-01
+1758-01-01,"",NA,"famine","Diyarbakir","no exact date","{AlGhazzī 1991@235}",2000-01-01
+1758-01-01,"",NA,"famine","Urfa","no exact date","{AlGhazzī 1991@235}",2000-01-01
+1758-01-01,"",NA,"famine","Mosul","no exact date","{AlGhazzī 1991@235}",2000-01-01
 1763-01-01,"",NA,"famine","Adana","no exact date","{Ayalon 2014@149}",2000-01-01
 1770-01-01,"",NA,"famine","Aleppo","no exact date","{Ayalon 2014@66}",2000-01-01
+1785-01-01,"1786",NA,"famine","Aleppo","no exact date","{AlGhazzī 1991@240}",2000-01-01
+1787-01-01,"",NA,"famine","Allepo","","{Marcus 1989@131}",2000-01-01
 1787-01-01,"1792",NA,"famine","Syria","","{Douwes 2000@19-20}",2000-01-01
 1787-01-01,"1788",NA,"famine","Diyarbakır (towns around)"," no exact date","{Ayalon 2014@74}",2000-01-01
+1792-01-01,"1703",NA,"famine","Aleppo","","{Marcus 1989@131}",2000-01-01
+1804-01-01,"",NA,"famine","Aleppo","","{Marcus 1989@131}",2000-01-01
 1826-01-01,"1827",NA,"famine","Syria","","{Douwes 2000@124, 187}",2000-01-01
+1845-01-01,"",NA,"famine","Aleppo","","{AlGhazzī 1991@280-281}",2000-01-01
 1872-01-01,"1873",NA,"famine","Syria","","D4751B79-ACE4-4547-AEE1-DDDC6A88373C",2000-01-01
 1873-01-01,"1875",NA,"famine","Anatolia","","{Ertem 2017}",2000-01-01
 1878-01-01,"1880",NA,"famine","Iraq","","{Herzog 2012@431}",2000-01-01
 1879-01-01,"1881",NA,"famine","Anatolia","","{Ertem 2017}",2000-01-01
+1880-03-01,"",NA,"famine","Mosul","people are dying from hunger","D8E1B957-D974-40DC-9A4D-C961BBF982B5",2000-03-01
+1880-03-01,"",NA,"famine","Baghdad","people are dying from hunger","D8E1B957-D974-40DC-9A4D-C961BBF982B5",2000-03-01
+1880-03-01,"",NA,"famine","Kirkuk","people are dying from hunger","D8E1B957-D974-40DC-9A4D-C961BBF982B5",2000-03-01
 1887-01-01,"",NA,"famine","southern Anatolia","famine in southern Anatolia stabelising grain prices in Syria","33293364-3170-402E-B2DA-71D3497ED37B 730D6686-0713-41E3-B586-9E661A16576D BA5BEDE4-8F55-4842-8645-F6E6664DA3F7",2000-01-01
 1887-01-01,"",NA,"famine","Cilicia","","730D6686-0713-41E3-B586-9E661A16576D",2000-01-01
 1887-01-01,"",NA,"famine","Adana","","BA5BEDE4-8F55-4842-8645-F6E6664DA3F7",2000-01-01
