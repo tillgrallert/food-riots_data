@@ -4808,12 +4808,12 @@
       <tei:measureGrp location="Beirut" source="AF97EEE3-811A-49F5-90AF-B6CF5F3DADDA" when="1910-08-16">
             <tei:measure commodity="newspaper" location="Beirut" quantity="1" type="NA" unit="issue" when="1910-08-16">copy</tei:measure>costs             
             <tei:measure commodity="currency" location="Beirut" quantity="1" type="NA" unit="metallik" when="1910-08-16">1 metallik</tei:measure></tei:measureGrp>
-      <tei:measureGrp location="Damascus" source="2A9087F2-E7C6-4BC4-84F9-31AF6FF7D268" when="1910-08-16">current price of             
-            <tei:measure change="#regularized" commodity="wheat" location="Damascus" quantity="1" quantityOrig="1" type="volume" unit="kile" unitOrig="shunbul" when="1910-08-16">a shunbul of Aleppo wheat</tei:measure>
+      <tei:measureGrp location="Aleppo" source="2A9087F2-E7C6-4BC4-84F9-31AF6FF7D268" when="1910-08-16">current price of             
+            <tei:measure change="#regularized" commodity="wheat" location="Aleppo" quantity="1" quantityOrig="1" type="volume" unit="kile" unitOrig="shunbul" when="1910-08-16">a shunbul of Aleppo wheat</tei:measure>
             costs between             
-            <tei:measure change="#regularized" commodity="currency" location="Damascus" quantity="2.50000002" quantityOrig="90" type="currency" unit="ops" when="1910-08-16">Ps 90</tei:measure>
+            <tei:measure change="#regularized" commodity="currency" location="Aleppo" quantity="30" quantityOrig="90" type="currency" unit="ops" when="1910-08-16">Ps 90</tei:measure>
             and             
-            <tei:measure change="#regularized" commodity="currency" location="Damascus" quantity="3.250000026" quantityOrig="117" type="currency" unit="ops" when="1910-08-16">Ps 117</tei:measure></tei:measureGrp>
+            <tei:measure change="#regularized" commodity="currency" location="Aleppo" quantity="39" quantityOrig="117" type="currency" unit="ops" when="1910-08-16">Ps 117</tei:measure></tei:measureGrp>
       <tei:measureGrp location="Beirut" source="4E613ECF-2A5A-4426-9DED-420DFEE01B2C" when="1910-08-18">
             <tei:measure change="#regularized" commodity="currency" location="Beirut" quantity="0.136986301369863" quantityOrig="50" type="currency" unit="ops" when="1910-08-18">Ps 50</tei:measure>per             
             <tei:measure change="#regularized" commodity="newspaper" location="Beirut" quantity="1" quantityOrig="1" type="time" unit="day" unitOrig="year" when="1910-08-18">year</tei:measure></tei:measureGrp>
