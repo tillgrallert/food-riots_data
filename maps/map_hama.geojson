@@ -10,6 +10,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
         "marker-symbol": 1,
         "name": "Serail"
       },
@@ -24,6 +26,8 @@
         ]
       },
       "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
         "marker-symbol": "town-hall",
         "name": "Municipality"
       },
@@ -1332,6 +1336,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669d34",
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "al-Nūrī Mosque"
@@ -1347,6 +1352,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669d34",
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "Great Mosque"
@@ -1362,6 +1368,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "college",
         "name": "Lycée"
@@ -1380,7 +1387,7 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 1,
-        "fill": "#f05d65",
+        "fill": "#ff9300",
         "fill-opacity": 0.5,
         "name": "commercial area"
       },
@@ -1461,6 +1468,38 @@
               35.13093004178304
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.756144762039185,
+          35.13207948827342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73956871032715,
+          35.130649258495104
         ]
       }
     }

@@ -546,11 +546,11 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "fill": "#f05d65",
+        "fill": "#ff9300",
         "stroke-width": 0,
         "stroke-opacity": 0.5,
         "fill-opacity": 0.5,
-        "name": "Sūqs"
+        "name": "Suqs"
       },
       "geometry": {
         "type": "Polygon",
@@ -655,7 +655,7 @@
     {
       "type": "Feature",
       "properties": {
-        
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "coach road station?"
@@ -743,6 +743,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "town-hall",
         "name": "baladiyya"
@@ -758,7 +759,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "cafe",
         "name": "Café al-Rawḍā"
@@ -774,7 +774,7 @@
     {
       "type": "Feature",
       "properties": {
-        
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "Serail"
@@ -805,7 +805,7 @@
     {
       "type": "Feature",
       "properties": {
-        
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "old serail"
@@ -821,7 +821,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "school",
         "name": "iṣlāḥḫāne"
@@ -1016,7 +1015,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#669d34",
         "fill-opacity": 0.5,
         "name": "(Great) al-Nūrī Mosque"
       },
@@ -1051,7 +1050,7 @@
     {
       "type": "Feature",
       "properties": {
-        
+        "marker-color": "#669d34",
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "al-Dalātī Mosque"
@@ -1067,6 +1066,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Bureau de la Place"
@@ -1085,7 +1085,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#669d34",
         "fill-opacity": 0.5,
         "name": "Khālid bin Walīd Mosque"
       },
@@ -1128,9 +1128,10 @@
     {
       "type": "Feature",
       "properties": {
-        
+        "marker-color": "#669d34",
         "marker-size": "medium",
-        "marker-symbol": "religious-muslim"
+        "marker-symbol": "religious-muslim",
+        "name": "(Great) al-Nūrī Mosque"
       },
       "geometry": {
         "type": "Point",
@@ -1143,8 +1144,10 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669d34",
         "marker-size": "medium",
-        "marker-symbol": "religious-muslim"
+        "marker-symbol": "religious-muslim",
+        "name": "Khālid bin Walīd Mosque"
       },
       "geometry": {
         "type": "Point",
@@ -1157,6 +1160,8 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#0432ff",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
@@ -1187,6 +1192,22 @@
               34.72993901167026
             ]
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.711239218711846,
+          34.731477643410784
         ]
       }
     }

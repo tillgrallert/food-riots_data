@@ -1660,6 +1660,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
         "marker-symbol": 1,
         "name": "(New) Serail"
       },
@@ -1674,6 +1676,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "town-hall",
         "name": "municipality"
@@ -1719,6 +1722,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Ḥamīdiyya barracks"
       },
       "geometry": {
@@ -1817,6 +1823,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#669d34",
+        "fill-opacity": 0.5,
         "name": "Umayyad Mosque"
       },
       "geometry": {
@@ -1850,6 +1861,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0432ff",
+        "fill-opacity": 0.5,
         "name": "citadel"
       },
       "geometry": {
@@ -1910,6 +1926,8 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#0432ff",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
@@ -1946,6 +1964,8 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#0432ff",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
@@ -1986,6 +2006,8 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#0432ff",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
@@ -2080,6 +2102,7 @@
     {
       "type": "Feature",
       "properties": {
+        "fill": "#0432ff",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
@@ -2116,8 +2139,10 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669d34",
         "marker-size": "medium",
-        "marker-symbol": "religious-muslim"
+        "marker-symbol": "religious-muslim",
+        "name": "Umayyad Mosque"
       },
       "geometry": {
         "type": "Point",
@@ -2174,8 +2199,9 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 1,
-        "fill": "#f05d65",
-        "fill-opacity": 0.5
+        "fill": "#ff9300",
+        "fill-opacity": 0.5,
+        "name": "Suqs"
       },
       "geometry": {
         "type": "Polygon",
@@ -2303,7 +2329,7 @@
         "stroke": "#555555",
         "stroke-width": 0,
         "stroke-opacity": 1,
-        "fill": "#f05d65",
+        "fill": "#ff9300",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -2389,6 +2415,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "(Old) Serail"
@@ -2413,6 +2440,70 @@
         "coordinates": [
           36.297798156738274,
           33.51286388563217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29805564880371,
+          33.51261341702248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29783034324646,
+          33.512720760801116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2966126203537,
+          33.51292650267132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2978732585907,
+          33.51264025297962
         ]
       }
     }

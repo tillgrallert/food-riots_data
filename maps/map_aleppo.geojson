@@ -30,6 +30,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
         "marker-symbol": "town-hall",
         "name": "Municipality"
       },
@@ -44,6 +46,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "army barracks"
       },
       "geometry": {
@@ -57,8 +62,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "1",
-        "name": "Serail"},
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": 1,
+        "name": "Serail"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
