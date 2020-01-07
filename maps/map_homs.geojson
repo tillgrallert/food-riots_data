@@ -4,6 +4,70 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.711239218711846,
+          34.731477643410784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.72351837158203,
+          34.73008009084495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.70878767967224,
+          34.72857229469964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.703723669052124,
+          34.72158845911744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-symbol": "rail",
         "name": "railway station"
       },
@@ -374,6 +438,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#929292",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Bāb Tadmur"
       },
       "geometry": {
@@ -655,7 +722,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#929292",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "coach road station?"
@@ -671,6 +738,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#929292",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "clock tower"
@@ -686,6 +754,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#929292",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "khānāt"
@@ -759,6 +828,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff9300",
         "marker-size": "medium",
         "marker-symbol": "cafe",
         "name": "Café al-Rawḍā"
@@ -790,6 +860,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#929292",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Bāb al-Drīb"
@@ -821,6 +892,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "school",
         "name": "iṣlāḥḫāne"
@@ -1192,22 +1264,6 @@
               34.72993901167026
             ]
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff2600",
-        "marker-size": "large",
-        "marker-symbol": "",
-        "name": "food riot, 1910"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.711239218711846,
-          34.731477643410784
         ]
       }
     }
