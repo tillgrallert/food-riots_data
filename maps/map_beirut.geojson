@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": 1,
         "name": "Government Serail",
@@ -34,72 +35,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 0,
-        "stroke-opacity": 1,
-        "fill": "#f05d65",
-        "fill-opacity": 0.5,
-        "name": "sūqs"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              35.502469539642334,
-              33.89873878060835
-            ],
-            [
-              35.5048942565918,
-              33.89815103555081
-            ],
-            [
-              35.505216121673584,
-              33.89916622901471
-            ],
-            [
-              35.505430698394775,
-              33.9005019914736
-            ],
-            [
-              35.505280494689934,
-              33.90092943104087
-            ],
-            [
-              35.505216121673584,
-              33.90128562904336
-            ],
-            [
-              35.50487279891968,
-              33.90139248815394
-            ],
-            [
-              35.50405740737915,
-              33.90153496675971
-            ],
-            [
-              35.50356388092041,
-              33.901481537310445
-            ],
-            [
-              35.50334930419922,
-              33.90103629059787
-            ],
-            [
-              35.503199100494385,
-              33.900395131246974
-            ],
-            [
-              35.502469539642334,
-              33.89873878060835
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "marker-color": "#0432ff",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
         "name": "quarantine station"
       },
       "geometry": {
@@ -140,8 +78,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "police",
         "name": "customs"
       },
       "geometry": {
@@ -158,7 +97,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#0432ff",
         "fill-opacity": 0.5,
         "name": "imperial barracks"
       },
@@ -1208,7 +1147,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#0432ff",
         "fill-opacity": 0.5,
         "name": "iṣlāhḫāne"
       },
@@ -1243,6 +1182,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "hospital",
         "name": "municipal hospital"
@@ -1321,7 +1261,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#0432ff",
         "fill-opacity": 0.5,
         "name": "Government Serail",
         "comment": "Inaugurated shortly before the establishment of the Province of Beirut in 1888. For a short period of time the municipality was located in this building"
@@ -1398,7 +1338,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#0432ff",
         "fill-opacity": 0.5,
         "name": "municipality",
         "comment": "The current building of the municipality was erected during the early years of the French Mandate"
@@ -1437,7 +1377,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#669d34",
         "fill-opacity": 0.5,
         "name": "al-ʿUmarī Mosque"
       },
@@ -1472,6 +1412,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669d34",
         "marker-size": "medium",
         "marker-symbol": "religious-muslim",
         "name": "al-ʿUmarī Mosque"
@@ -1487,6 +1428,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "town-hall",
         "name": "baladiyya"
@@ -1502,6 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#0432ff",
         "marker-size": "medium",
         "marker-symbol": "police",
         "name": "barracks of light cavalry"
@@ -1517,6 +1460,73 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 0,
+        "stroke-opacity": 1,
+        "fill": "#ff9300",
+        "fill-opacity": 0.5,
+        "name": "Suqs"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              35.502469539642334,
+              33.89873878060835
+            ],
+            [
+              35.5048942565918,
+              33.89815103555081
+            ],
+            [
+              35.505216121673584,
+              33.89916622901471
+            ],
+            [
+              35.505430698394775,
+              33.9005019914736
+            ],
+            [
+              35.505280494689934,
+              33.90092943104087
+            ],
+            [
+              35.505216121673584,
+              33.90128562904336
+            ],
+            [
+              35.50487279891968,
+              33.90139248815394
+            ],
+            [
+              35.50405740737915,
+              33.90153496675971
+            ],
+            [
+              35.50356388092041,
+              33.901481537310445
+            ],
+            [
+              35.50334930419922,
+              33.90103629059787
+            ],
+            [
+              35.503199100494385,
+              33.900395131246974
+            ],
+            [
+              35.502469539642334,
+              33.89873878060835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff9300",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Sūq Sursuq",
@@ -1527,6 +1537,38 @@
         "coordinates": [
           35.500052869319916,
           33.90007009723442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50727605819702,
+          33.896708371415954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "food riot, 1908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.506449937820435,
+          33.90076023646839
         ]
       }
     }
