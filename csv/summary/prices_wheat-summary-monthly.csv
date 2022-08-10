@@ -1,4 +1,4 @@
-"month","count","mean.price.min","mean.price.max","median.min","median.max","sd.min","sd.max"
+"month","count","mean.min","mean.max","median.min","median.max","sd.min","sd.max"
 1832-01-01,1,18,NA,18,NA,NA,NA
 1858-01-01,4,14,16.75,14,16.5,3.2659863237109,4.11298755975102
 1858-03-01,3,12,NA,13,NA,2.64575131106459,NA
